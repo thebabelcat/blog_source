@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
+
+{% block header %}
+<!-- Page Header -->
+<div class="page-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <h1>Articoli con tag: {{ tag }}</h1>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /Page Header -->
+{% endblock %}
+
+{% block content %}
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2>Articoli recenti</h2>
+                </div>
+            </div>
+
+            <!-- posts -->
+            <div class="col-md-8">
+
+                {% for article in articles %}
+                <!-- post -->
+                <div class="col-md-6">
+                    <div class="post">
+                        <a class="post-img" href="/{{ article.url }}"><img src="/images/{{ article.slug }}/thumb.jpg" alt=""></a>
+                        <div class="post-body">
+                            <div class="post-meta">
+                                {% set num = categories | index_category(article.category.name) %}
+                                <a class="post-category cat-{{ num }}" href="/{{ article.category.url }}">{{ article.category }}</a>
+                                <span class="post-date"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                            </div>
+                            <h3 class="post-title"><a href="/{{ article.url }}">{{ article.title }}</a></h3>
+                        </div>
+                    </div>
+                </div>
+                <!-- /post -->
+                
+                {% if loop.index % 2 == 0 %}
+                <div class="clearfix visible-md visible-lg"></div>
+                {% endif %}
+
+                {% endfor %}
+
+            </div>
+            <!-- /posts -->
+
+            <!-- labels -->
+            <div class="col-md-4">
+
+                {% include 'includes/categories_list.html' %}
+                {% include 'includes/tags_list.html' %}
+
+            </div>
+            <!-- /labels -->
+
+        </div>
+        <!-- /row -->
+
+    </div>
+    <!-- /container -->
+</div>
+<!-- /section -->
+{% endblock %}

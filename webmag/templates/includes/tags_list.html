@@ -1,0 +1,14 @@
+<!-- Tags -->
+<div class="aside-widget">
+    <div class="section-title">
+        <h2>Articoli per tag</h2>
+    </div>
+    <div class="tags-widget">
+        <ul>
+            {% for tag in tags | map(attribute=0) %}
+            <li><a href="/{{ tag.url }}">{{ tag.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<!-- /Tags -->
