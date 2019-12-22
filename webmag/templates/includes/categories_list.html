@@ -1,0 +1,14 @@
+<!-- Categories -->
+<div class="aside-widget">
+    <div class="section-title">
+        <h2>Articoli per categoria</h2>
+    </div>
+    <div class="category-widget">
+        <ul>
+            {% for cat in categories | map(attribute=0) %}
+            <li><a href="/{{ cat.url }}" class="cat-{{ loop.index }}">{{ cat.name }}<span>{{ categories | articles_category(cat.name) }}</span></a></li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<!-- /Categories -->

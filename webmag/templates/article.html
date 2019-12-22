@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title|striptags }} - {{ SITENAME }}{% endblock %}
+
+{% block header %}
+<!-- Page Header -->
+<div id="post-header" class="page-header">
+    <div class="background-img" style="background-image: url('/images/{{ article.slug }}/banner.jpg');"></div>
+</div>
+<!-- /Page Header -->
+{% endblock %}
+
+{% block content %}
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+
+            <!-- Post content -->
+            <div class="col-md-8">
+                <div class="main-post">
+                    <div class="post-meta">
+                        {% set num = categories | index_category(article.category.name) %}
+                        <a class="post-category cat-{{ num }}" href="/{{ article.category.url}}">{{ article.category }}</a>
+                        <span class="post-date"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+                    </div>
+                    <h1>{{ article.title }}</h1>
+                    
+                    <div class="tags-widget">
+                        <ul>
+                            {% for tag in article.tags %}
+                            <li><a href="/{{ tag.url }}">{{ tag.name }}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+
+                    {{ article.content }}
+                </div>
+            </div>
+            <!-- /Post content -->
+
+            <!-- aside -->
+            <div class="col-md-4">
+                <!-- post widget -->
+                <div class="aside-widget">
+                    <div class="section-title">
+                        <h2>Articoli correlati</h2>
+                    </div>
+
+                    {% if article and article.related_posts %}
+                    {% for article in article.related_posts[:3] %}
+                    <div class="post post-widget">
+                        <a class="post-img" href="/{{ article.url }}"><img src="/images/{{ article.slug }}/widget.jpg" alt=""></a>
+                        <div class="post-body">
+                            <h3 class="post-title"><a href="/{{ article.url }}">{{ article.title }}</a></h3>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    {% endif %}
+
+                </div>
+                <!-- /post widget -->
+
+                {% include 'includes/categories_list.html' %}
+                
+                {% include 'includes/tags_list.html' %}
+                
+            </div>
+            <!-- /aside -->
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /section -->
+{% endblock %}
