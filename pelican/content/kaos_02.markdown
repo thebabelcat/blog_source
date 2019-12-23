@@ -8,6 +8,8 @@ Summary: Il secondo numero di KAOS copre il secondo gioco di ruolo più importan
 
 È trascorso un mese dal primo numero e KAOS esce con un secondo numero altrettanto ricco. Dopo il grande vecchio Dungeons & Dragons la redazione della Granata Press rivolge lo sguardo al secondo gioco di ruolo più importante creato negli anni 80 e tuttora in attività, Call of Cthulhu della Chaosium. Un gioco che sta agli antipodi del D&D e del "power gaming", dove il giocatore punta a massimizzare il più possibile il potere del proprio personaggio.
 
+![Image 01](/images/kaos-01/01.jpg){class="img-responsive"}
+
 In Dungeons & Dragons le regole stesse tendono a creare dei personaggi che diventano abbastanza velocemente delle "macchine da guerra" intoccabili, a prescindere dal numero degli attaccanti. Il destino dei personaggi è quello di confrontarsi con mostri sempre più potenti, di acquisire caratteristiche dai valori sempre più elevati e infine di ascendere ai livelli immortali.
 
 Lovecraft popola il mondo del suo New England alternativo di divinità malvagie contro cui l'uomo non solo non può pensare di combattere, ma non ha alcuna speranza. Il mondo del solitario di Providence è negativo, è pessimista, e il gioco di ruolo progettato da Sandy Petersen incarna perfettamente queste caratteristiche. Un gioco in cui i giocatori partono non solo svantaggiati, ma fondamentalmente già morti, sull'orlo costante della pazzia, dove scongiurare il peggio è la vittoria più grandiosa.
@@ -57,13 +59,17 @@ Il dossier si apre con un articolo di Mirko Tavosanis dal titolo "Il 'nuovo' orr
 > Il nome di Howard Phillips Lovecraft (nato a Providence, Rhode Island, nel 1890 e ivi scomparso nel 1937), negli ultimi tempi ha conosciuto in Italia e all'estero una notevolissima diffusione. Ma, in sostanza, in che cosa consiste la sua narrativa? Fisicamente, in tre romanzi più o meno completati (l'autore stesso, per esempio, non considerò mai finito _Alla ricerca del misterioso Kadath_) e in circa ottanta racconti di varia lunghezza. Per quel che riguarda i contenuti, poi, il nome di Lovecraft viene di solito associato alla paura o al fantastico in modo abbastanza superficiale, dato che le sue creazioni più riuscite - o comunque più famose - sono quelle che presentano un originale impasto di orrore e fantascienza: i racconti che August Derleth definì dei 'Miti di Cthulhu', e che meglio andrebbero indicati come 'Ciclo di Yog-Sothoth', secondo il parere di Dirk W. Mosig, l'interprete più attento di queste opere.
 > Presupposto di questi scritti, che Lovecraft cominciò a sistemare in modo organico a partire dal 1926 (l'anno in cui fu scritto _Il richiamo di Cthulhu_), è indatti l'affiorare alla coscienza umana della consapevolezza di vivere in un universo meccanicistico e immerso nel caos, una visione contro la quale l'unica difesa possibile è chiudere gli occhi per non vedere. In altre parole, come dice l'autore: «Viviamo su una placida isola d'ignoranza in mezzo a neri mari d'infinito e non era previsto che ce ne spingessimo troppo lontano. Le scienza, che finora hanno proseguito ognuna per la sua strada, non ci hanno arrecato troppo danno: ma la ricomposizione del quadro d'insieme ci aprirà un giorno visioni così terrificanti della realtà del posto che noi occupiamo in essa, che o impazziremo per la rivelazione o fuggiremo dalla luce mortale nella pace e nella sicurezza di una nuova età oscura». (dall'inizio de _Il richiamo di Cthulhu_, in _Tutti i racconti 1923-1926_, Mondadori).
 
+![Image 11](/images/kaos-02/11.jpg){class="img-responsive"}
+
 Si prosegue con "Tutto Cthulhu" di Roberto Di Meglio, che discute più in dettaglio la nascita del gioco di ruolo edito dalla Chaosium, delle meccaniche di gioco e di come giocare a RdC.
 
-> DImenticate le sfide gloriose tipiche delle saghe di 'heroic fantasy' che potete vivere in giochi come _Dungeons & Dragons_. _Il richiamo di Cthulhu_ non vi lascerà spazio per imprese magnifiche, uccisioni di mostri tremendi, vittorie sfolgoranti. Qui interpreterete spesso la parte della vittima [...] Di tanto in tanto, assistiti dalla fortuna, riuscirete a cogliere una fugace vittoria [...] Nonostante tutto ciò... amerete _Il richiamo di Cthulhu_.
+> Dimenticate le sfide gloriose tipiche delle saghe di 'heroic fantasy' che potete vivere in giochi come _Dungeons & Dragons_. _Il richiamo di Cthulhu_ non vi lascerà spazio per imprese magnifiche, uccisioni di mostri tremendi, vittorie sfolgoranti. Qui interpreterete spesso la parte della vittima [...] Di tanto in tanto, assistiti dalla fortuna, riuscirete a cogliere una fugace vittoria [...] Nonostante tutto ciò... amerete _Il richiamo di Cthulhu_.
 
 Un articoletto ironico a firma di Urgh l'orchetto, "Le righe perdute di Cthulhu", tratta (confusamente) della traduzione di Call of Cthulhu ad opera della Stratelibri, che, nonostante avesse la copertina della quarta edizione, conteneva il testo della terza edizione americana.
 
 Andrea Bartoli tratta successivamente dei mondi di Cthulhu nel suo articolo "Variazioni sul tema: i mondi e le avventure di Cthulhu". Si fa il punto su moduli e scenari pubblicati per il gioco dalla Chaosium e da altre ditte.
+
+![Image 16](/images/kaos-02/16.jpg){class="img-responsive"}
 
 "Arkham Horror, il boardgame dei Miti di Cthulhu" di Gianna Masetti presenta il gioco da tavolo la cui terza edizione ha visto la luce nel 2019. "I giochi di ruolo horror" di Luca Giuliano amplia la trattazione ad altri titoli come _Chill_ della Mayfair, _Beyond the Supernatural_ della Palladium, e altri, tra cui l'italiano _Il gioco di ruolo di Dylan Dog_ edito dalla DAS.
 
@@ -97,6 +103,10 @@ Roberto Sedda dispensa dei "Suggerimenti per giocare un ruolo (e divertirsi)" tr
 
 L'autore di questo blog ritiene che Roberto Di Meglio sia un viaggiatore del tempo e che con questo commento abbia ampiamente dimostrato di aver visto in anticipo il 2019.
 
+![Image 63](/images/kaos-01/63.jpg){class="img-responsive"}
+
 Proseguono i "Racconti di taverna", mentre Michele D'Agostino propone un pezzo dal titolo "Il wargame tridimensionale - giocare a tutte le età con i soldatini".
 
+# Conclusione
 
+KAOS prosegue a gonfie vele, altre 68 pagine zeppe di informazioni e di succulenti dettagli sul gioco di ruolo e quanto ci gravita intorno. Il 1991 non poteva essere più roseo per i giocatori italiani! A quando il numero 3?
