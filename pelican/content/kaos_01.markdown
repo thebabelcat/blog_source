@@ -117,3 +117,5 @@ Tra le rubriche di questo numero troviamo un "Dietro le quinte di Dylan Dog" di 
 # Conclusione
 
 68 pagine al fulmicotone! Benzina pura per me che, al tempo quattordicenne, non vedevo l'ora di leggere notizie riguardanti questo mondo vastissimo del gioco di ruolo. Nel 1991 Internet era ancora ben lontana dall'essere una realtà effettiva e soprattutto dal plasmare la vita quotidiana come fa attualmente, e potrei dire, parafrasando Roger Taylor, che "tutto ciò che dovevo sapere lo leggevo sulla mia rivista".
+
+KAOS numero 1 è disponibile sul [sito di Retroedicola](https://www.retroedicola.com/index.php?pid=sezioni&sezione_id=10&testata_id=203&tipo=RIVISTA)
