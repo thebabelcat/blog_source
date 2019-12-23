@@ -110,3 +110,5 @@ Proseguono i "Racconti di taverna", mentre Michele D'Agostino propone un pezzo d
 # Conclusione
 
 KAOS prosegue a gonfie vele, altre 68 pagine zeppe di informazioni e di succulenti dettagli sul gioco di ruolo e quanto ci gravita intorno. Il 1991 non poteva essere più roseo per i giocatori italiani! A quando il numero 3?
+
+KAOS numero 2 è disponibile sul [sito di Retroedicola](https://www.retroedicola.com/index.php?pid=sezioni&sezione_id=10&testata_id=203&tipo=RIVISTA)
