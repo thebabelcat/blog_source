@@ -24,7 +24,7 @@ L'editoriale del numero 1 presenta immediatamente una facciata spiritosa, con un
 
 Così recita la parte seria dell'editoriale
 
-> Riempire questo spazio vuoto tra il sommario e bordo pagina, ne siamo sicuri, ci costerà più fatica di tutto il resto del giornale; ma, dato che questo è il primo numero, ce la possiamo cavare abbastanza elegantemente provando a spiegarvi che cosa vuole essere KAOS. Come ogni entità caotica (per esempio Cthulhu; se non sapete chi è compratevi anche il prossimo numero) KAOS sfugge a una definizione semplicistica. Non è solo una rivista di giochi. Intanto perché di molti giochi qui non sentirete mai parlare: niente scacchi, niente backgammon, niente bridge; in secondo luogo, perché si scriverà di tante cose che giochi non sono o, almento, non nel senso classico del termine: film, fumetti, libri, musica. Qual è, allora, il nostro filo conduttore? Il nostro viaggio parte dai 'giochi di ruolo' (se non sapete cosa sono non preoccupatevi, lo scoprirete presto) e segue le tracce del fantastico, cercando di scoprire i diversi aspetti che assume incontrandosi con il nostro quotidiano. Su ognuna di queste forme ('media', per dirlo con termine più alla moda) ci soffermeremo un poco. Il nostro scopo è cercare di fare una rivista come quella che, da appassionati di giochi e sognatori incalliti, vorremmo leggere. E, possibilmente, come quella che voi vorreste leggere. Prima di emettere l'ardua sentenza, date un'occhiata alle altre 63 pagine...
+> Riempire questo spazio vuoto tra il sommario e bordo pagina, ne siamo sicuri, ci costerà più fatica di tutto il resto del giornale; ma, dato che questo è il primo numero, ce la possiamo cavare abbastanza elegantemente provando a spiegarvi che cosa vuole essere KAOS. Come ogni entità caotica (per esempio Cthulhu; se non sapete chi è compratevi anche il prossimo numero) KAOS sfugge a una definizione semplicistica. Non è solo una rivista di giochi. Intanto perché di molti giochi qui non sentirete mai parlare: niente scacchi, niente backgammon, niente bridge; in secondo luogo, perché si scriverà di tante cose che giochi non sono o, almeno, non nel senso classico del termine: film, fumetti, libri, musica. Qual è, allora, il nostro filo conduttore? Il nostro viaggio parte dai 'giochi di ruolo' (se non sapete cosa sono non preoccupatevi, lo scoprirete presto) e segue le tracce del fantastico, cercando di scoprire i diversi aspetti che assume incontrandosi con il nostro quotidiano. Su ognuna di queste forme ('media', per dirlo con termine più alla moda) ci soffermeremo un poco. Il nostro scopo è cercare di fare una rivista come quella che, da appassionati di giochi e sognatori incalliti, vorremmo leggere. E, possibilmente, come quella che voi vorreste leggere. Prima di emettere l'ardua sentenza, date un'occhiata alle altre 63 pagine...
 > 
 > (LA REDAZIONE)
 
@@ -45,8 +45,6 @@ Nelle news di questo numero troviamo
 **B 1-9, In cerca di avventura** - Editore: Editrice Giochi - Prezzo: N.P.
 
 **GiRSA ovvero Il Gioco di Ruolo del SIgnore degli Anelli** - Editore: I.C.E./Stratelibri - Prezzo: L. 44.000
-
-## Incantiere
 
 In questo numero viene segnalato che la fanzine Spellbook diventa una pubblicazione non periodica. La **Black-Out** di Modena annuncia tre nuovi moduli per I Signori del Caos e l'avventura "Neve sporca" per Figli dell'olocausto, mentre la **DAS Production** prevede da settembre di pubblicare bimestralmente avventure per il Gioco di Ruolo di Dylan Dog. La **Editrice Giochi** si prefigge di pubblicare la quarta edizione di Dungeons & Dragons nel corso del prossimo anno, mentre lo **Studio Vit** pubblica la seconda edizione di "Serie A - il gioco più bello del mondo, dopo il calcio". **E-Elle** annuncia una pubblicazione semestrale, per adesso anonima, dedicata a Kata Kubas, I cavalieri del tempio e Holmes & Co. La **Ripa** ha pubblicato le versioni in italiano di Advanced Hero Quest e Talisman. Si annuncia che la **Simulmondo** farà uscire a novembre "Dylan Dog: gli uccisori" un videogioco per Amiga, PC e Commodore 64.
 
@@ -106,7 +104,7 @@ Roberto Di Meglio e Simone Peruzzi ci presentano un breve libro-game che ha per 
 
 Il fumetto di questo numero è "Leggende delle contrade dimenticate 1: La stagione delle ceneri" di Chevalier e Ségur, tradotto da Luigi Bernardi.
 
-> Tre nani in missione segretissima, lontani dalle loro terre, in _contrade dimenticate_, alle prese con fanua e flora ostile. Questo potrebbe essere il riassunto essenziale della prima parte de _Leggende delle contrade dimenticate_, una delle più interessanti saghe fantasy a fumetti prodotte negli ultimi anni.
+> Tre nani in missione segretissima, lontani dalle loro terre, in _contrade dimenticate_, alle prese con fauna e flora ostile. Questo potrebbe essere il riassunto essenziale della prima parte de _Leggende delle contrade dimenticate_, una delle più interessanti saghe fantasy a fumetti prodotte negli ultimi anni.
 
 ![Image 46](/images/kaos-01/46.jpg){class="img-responsive"}
 
