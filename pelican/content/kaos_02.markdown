@@ -8,15 +8,13 @@ Summary: Il secondo numero di KAOS copre il secondo gioco di ruolo più importan
 
 È trascorso un mese dal primo numero e KAOS esce con un secondo numero altrettanto ricco. Dopo il grande vecchio Dungeons & Dragons la redazione della Granata Press rivolge lo sguardo al secondo gioco di ruolo più importante creato negli anni 80 e tuttora in attività, Call of Cthulhu della Chaosium. Un gioco che sta agli antipodi del D&D e del "power gaming", dove il giocatore punta a massimizzare il più possibile il potere del proprio personaggio.
 
-![Image 01](/images/kaos-01/01.jpg){class="img-responsive"}
+![Image 01](/images/kaos-02/01.jpg){class="img-responsive"}
 
 In Dungeons & Dragons le regole stesse tendono a creare dei personaggi che diventano abbastanza velocemente delle "macchine da guerra" intoccabili, a prescindere dal numero degli attaccanti. Il destino dei personaggi è quello di confrontarsi con mostri sempre più potenti, di acquisire caratteristiche dai valori sempre più elevati e infine di ascendere ai livelli immortali.
 
 Lovecraft popola il mondo del suo New England alternativo di divinità malvagie contro cui l'uomo non solo non può pensare di combattere, ma non ha alcuna speranza. Il mondo del solitario di Providence è negativo, è pessimista, e il gioco di ruolo progettato da Sandy Petersen incarna perfettamente queste caratteristiche. Un gioco in cui i giocatori partono non solo svantaggiati, ma fondamentalmente già morti, sull'orlo costante della pazzia, dove scongiurare il peggio è la vittoria più grandiosa.
 
 Sette edizioni nel giro di poco meno di vent'anni, anche se Petersen lasciò la Chaosium nel 1998 assieme al presidente Greg Stafford, sei anni dopo la pubblicazione della quinta edizione. Petersen e Stafford sono due pilastri del gioco di ruolo, e dedicherò a loro un altro articolo, perché c'è troppo da dire su questi due autori. Anche Lovecraft meriterà più di un articolo, per cui per ora mi fermo e do la parola alla redazione di KAOS.
-
-![Image 01](/images/kaos-02/01.jpg){class="img-responsive"}
 
 # News
 
@@ -52,6 +50,8 @@ Il Videotel (un primo tentativo di rete informatica della SIP, in funzione dal 1
 
 La **Interno Giallo Editore**, fondata nel 1989 dall'ex curatore di Urania Marco Tropea e da Laura Grimaldi, di presenta con un'iniziativa editoriale piuttosto variegata, che spazia dal giallo alla fantascienza.
 
+![Image 07](/images/kaos-02/07.jpg){class="img-responsive"}
+
 # Dossier - Il Richiamo di Cthulhu
 
 Il dossier si apre con un articolo di Mirko Tavosanis dal titolo "Il 'nuovo' orrore di Lovecraft" che traccia un profilo dello scrittore americano e della sua opera così peculiare.
@@ -79,13 +79,13 @@ L'interessantissimo dossier di conclude con "Orrore a 16 bit" di Luca Oleastri c
 
 Andrea Bartoli, aiutato dalle illustrazioni di Andrea Accardi, ci presenta un'avventura per RdC giocabile da 3-7 investigatori e ambientata nel 1928.
 
-![Image 27](/images/kaos-01/27.jpg){class="img-responsive"}
+![Image 27](/images/kaos-02/27.jpg){class="img-responsive"}
 
 # Avventura - L'incantesimo di Vedus
 
 Tim e Marco Casolino, invece, sono gli autori di un avventura per Dungeons & Dragons adatta a 4-6 avventurieri di livello 3-7. L'avventura è pensata per essere autonoma o parte di una campagna più vasta.
 
-![Image 33](/images/kaos-01/33.jpg){class="img-responsive"}
+![Image 33](/images/kaos-02/33.jpg){class="img-responsive"}
 
 # Fumetto - Leggende delle contrade dimenticate
 
@@ -93,7 +93,7 @@ Prosegue l'atto I de "La stagione delle ceneri".
 
 > Oten, Arien e Noren sono tre nani alla ricerca di Raken, loro consimile designato come successore al trono! Di più non è dato sapere (è noto che i nani non sono molto ciarlieri)! Nella prima parte i nostri hanno già fatto conoscenza con alcuni pericoli (animali e non) di queste contrade e se la sono cavata dignitosamente.
 
-![Image 44](/images/kaos-01/44.jpg){class="img-responsive"}
+![Image 44](/images/kaos-02/44.jpg){class="img-responsive"}
 
 # Rubriche
 
@@ -103,7 +103,7 @@ Roberto Sedda dispensa dei "Suggerimenti per giocare un ruolo (e divertirsi)" tr
 
 L'autore di questo blog ritiene che Roberto Di Meglio sia un viaggiatore del tempo e che con questo commento abbia ampiamente dimostrato di aver visto in anticipo il 2019.
 
-![Image 63](/images/kaos-01/63.jpg){class="img-responsive"}
+![Image 63](/images/kaos-02/63.jpg){class="img-responsive"}
 
 Proseguono i "Racconti di taverna", mentre Michele D'Agostino propone un pezzo dal titolo "Il wargame tridimensionale - giocare a tutte le età con i soldatini".
 
