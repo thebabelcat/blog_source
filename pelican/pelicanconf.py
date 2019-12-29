@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = 10
 THEME = "../webmag"
 
 PLUGIN_PATHS = ["../pelican-plugins"]
-PLUGINS = ['related_posts', 'assets']
+PLUGINS = ['related_posts', 'assets', 'better_categories']
 
 STATIC_PATHS = [
     'images'
