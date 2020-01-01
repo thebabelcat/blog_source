@@ -84,3 +84,21 @@ _Illusioni virtuali_ di Antonio Donini presenta _Cybercon III_, un videogioco pe
 
 Il dossier si conclude con un'intervista ad Antonio Serra, uno degli autori di _Nathan Never_, l'ottimo fumetto di fantascienza della Bonelli. L'intervista ruota attorno alle fonti di ispirazione per il fumetto e il mondo in cui sono ambientate le avventure degli agenti Alfa.
 
+# Game - Software & Sushi
+
+In questo numero Piero Cioni presenta un gioco da tavolo in cui dei gruppi di hacker gestiti dai giocatori tentano di penetrare le reti informatiche di multinazionali e di strutture militari. La più tradizionale ambientazione cyberpunk!
+
+# Game - Le mappe di Eye of the Beholder
+
+Nel perfetto stile delle riviste anni 90 (e precedenti), Mauro Cheli su questo numero di KAOS ci fornisce le mappe degli 11 livelli di Eye of the Beholder, il "computer game fantasy" della SSI sviluppato dalla Westwood Associates (poi Westwood Studios) e pubblicato nel 1991 per MS-DOS e Amiga.
+
+# Fumetto - Leggende delle contrade dimenticate
+
+Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza de _La Stagione delle Ceneri_.
+
+> Tre nani sono alla ricerca del designato al trono e a loro si è unito Firfin, un avventuriero senza tanti scrupoli: la compagnia, così assortita, cerca di reclutare mercenari disposti a seguirli verso il Grande Nord. Impresa non facile se si considera l'alone di terrore che avvolge quelle contrade.
+
+# Rubriche
+
+Questo numero contiene due pagine di Errata corrige per _Il gioco di ruolo di Dylan Dog_ e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
+
