@@ -1,7 +1,7 @@
 Title: Another one bites the... stair.
 Date: 2015-04-09 08:00:00 +0100
 Category: Traduzioni
-Tags: traduzioni, tokien, libri
+Tags: traduzioni, tolkien, libri
 Authors: Leonardo Giordani
 Slug: another-one-bites-the-stair
 Summary: Un ulteriore errore di traduzione che ricordo mi aveva “tormentato” fin dalla prima lettura de “Il Signore degli Anelli”.
