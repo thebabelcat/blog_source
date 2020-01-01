@@ -102,3 +102,8 @@ Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza 
 
 Questo numero contiene due pagine di Errata corrige per _Il gioco di ruolo di Dylan Dog_ e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
 
+# Conclusione
+
+Un numero 3 un po' sottotono, a mio personalissimo parere. Il tema del cyberpunk è trattato in modo un po' superficiale, citando tutti i capisaldi del genere ma non andando troppo in profondità. D'altronde la redazione si trova per la prima volta alle prese con un genere invece che con un sistema specifico come nei primi due numeri. Ad ogni modo, un gennaio 1992 benedetto da altre 68 pagine che trattano di giochi, nessuno si lamentò e mi guardo bene dal farlo ora. Il numero 4 tratterà nuovamente di un sistema singolo, e questa volta si torna al fantasy!
+
+KAOS numero 3 è disponibile sul [sito di Retroedicola](https://www.retroedicola.com/index.php?pid=sezioni&sezione_id=10&testata_id=203&tipo=RIVISTA)
