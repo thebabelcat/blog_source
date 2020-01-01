@@ -154,7 +154,7 @@ I tre romanzi “Mistborn: the Final Empire”, “The Well of Ascension” e �
 
 ![Image 11](/images/the-call-of-the-original/fig11.jpg){class="img-responsive"}
 
-## John Ronald Reuel Tokien - The Lord of the Rings (3)
+## John Ronald Reuel Tolkien - The Lord of the Rings (3)
 
 Beh, questo è il romanzo con cui ho iniziato a leggere in inglese... e me ne sono pentito ben presto. TLotR è complesso, e sinceramente lo sconsiglio per una prima lettura. Molti appassionati (io tra questi) lo conoscono quasi a memoria o comunque molto bene, e questo li può sicuramente aiutare. Li aspetto al varco dei capitoli iniziali del viaggio, quando Tolkien si mette a citare tutte le piante che gli Hobbit trovano lungo la via. Io, al tempo, ho resistito, ma non posso dire di essermi goduto la lettura. Tolkien è un filologo, maestro con le parole, e quindi non ci risparmia (né vogliamo che lo faccia) una grande maestria nello scrivere, cambi di registro (Aragorn e Grampasso parlano differentemente pur essendo la stessa persona, gli Hobbit si esprimono come contadini, Elrond parla una lingua elevata) e quant’altro concerne parole ed etimologie. Raccomandato assolutamente, ma per chi già abbia masticato un po’ di romanzi. Piuttosto raccomando per una lettura più semplice “Lo Hobbit”.
 
