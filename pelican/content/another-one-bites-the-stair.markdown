@@ -1,12 +1,15 @@
 Title: Another one bites the... stair.
 Date: 2015-04-09 08:00:00 +0100
+Modified: 2020-01-03 16:00:00 +0000
 Category: Traduzioni
 Tags: traduzioni, tolkien, libri
 Authors: Leonardo Giordani
 Slug: another-one-bites-the-stair
 Summary: Un ulteriore errore di traduzione che ricordo mi aveva “tormentato” fin dalla prima lettura de “Il Signore degli Anelli”.
 
-Un ulteriore errore di traduzione che ricordo mi aveva tormentato fin dalla prima lettura de “Il Signore degli Anelli”.
+Un ulteriore errore di traduzione che ricordo mi aveva tormentato fin dalla prima lettura de _Il Signore degli Anelli_.
+
+Ci tengo a precisare che (soprattuto alla luce delle ultime notizie sulle traduzioni de _Il Signore degli Anelli_), ho la massima stima per la principessa Vittoria Alliata di Villafranca e per il suo lavoro. Questo piccolo articolo è la mia personale versione di un breve passaggio del monumentale romanzo, dove è contenuto sicuramente un errore di traduzione, ma che per il resto è corretto.
 
 Nel libro III, capitolo X “The Voice of Saruman”, Gandalf, Théoden e gli altri sono ai piedi di Orthanc a parlare con Saruman. Un piccolo gruppo, tra cui Gandalf stesso, è salito sugli scalini della torre per bussare alla porta e, quando Saruman esce sul balcone per parlare essi sono sotto di lui. Quando, terminata la conversazione e rotto il bastone, Saruman rientra nella torre, Vermilinguo lancia il Palantír sul gruppo (o forse su Saruman, come fa notare acutamente Aragorn).
 
@@ -31,9 +34,7 @@ L'unico che posso passare è “colpire” per smite, che però in realtà dà l
 > smite - to hit someone forcefully or to have a sudden powerful or damaging effect on someone.
 (Cambridge Dictionary)
 
-Noto, ora che confronto i due passaggi, ulteriori “licenze”. Con licenze non intendo variazioni poetiche, ma errori che portano al licenziamento, per quanto mi riguarda. Ma si sa, la traduzione di LotR ha una storia particolare, ci tornerò.
-
-La frase _came hurtling down from above_ significa _cadde saettando dall'alto_, o almeno _cadde velocemente dall'alto_. E già questo perde parzialmente il tono minaccioso che ha hurtle
+Ci sono altre parti che io personalmente renderei in modo differente. La frase _came hurtling down from above_ significa _cadde saettando dall'alto_, o almeno _cadde velocemente dall'alto_. E già questo perde parzialmente il tono minaccioso che ha hurtle
 
 > hurtle - to move very fast, especially in a way that seems dangerous. (CD)
 
@@ -47,10 +48,11 @@ Dice Tolkien che la sfera _glanced off the iron rail_. In effetti _glance off_ s
 
 Quindi il Palantír colpisce _velocemente_ (_quickly_) e _leggermente_ (_lightly_) e se ne va in un'altra direzione. In altre parole viene deviato dalla ringhiera. _Rimbalzò_, mi spiace, ma trattandosi di una palla dà molto l'idea di una cosa elastica.
 
-Infine The stair cracked and splintered in glittering sparks. Il verbo to crack significa spaccarsi senza dividersi, fessurarsi, incrinarsi, non _scricchiolare_. Anche perché la scala di Orthanc era (e lo è tuttora) fatta di un materiale piuttosto duretto, che neppure gli Ent avevano potuto rompere. Quindi non scricchiola, quello semmai lo fa la sedia su cui è seduto il traduttore.
+Infine _The stair cracked and splintered in glittering sparks_. Il verbo to crack significa spaccarsi senza dividersi, fessurarsi, incrinarsi, non _scricchiolare_. Anche perché la scala di Orthanc era (e lo è tuttora) fatta di un materiale piuttosto duretto, che neppure gli Ent avevano potuto rompere. 
 
 Ci sono altre imprecisioni minori: _fall back_ (ritirarsi, arretrare) reso con _scomparire_ e _ring_ (risuonare) reso con _vibrare_.
 
-A mio parere una traduzione più sensata del pezzo è la seguente:
+A mio parere una traduzione più precisa del pezzo è la seguente:
 
 > Con un grido Saruman si ritirò e strisciò via. In quell'istante un oggetto pesante e lucido cadde saettando dall'alto. Venne deviato dalla ringhiera nel momento stesso in cui Saruman la lasciava, e passando accanto alla testa di Gandalf colpì con forza la scala su cui egli stava. La ringhiera risuonò e si spezzò. La scala si incrinò e si scheggiò lanciando scintille sfavillanti.
+
