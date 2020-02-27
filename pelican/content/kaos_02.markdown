@@ -22,7 +22,7 @@ Nelle news di questo mese si trovano
 
 La **DAS Production** prosegue con la pubblicazione de Il Gioco di Ruolo di Dylan Dog, annunciando un modulo di avventure intitolato "Richiamo dall'Inferno". Le vendite delle regole base del gioco hanno raggiunto le 6.000 copie e la DAS si prepara alla pubblicazione della terza edizione. Si parla di un supplemento dedicato ad un altro grande eroe Bonelli, Martin Mystère.
 
-L'**Editrice Giochi** si prepara all'uscita del modulo "B10 L'oscuro terrore dlela notte". Il secondo volume della serie Gazetteer, gli atlanti di Mystara, dedicato a "Gli Emirati di Ylauram" verrà pubblicato prossimamente. Una rettifica rispetto al dossier del numero precedente riguarda la volontà della EG di pubblicare la quarta edizione di Dungeons & Dragons, apparentemente perché i giocatori non hanno gradito la scarsa qualità delle componenti del gioco.
+L'**Editrice Giochi** si prepara all'uscita del modulo "B10 L'oscuro terrore della notte". Il secondo volume della serie Gazetteer, gli atlanti di Mystara, dedicato a "Gli Emirati di Ylauram" verrà pubblicato prossimamente. Una rettifica rispetto al dossier del numero precedente riguarda la volontà della EG di pubblicare la quarta edizione di Dungeons & Dragons, apparentemente perché i giocatori non hanno gradito la scarsa qualità delle componenti del gioco.
 
 La **E-Elle** prosegue con le pubblicazioni dei libri-gioco delle serie "Sherlock Holmes", "Time Machine" e "Lupo Solitario". A breve verranno tradotti i libri-gioco pubblicati dalla I.C.E. (detentrice dei diritti su GiRSA) e ambientati nella Terra di Mezzo. Proseguono anche le pubblicazioni di materiale per I cavalieri del Tempio.
 
@@ -32,7 +32,7 @@ La **DC Comics** cessa la pubblicazione dei fumetti di Dragonlance e di Forgotte
 
 La **Mayfair** ha acquisito i diritti di pubblicazione di Chill nel 1990, dopo il fallimento della Pacesetter, e prosegue la pubblicazione di supplementi dedicati al gioco di ruolo dell'orrore. Cyberpunk 2020 della **Talsorian** e GURPS della **Steve Jackson Games** sembrano avere molto successo e le rispettive case editrice proseguono la pubblicazione di supplementi a loro dedicati.
 
-La **TSR** pubblica per AD&D Dark Sun, una campagna ambientata in un mondo desertico e post-apocalittico (che diverrà uno dei meggiori successi commerciali della casa di Lake Geneva, dando il via ad un'intera ambientazione). La D&D Cyclopedia è in dirittura di arrivo.
+La **TSR** pubblica per AD&D Dark Sun, una campagna ambientata in un mondo desertico e post-apocalittico (che diverrà uno dei maggiori successi commerciali della casa di Lake Geneva, dando il via ad un'intera ambientazione). La D&D Cyclopedia è in dirittura di arrivo.
 
 Nell'ancora relativamente povero settore informatico, la **Simulmondo** prosegue la sua attività di software house italiana con Italian Night 1999 e annuncia un nuovo gioco con protagonista Dylan Dog, Attraverso lo specchio.
 
@@ -48,7 +48,7 @@ Il Videotel (un primo tentativo di rete informatica della SIP, in funzione dal 1
 
 **Marvel Super Heroes - New Revised Edition** - Editore: TSR - Prezzo: L. 44.000
 
-La **Interno Giallo Editore**, fondata nel 1989 dall'ex curatore di Urania Marco Tropea e da Laura Grimaldi, di presenta con un'iniziativa editoriale piuttosto variegata, che spazia dal giallo alla fantascienza.
+La **Interno Giallo Editore**, fondata nel 1989 dall'ex curatore di Urania Marco Tropea e da Laura Grimaldi, si presenta con un'iniziativa editoriale piuttosto variegata, che spazia dal giallo alla fantascienza.
 
 ![Image 07](/images/kaos-02/07.jpg){class="img-responsive"}
 
@@ -57,7 +57,7 @@ La **Interno Giallo Editore**, fondata nel 1989 dall'ex curatore di Urania Marco
 Il dossier si apre con un articolo di Mirko Tavosanis dal titolo "Il 'nuovo' orrore di Lovecraft" che traccia un profilo dello scrittore americano e della sua opera così peculiare.
 
 > Il nome di Howard Phillips Lovecraft (nato a Providence, Rhode Island, nel 1890 e ivi scomparso nel 1937), negli ultimi tempi ha conosciuto in Italia e all'estero una notevolissima diffusione. Ma, in sostanza, in che cosa consiste la sua narrativa? Fisicamente, in tre romanzi più o meno completati (l'autore stesso, per esempio, non considerò mai finito _Alla ricerca del misterioso Kadath_) e in circa ottanta racconti di varia lunghezza. Per quel che riguarda i contenuti, poi, il nome di Lovecraft viene di solito associato alla paura o al fantastico in modo abbastanza superficiale, dato che le sue creazioni più riuscite - o comunque più famose - sono quelle che presentano un originale impasto di orrore e fantascienza: i racconti che August Derleth definì dei 'Miti di Cthulhu', e che meglio andrebbero indicati come 'Ciclo di Yog-Sothoth', secondo il parere di Dirk W. Mosig, l'interprete più attento di queste opere.
-> Presupposto di questi scritti, che Lovecraft cominciò a sistemare in modo organico a partire dal 1926 (l'anno in cui fu scritto _Il richiamo di Cthulhu_), è indatti l'affiorare alla coscienza umana della consapevolezza di vivere in un universo meccanicistico e immerso nel caos, una visione contro la quale l'unica difesa possibile è chiudere gli occhi per non vedere. In altre parole, come dice l'autore: «Viviamo su una placida isola d'ignoranza in mezzo a neri mari d'infinito e non era previsto che ce ne spingessimo troppo lontano. Le scienza, che finora hanno proseguito ognuna per la sua strada, non ci hanno arrecato troppo danno: ma la ricomposizione del quadro d'insieme ci aprirà un giorno visioni così terrificanti della realtà del posto che noi occupiamo in essa, che o impazziremo per la rivelazione o fuggiremo dalla luce mortale nella pace e nella sicurezza di una nuova età oscura». (dall'inizio de _Il richiamo di Cthulhu_, in _Tutti i racconti 1923-1926_, Mondadori).
+> Presupposto di questi scritti, che Lovecraft cominciò a sistemare in modo organico a partire dal 1926 (l'anno in cui fu scritto _Il richiamo di Cthulhu_), è infatti l'affiorare alla coscienza umana della consapevolezza di vivere in un universo meccanicistico e immerso nel caos, una visione contro la quale l'unica difesa possibile è chiudere gli occhi per non vedere. In altre parole, come dice l'autore: «Viviamo su una placida isola d'ignoranza in mezzo a neri mari d'infinito e non era previsto che ce ne spingessimo troppo lontano. Le scienza, che finora hanno proseguito ognuna per la sua strada, non ci hanno arrecato troppo danno: ma la ricomposizione del quadro d'insieme ci aprirà un giorno visioni così terrificanti della realtà del posto che noi occupiamo in essa, che o impazziremo per la rivelazione o fuggiremo dalla luce mortale nella pace e nella sicurezza di una nuova età oscura». (dall'inizio de _Il richiamo di Cthulhu_, in _Tutti i racconti 1923-1926_, Mondadori).
 
 ![Image 11](/images/kaos-02/11.jpg){class="img-responsive"}
 
@@ -97,11 +97,11 @@ Prosegue l'atto I de "La stagione delle ceneri".
 
 # Rubriche
 
-Roberto Sedda dispensa dei "Suggerimenti per giocare un ruolo (e divertirsi)" trattando di stereotipi (da eliminare), classe, razza, professione, età, sesso e allineamento. Roberto Di Meglio presenta "Terminator 2 Il giorno del giudizio", nelle sale proprio in quella fine del 1991 (cinque mesi dopo l'uscita in USA). Riporto parte del commento di Di Meglio perché lo ritengo estremamente attuale in questo 2019
+Roberto Sedda dispensa dei "Suggerimenti per giocare un ruolo (e divertirsi)" trattando di stereotipi (da eliminare), classe, razza, professione, età, sesso e allineamento. Roberto Di Meglio presenta "Terminator 2 Il giorno del giudizio", nelle sale proprio in quella fine del 1991 (cinque mesi dopo l'uscita in USA). Riporto parte del commento di Di Meglio perché lo ritengo estremamente attuale in questo 2020
 
-> Se vi è piaciuto _Terminator_, non potete assolutamente perdere _Il giorno del giudizio_, che non è solo un eccellente seguito, ma anche una vera **conclusione** della storia. Non ci è dato sapere se per biechi motivi commerciali HOllywood sfornerà una terza parte; quel che è certo è che Cameron e Wisher non hanno lasciato quei fili in sospeso che danno allo spettatore la sensazione di aver visto un film mutilato [...] Come ha affermato lo stesso Wisher in un intervista: «Abbiamo finito questa storia e, per quanto mi riguarda, dovrebbe rimanere finita».
+> Se vi è piaciuto _Terminator_, non potete assolutamente perdere _Il giorno del giudizio_, che non è solo un eccellente seguito, ma anche una vera **conclusione** della storia. Non ci è dato sapere se per biechi motivi commerciali Hollywood sfornerà una terza parte; quel che è certo è che Cameron e Wisher non hanno lasciato quei fili in sospeso che danno allo spettatore la sensazione di aver visto un film mutilato [...] Come ha affermato lo stesso Wisher in un intervista: «Abbiamo finito questa storia e, per quanto mi riguarda, dovrebbe rimanere finita».
 
-L'autore di questo blog ritiene che Roberto Di Meglio sia un viaggiatore del tempo e che con questo commento abbia ampiamente dimostrato di aver visto in anticipo il 2019.
+L'autore di questo blog ritiene che Roberto Di Meglio sia un viaggiatore del tempo e che con questo commento abbia ampiamente dimostrato di aver visto in anticipo il 2020.
 
 ![Image 63](/images/kaos-02/63.jpg){class="img-responsive"}
 
