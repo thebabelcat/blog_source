@@ -1,5 +1,5 @@
 Title: KAOS 02
-Date: 2019-12-22 08:00:00 +0100
+Date: 2020-02-27 08:00:00 +0100
 Category: Riviste
 Tags: gdr, libri, fumetti
 Authors: Leonardo Giordani
