@@ -1020,3 +1020,14 @@ textarea.input {
 .main-post .post-meta {
     margin: 15px 0px 15px;
 }
+
+p {
+    margin: 0px 0px 20px;
+    hyphens: auto;
+    text-align: justify;
+    font-size: 20px;
+}
+
+img.img-responsive {
+    border: 2px solid black;
+}
