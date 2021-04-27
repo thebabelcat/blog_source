@@ -1,5 +1,5 @@
 Title: KAOS 03
-Date: 2019-01-01 08:00:00 +0100
+Date: 2021-04-27 08:00:00 +0100
 Category: Riviste
 Tags: gdr, libri, fumetti
 Authors: Leonardo Giordani
@@ -8,11 +8,13 @@ Summary: Terzo numero di KAOS, dopo due mesi dal numero 2. Un piccolo rallentame
 
 Prosegue KAOS nella sua avventura che, lo sappiano in quanto posteri, durerà molto a lungo. Nei primi due numeri la redazione ha giustamente trattato il grande capostipite di tutti i GdR, Dungeons & Dragons, e con esso il fantasy classico, per l'appunto "alla D&D". Che poi, come vedremo tra qualche numero, tanto classico non è, in quanto ad esempio Conan di Howard e Elric di Moorcock lo anticipano notevolmente, assieme a molti altri compagni di cammino.
 
+![Image 01](/images/kaos-03/01.jpg){class="img-responsive"}
+
 Nel secondo numero non si poteva se non andare agli antipodi del genere, con un altro grande vecchio, o forse dovrei dire "grande Antico"! Il Richiamo di Cthulhu della Chaosium, portato in Italia dalla Stratelibri, trasporta i giocatori nell'universo pessimista dell'orrore cosmico di H.P. Lovecraft, e lo fa con grande maestria.
 
 Ora è il turno della fantascienza, e in particolare di un sottogenere chiamato cyberpunk. Un termine entrato di prepotenza nel 1984 con Neuromante di William Gibson, anche se le basi erano state già gettate da Philip Dick e altri nei due decenni precedenti. Il genere cyberpunk contrasta con la fantascienza ottimista e presenta un mondo distopico dove, nonostante i progressi della tecnologia, la società non si è rinnovata in modo radicale, e le differenze tra ricchi e poveri sono ancora le stesse, se non accentuate, e il mondo è in balia delle decisioni di grandi corporazioni.
 
-Nel 2019, 35 anni dopo Neuromante, la tecnologia ha fatto passi da gigante, si è evoluta in modo inaspettato, anche se globalmente minore rispetto a quanto prospettato, ma sicuramente si è avverata una predizione del cyberpunk: la società non cambia perché cambia la tecnologia. Sicuramente nel "primo mondo" abbiamo semplificato tante cose, ma questo ha coinciso con un disinteresse sociale sempre maggiore e non si è visto né un calo delle guerre nel mondo, né tantomeno un livellamento della ricchezza mondiale. Non ci sono megacorporazioni che hanno sostituito i partiti, non ufficialmente almeno, ma non sembra che la politica mondiale si muova perseguendo chissà quali alti fini. E apparentemente non abbiamo ancora cessato di credere nel dio tecnologico.
+Nel 2021, 37 anni dopo Neuromante, la tecnologia ha fatto passi da gigante, si è evoluta in modo inaspettato, anche se globalmente minore rispetto a quanto prospettato, ma sicuramente si è avverata una predizione del cyberpunk: la società non cambia solamente perché cambia la tecnologia. Sicuramente nel "primo mondo" abbiamo semplificato tante cose, ma questo ha coinciso con un disinteresse sociale sempre maggiore e non si è visto né un calo delle guerre nel mondo, né tantomeno un livellamento della ricchezza mondiale. Non ci sono megacorporazioni che hanno sostituito i partiti, non ufficialmente almeno, ma non sembra che la politica mondiale si muova perseguendo chissà quali alti fini. E apparentemente non abbiamo ancora cessato di credere nel dio tecnologico.
 
 Ad ogni modo, vediamo cosa accadeva nel 1992 con KAOS numero 3!
 
@@ -33,6 +35,8 @@ La **DAS Production** prova a coinvolgere i giocatori nella scrittura di un modu
 L'**Editrice Giochi** non si sbottona sulle uscite del 1992, ma pare assodato che verrà pubblicato il modulo geografico Gli Emirati di Ylaruam e la IV edizione di D&D.
 
 [Quest'ultima è che la riedizione della versione BECMI del 1983 che la TSR propone in un set base con miniature in cartoncino e che copre i primi 5 livelli, che viene affiancata dalla Rules Cyclopedia, che invece copre dal 1 al 36esimo livello. In effetti questa è la quarta edizione del gioco ufficialmente chiamato Dungeons & Dragons, la cui prima edizione del 1977 sostituì quello che ora è noto come l'Original Dungeons & Dragons. Non si faccia confusione con D&D 4th edition del 2008 (ben 16 anni più tardi).]
+
+![Image 05](/images/kaos-03/05.jpg){class="img-responsive"}
 
 La *E-Elle* prosegue la fortunata edizione dei libri-game con la serie ambientata nella Terra di Mezzo. _Una Spia a Isengard_ e _Tradimento alla Fortezza_ sono i primi titoli. Anche Uno Sguardo nel Buio e la serie Alla Corte di Re Artù ricevono nuovi titoli.
 
@@ -58,6 +62,8 @@ Le recensioni trattano di
 
 Il dossier di questo numero è introdotto da un'immagine di Paolo Poli, nettamente migliore di quella di copertina ma ancora lontana dagli stilemi del genere.
 
+![Image 11](/images/kaos-03/11.jpg){class="img-responsive"}
+
 Il primo articolo, _Cyberpunk. Il reale..._ di Mirko Tavosanis che fa coppia con il successivo _... e l'immaginario_ di Pier Filippo Idda. Tavosanis, al suo secondo dossier, esordisce con
 
 > Un nuovo senso alla parola 'cyberpunk' è stato dato, l'anno scorso, dall'ormai famosa operazione 'Sun Devil'. Nella notte del primo marzo 1990, agenti dei Servizi Segreti USA hanno fatto irruzione nella sede della Steva Jackson Games, la notissima casa produttrice di giochi di ruolo, sequestrando materiali e attrezzature; nell'operazione sono stati coinvolti anche collaboratori della ditta ed esperti di computer, con perquisizioni notturne e sequestri di materiale. I motivi? Una campagna scatenata contro i pirati del computer, spesso dei semplici ragazzi che si infiltrano in sistemi protetti, casi difficili da combattere con la legislazione normale. "Con l'esperienza, i tutori dell'ordine hanno tirato fuori una tattica non ortodossa ma funzionale. Si tratta di evitare del tutto i processi, o anche solo l'accusa e l'arresto. Invece, squadre di poliziotti minacciosi si gettano sulla casa del ragazzino sospettato e sequestrano il suo computer come 'prova'. Se si tratta di un bravo ragazzo che si pente e promette di non cacciarsi più nei guai, il costosissimo materiale gli sarà restituito in breve tempo. Se invece è un caso difficile, tanto peggio. I suoi giocattoli possono restarsene imballati per un paio d'anni" spiega Bruce Sterling nel riassunto della situazione fatto sul numero 44 della rivista di fantascienza "Interzone".
@@ -74,6 +80,8 @@ Il dossier prosegue con il racconto breve _Piramidi di sabbia_ di Luigi D'Aureli
 
 _Cyberpunk_ di Massimiliano Bussi introduce il sistema _Cyberpunk, The Role Playing Game of the Dark Future_ della R. Talsorian Games, anche noto come _Cyberpunk 2020_ essendo ambientato in quell'anno. [Dovrei effettivamente dire _quest'anno_, lacrima. Cyberpunk 2020 è la seconda edizione del gioco della Talsorian, la prima edizione era intitolata Cyberpunk 2013]. _GURPS Cyberpunk_ di Roberto Di Meglio tratta del modulo cyberpunk per il sistema generico della Steve Jackson Games. Come quasi tutti i moduli per GURPS, quello che copre il cyberpunk si rivela una vera e propria enciclopedia, d'altronde l'estremo dettaglio e realismo sono la lama a doppio taglio di questo sistema.
 
+![Image 18](/images/kaos-03/18.jpg){class="img-responsive"}
+
 È il turno di Massimiliano Bussi con _Cyberspace_ che descrive il gioco della Iron Crown Enterprises, il quale, come GiRSA, si basa su RoleMaster. Anche questo manuale, quindi, si pone come un regolamento dettagliato e complesso, che chi ha giocato a GiRSA ha imparato ad apprezzare o odiare. [Personalmente dover consultare 7 tabelle per tirare una freccia non mi ha mai attirato, come non mi attira l'idea di essere un grande eroe che viene fatto fuori da una stilettata fortunata di un nemico qualsiasi.]
 
 L'ultimo sistema viene presentato da Marcello Missiroli in _Torg e il Cyberpapato_, dove le realtà parallele del gioco della West End Games portano una chiesa violenta e dominata da un'inquisizione piuttosto stereotipata ad incrociarsi con un entità ultraterrena che progetta di dominare la Terra. Superficialmente Torg ricorda le regole di Star Wars, ovvero il sistema D6, che sacrifica decisamente il realismo per portarsi su una maggiore spettacolarità dell'azione, un sistema più "cinematico".
@@ -88,9 +96,13 @@ Il dossier si conclude con un'intervista ad Antonio Serra, uno degli autori di _
 
 In questo numero Piero Cioni presenta un gioco da tavolo in cui dei gruppi di hacker gestiti dai giocatori tentano di penetrare le reti informatiche di multinazionali e di strutture militari. La più tradizionale ambientazione cyberpunk!
 
+![Image 26](/images/kaos-03/26.jpg){class="img-responsive"}
+
 # Game - Le mappe di Eye of the Beholder
 
 Nel perfetto stile delle riviste anni 90 (e precedenti), Mauro Cheli su questo numero di KAOS ci fornisce le mappe degli 11 livelli di Eye of the Beholder, il "computer game fantasy" della SSI sviluppato dalla Westwood Associates (poi Westwood Studios) e pubblicato nel 1991 per MS-DOS e Amiga.
+
+![Image 38](/images/kaos-03/38.jpg){class="img-responsive"}
 
 # Fumetto - Leggende delle contrade dimenticate
 
@@ -98,12 +110,16 @@ Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza 
 
 > Tre nani sono alla ricerca del designato al trono e a loro si è unito Firfin, un avventuriero senza tanti scrupoli: la compagnia, così assortita, cerca di reclutare mercenari disposti a seguirli verso il Grande Nord. Impresa non facile se si considera l'alone di terrore che avvolge quelle contrade.
 
+![Image 47](/images/kaos-03/47.jpg){class="img-responsive"}
+
 # Rubriche
 
 Questo numero contiene due pagine di Errata corrige per _Il gioco di ruolo di Dylan Dog_ e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
+
+![Image 61](/images/kaos-03/61.jpg){class="img-responsive"}
 
 # Conclusione
 
 Un numero 3 un po' sottotono, a mio personalissimo parere. Il tema del cyberpunk è trattato in modo un po' superficiale, citando tutti i capisaldi del genere ma non andando troppo in profondità. D'altronde la redazione si trova per la prima volta alle prese con un genere invece che con un sistema specifico come nei primi due numeri. Ad ogni modo, un gennaio 1992 benedetto da altre 68 pagine che trattano di giochi, nessuno si lamentò e mi guardo bene dal farlo ora. Il numero 4 tratterà nuovamente di un sistema singolo, e questa volta si torna al fantasy!
 
-KAOS numero 3 è disponibile sul [sito di Retroedicola](https://www.retroedicola.com/index.php?pid=sezioni&sezione_id=10&testata_id=203&tipo=RIVISTA)
+KAOS numero 3, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/TElnzIpC#neFSXx-u_31Qz_rXsvd1I2CFmsX5uLuvUiG3j_YhFu4)
