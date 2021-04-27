@@ -14,13 +14,13 @@ Giochi di ruolo - fantasy - avventure.
 
 KAOS.
 
-Così inizia, negli anni 90, l'avventura ruolistica della Granata Press, la casa editrice bolognese fondata due anni prima da Luigi Bernardi, già fondatore della filiale italiana della Glénat, storico editore francese, per poi dedicarsi in anni recenti alla scrittura e ai lavori teatrali.
+Così inizia, negli anni 90, l'avventura ruolistica della Granata Press, la casa editrice bolognese fondata due anni prima da Luigi Bernardi, già fondatore della filiale italiana della Glénat, storico editore francese, che poi si dedicherà in anni recenti alla scrittura e ai lavori teatrali.
 
 La Granata inizia pubblicando manga giapponesi, ma nel 1991 aprirà quella che è ricordata come una delle riviste di giochi di ruolo più longeve al mondo, KAOS, di cui usciranno ben 75 numeri (1991-2002). La redazione centrale vede, oltre al direttore Luigi Bernardi stesso, i nomi di Marcello Missiroli, Roberto Di Meglio e Simone Peruzzi, tutti attivi nel mondo del gioco anche in anni successivi sia come singoli sia come fondatori e conduttori della Nexus Editrice, attiva dal 1993 al 2009, che prenderà per l'appunto le redini della rivista dal numero 10.
 
 ![Image 01](/images/kaos-01/01.jpg){class="img-responsive"}
 
-L'editoriale del numero 1 presenta immediatamente una facciata spiritosa, con un taglio ironico e scanzonato che contraddistingue la rivista. Fa parte della redazione Urgh l'orchetto, che "firma" alcune recensioni che non dicono molto del prodotto, come quella de "Figli dell'olocausto" presente in questo numero. A parte questo tutti gli articoli e le recensioni sono approfondite e non banali.
+L'editoriale del numero 1 presenta immediatamente una facciata spiritosa, con un taglio ironico e scanzonato che contraddistingue la rivista. Fa parte della redazione Urgh l'orchetto, che "firma" alcune recensioni che non dicono molto del prodotto, come quella di Figli dell'olocausto presente in questo numero. A parte questo tutti gli articoli e le recensioni sono approfondite e non banali.
 
 Così recita la parte seria dell'editoriale
 
@@ -46,11 +46,19 @@ Nelle news di questo numero troviamo
 
 **GiRSA ovvero Il Gioco di Ruolo del SIgnore degli Anelli** - Editore: I.C.E./Stratelibri - Prezzo: L. 44.000
 
-In questo numero viene segnalato che la fanzine Spellbook diventa una pubblicazione non periodica. La **Black-Out** di Modena annuncia tre nuovi moduli per I Signori del Caos e l'avventura "Neve sporca" per Figli dell'olocausto, mentre la **DAS Production** prevede da settembre di pubblicare bimestralmente avventure per il Gioco di Ruolo di Dylan Dog. La **Editrice Giochi** si prefigge di pubblicare la quarta edizione di Dungeons & Dragons nel corso del prossimo anno, mentre lo **Studio Vit** pubblica la seconda edizione di "Serie A - il gioco più bello del mondo, dopo il calcio". **E-Elle** annuncia una pubblicazione semestrale, per adesso anonima, dedicata a Kata Kubas, I cavalieri del tempio e Holmes & Co. La **Ripa** ha pubblicato le versioni in italiano di Advanced Hero Quest e Talisman. Si annuncia che la **Simulmondo** farà uscire a novembre "Dylan Dog: gli uccisori" un videogioco per Amiga, PC e Commodore 64.
+In questo numero viene segnalato che la fanzine _Spellbook_ diventa una pubblicazione non periodica.
 
-All'estero la **Gremlin** annuncia la versione per Amica e Commodore 64 di Hero Quest, prodotto su licenza della **Milton Bradley**, che sarà seguito da un adattamento di Space Crusade (titolo originario di Star Quest). In USA la **Chaosium** prosegue le uscite per Stormbringer con "Socerers of Pan Tang". La **LUCASFILM** annuncia "Indiana Jones and the Fate of Atlantis" e "Monkey Island II: LeChuck's Revenge". Pare che Fate of Atlantis non diverrà un film, ma George Lucas annuncia la nuova trilogia di Guerre Stellari, che uscirà a partire dal 1997. La **SSI** pubblica per PC il primo gioco ambientato nei Forgotten Realms, "Gateway to the Savage Frontier". La **TSR** annuncia per novembre l'uscita della "Dungeons & Dragons Rules Cyclopedia".
+La **Black-Out** di Modena annuncia tre nuovi moduli per I Signori del Caos e l'avventura _Neve sporca_ per Figli dell'olocausto, mentre la **DAS Production** prevede da settembre di pubblicare bimestralmente avventure per Il Gioco di Ruolo di Dylan Dog.
 
-L'autore di questo blog si rifiuta di credere che siano stati girati ulteriori film di Guerre Stellari dopo il 1983, ma se si volesse credere alle voci, "The Phantom Menace" sarebbe uscito in Italia nel settembre 1999.
+La **Editrice Giochi** si prefigge di pubblicare la quarta edizione di Dungeons & Dragons nel corso del prossimo anno, mentre lo **Studio Vit** pubblica la seconda edizione di _Serie A - il gioco più bello del mondo, dopo il calcio_.
+
+**E-Elle** annuncia una pubblicazione semestrale, per adesso anonima, dedicata a Kata Kubas, I cavalieri del tempio e Holmes & Co. La **Ripa** ha pubblicato le versioni in italiano di _Advanced Hero Quest_ e _Talisman_. Si annuncia che la **Simulmondo** farà uscire a novembre _Dylan Dog: gli uccisori_ un videogioco per Amiga, PC e Commodore 64.
+
+All'estero la **Gremlin** annuncia la versione per Amiga e Commodore 64 di _Hero Quest_, prodotto su licenza della **Milton Bradley**, che sarà seguito da un adattamento di _Space Crusade_ (titolo originario di _Star Quest_). In USA la **Chaosium** prosegue le uscite per Stormbringer con _Socerers of Pan Tang_.
+
+La **Lucasfilm** annuncia _Indiana Jones and the Fate of Atlantis_ e _Monkey Island II: LeChuck's Revenge_. Pare che Fate of Atlantis non diverrà un film, ma George Lucas annuncia la nuova trilogia di Guerre Stellari, che uscirà a partire dal 1997. L'autore di questo blog si rifiuta di credere che siano stati girati ulteriori film di Guerre Stellari dopo il 1983, ma se si volesse credere alle voci, _The Phantom Menace_ sarebbe uscito in Italia nel settembre 1999. Sappiamo comunque tutti che i prequel non verranno mai girati, così come non verranno mai girati dei seguiti a parte un'eccezionale serie TV intitolata _The Mandalorian_. Affranto dal non poter realizzare il film di Fate of Atlantis, Lucas archivierà per sempre Indiana Jones e il quarto film della serie non verrà mai nemmeno discusso.
+
+La **SSI** pubblica per PC il primo gioco ambientato nei Forgotten Realms, _Gateway to the Savage Frontier_. La **TSR** annuncia per novembre l'uscita della _Dungeons & Dragons Rules Cyclopedia_.
 
 # Dossier - Dungeons & Dragons
 
@@ -62,7 +70,7 @@ Il dossier di questo primo numero è giustamente dedicato al gioco di ruolo per 
 
 ![Image 11](/images/kaos-01/11.jpg){class="img-responsive"}
 
-Interessante notare come Peruzzi, citando i personaggi che i giocatori potrebbero interpretare, stila un programma dei temi coperti dalle prossime uscite di KAOS stesso: Call of Cthulhu, Star Wars, il GdR supereroistico e Conan saranno i protagonisti dei numeri 2, 5, 6 e 8. L'articolo sul gioco continua presentando D&D nella già citata versione BECMI e le avventure disponibili al tempo (i moduli delle serie B, X, C e O). Viene citato il supplemento "ATL1 Il Granducato di Karameikos".
+Interessante notare come Peruzzi, citando i personaggi che i giocatori potrebbero interpretare, stila un programma dei temi coperti dalle prossime uscite di KAOS stesso: Call of Cthulhu, Star Wars, il GdR supereroistico e Conan saranno i protagonisti dei numeri 2, 5, 6 e 8. L'articolo sul gioco continua presentando D&D nella già citata versione BECMI e le avventure disponibili al tempo (i moduli delle serie B, X, C e O). Viene citato il supplemento _ATL1 Il Granducato di Karameikos_.
 
 Il dossier prosegue con un articolo di Roberto Di Meglio sulla storia del gioco di ruolo, ripercorrendo i primi passi Arneson e Gygax che portano da Chainmail ai manuali della prima versione dei D&D propriamente detto e concludendo con la creazione di Advanced Dungeons & Dragons e la D&D Cyclopedia, annunciata per novembre 1991 e di cui l'Editrice Giochi avrebbe dovuto pubblicare una traduzione italiana nel 1992 (mai uscita).
 
@@ -80,7 +88,7 @@ Il quarto articolo, a firma di Marcello Missiroli, presenta l'Advanced Dungeons 
 
 ![Image 17](/images/kaos-01/17.jpg){class="img-responsive"}
 
-Roberto Di Meglio prosegue il dossier con un articolo sui mondi di D&D e AD&D, parlando succintamente delle varie ambientazioni da Greyhawk ai Forgotten Realms, passando per Dragonlance, Ravenloft e Spelljammer. Marcello Missiroli prosegue poi con un articolo intitolato "Le regole di Murphy" che scava nelle "situazioni ilari, irrealistiche e bizzarre che si possono verificare quando [le regole] non sono applicate _cum grano salis_".
+Roberto Di Meglio prosegue il dossier con un articolo sui mondi di D&D e AD&D, parlando succintamente delle varie ambientazioni da Greyhawk ai Forgotten Realms, passando per Dragonlance, Ravenloft e Spelljammer. Marcello Missiroli prosegue poi con un articolo intitolato _Le regole di Murphy_ che scava nelle "situazioni ilari, irrealistiche e bizzarre che si possono verificare quando [le regole] non sono applicate _cum grano salis_".
 
 > Un personaggio può, purché gli resti almeno un punto ferita, agire in modo perfettamente funzionale, nonostante che in questa situazione possa ucciderlo anche il morso di uno scoiattolo.
 
@@ -102,7 +110,7 @@ Roberto Di Meglio e Simone Peruzzi ci presentano un breve libro-game che ha per 
 
 # Fumetto - Leggende delle contrade dimenticate
 
-Il fumetto di questo numero è "Leggende delle contrade dimenticate 1: La stagione delle ceneri" di Chevalier e Ségur, tradotto da Luigi Bernardi.
+Il fumetto di questo numero è _Leggende delle contrade dimenticate 1: La stagione delle ceneri_ di Chevalier e Ségur, tradotto da Luigi Bernardi.
 
 > Tre nani in missione segretissima, lontani dalle loro terre, in _contrade dimenticate_, alle prese con fauna e flora ostile. Questo potrebbe essere il riassunto essenziale della prima parte de _Leggende delle contrade dimenticate_, una delle più interessanti saghe fantasy a fumetti prodotte negli ultimi anni.
 
@@ -110,7 +118,7 @@ Il fumetto di questo numero è "Leggende delle contrade dimenticate 1: La stagio
 
 # Rubriche
 
-Tra le rubriche di questo numero troviamo un "Dietro le quinte di Dylan Dog" di Alessandro Ivanoff che descrive le difficoltà incontrate nella progettazione e realizzazione del GdR dell'indagatore dell'incubo. I "Racconti di taverna" danno dei consigli ai giocatori di ruolo sotto forma di storie raccontate davanti ad una birra, mentre "Galateo di roleplaying modero per signorine" di Gianna Masetti introduce le donzelle digiune di armi a giochi come Twilight 2000 e simili. Termina il numero un articolo di Walter Moore dal titolo "No war will ever be a game" (tradotto da ROberto Di Meglio), che vuole sensibilizzare al fatto che la guerra non è la soluzione normale ai problemi. Nell'estate 1991 la guerra in Iraq era appena terminata e si sentiva giustamente la necessità di parlarne su una rivista dove "c'è molta violenza simulata".
+Tra le rubriche di questo numero troviamo un _Dietro le quinte di Dylan Dog_ di Alessandro Ivanoff che descrive le difficoltà incontrate nella progettazione e realizzazione del GdR dell'indagatore dell'incubo. I _Racconti di taverna_ danno dei consigli ai giocatori di ruolo sotto forma di storie raccontate davanti ad una birra, mentre _Galateo di roleplaying modero per signorine_ di Gianna Masetti introduce le donzelle digiune di armi a giochi come Twilight 2000 e simili. Termina il numero un articolo di Walter Moore dal titolo _No war will ever be a game_ (tradotto da Roberto Di Meglio), che vuole sensibilizzare al fatto che la guerra non è la soluzione normale ai problemi. Nell'estate 1991 la guerra in Iraq era appena terminata e si sentiva giustamente la necessità di parlarne su una rivista dove "c'è molta violenza simulata".
 
 ![Image 59](/images/kaos-01/59.jpg){class="img-responsive"}
 

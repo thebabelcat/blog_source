@@ -10,17 +10,17 @@ Prosegue KAOS nella sua avventura che, lo sappiano in quanto posteri, durerà mo
 
 ![Image 01](/images/kaos-03/01.jpg){class="img-responsive"}
 
-Nel secondo numero non si poteva se non andare agli antipodi del genere, con un altro grande vecchio, o forse dovrei dire "grande Antico"! Il Richiamo di Cthulhu della Chaosium, portato in Italia dalla Stratelibri, trasporta i giocatori nell'universo pessimista dell'orrore cosmico di H.P. Lovecraft, e lo fa con grande maestria.
+Se nel secondo numero non si poteva se non andare agli antipodi del D&D, con un altro "grande antico" quale Call of Cthulhu, il terzo numero doveva forzatamente completare il trittico passando dallo sportello della fantascienza.
 
-Ora è il turno della fantascienza, e in particolare di un sottogenere chiamato cyberpunk. Un termine entrato di prepotenza nel 1984 con Neuromante di William Gibson, anche se le basi erano state già gettate da Philip Dick e altri nei due decenni precedenti. Il genere cyberpunk contrasta con la fantascienza ottimista e presenta un mondo distopico dove, nonostante i progressi della tecnologia, la società non si è rinnovata in modo radicale, e le differenze tra ricchi e poveri sono ancora le stesse, se non accentuate, e il mondo è in balia delle decisioni di grandi corporazioni.
+KAOS però affronta un particolare sottogenere della fantascienza chiamato cyberpunk. Un termine entrato di prepotenza nel 1984 con _Neuromante_ di William Gibson, anche se le basi erano state già gettate da Philip Dick e altri nei due decenni precedenti. Il genere cyberpunk contrasta con la fantascienza ottimista e presenta un mondo distopico dove, nonostante i progressi della tecnologia, la società non si è rinnovata in modo radicale, e le differenze tra ricchi e poveri sono ancora le stesse, se non accentuate, e il mondo è in balia delle decisioni di grandi corporazioni.
 
-Nel 2021, 37 anni dopo Neuromante, la tecnologia ha fatto passi da gigante, si è evoluta in modo inaspettato, anche se globalmente minore rispetto a quanto prospettato, ma sicuramente si è avverata una predizione del cyberpunk: la società non cambia solamente perché cambia la tecnologia. Sicuramente nel "primo mondo" abbiamo semplificato tante cose, ma questo ha coinciso con un disinteresse sociale sempre maggiore e non si è visto né un calo delle guerre nel mondo, né tantomeno un livellamento della ricchezza mondiale. Non ci sono megacorporazioni che hanno sostituito i partiti, non ufficialmente almeno, ma non sembra che la politica mondiale si muova perseguendo chissà quali alti fini. E apparentemente non abbiamo ancora cessato di credere nel dio tecnologico.
+Nel 2021, 34 anni dopo Neuromante, la tecnologia ha fatto passi da gigante, si è evoluta in modo inaspettato, anche se globalmente minore rispetto a quanto prospettato, ma sicuramente si è avverata una predizione del cyberpunk: la società non cambia solamente perché cambia la tecnologia. Sicuramente nel "primo mondo" abbiamo semplificato tante cose, ma questo ha coinciso con un disinteresse sociale sempre maggiore e non si è visto né un calo delle guerre nel mondo, né tantomeno un livellamento della ricchezza mondiale. Non ci sono megacorporazioni che hanno sostituito i partiti, non ufficialmente almeno, ma non sembra che la politica mondiale si muova perseguendo chissà quali alti fini. E apparentemente non abbiamo ancora cessato di credere nel dio tecnologico.
 
 Ad ogni modo, vediamo cosa accadeva nel 1992 con KAOS numero 3!
 
 # Copertina ed editoriale
 
-La copertina non esaltante (a mio parere) di Onofrio Catacchio introduce il tema del mese: il cyberpunk. L'editoriale  è del direttore Luigi Bernardi, metà del quale va però alle ortiche dominato da Urgh l'orchetto. Nella parte seria il direttore dice che
+La copertina non esaltante (a mio parere) di Onofrio Catacchio introduce il tema del mese: il cyberpunk. L'editoriale  è del direttore Luigi Bernardi, metà del quale va però a finire in un campo di ortiche dominato da Urgh l'orchetto. Nella parte seria il direttore dice che
 
 > Mai come in questi ultimi tempi la produzione di genere (incanalata lungo i suoi linguaggi preferenziali: la narrativa, il cinema e il fumetto) ha sollecitamente anticipato la realtà. E l'horror e la fantascienza sono stati teatro di stravolgimenti ritenuti impossibili. Il primo non consola più con finali rassicuranti, il secondo ha saputo scegliere strade ben più tortuose della semplice estrapolazione fantastica. in tutti i casi, il cambiamento non è avvenuto senza lacerazioni e ambiguità. Cyberpunk, splatterpunk e psychopunk hanno definitivamente strappato l'ultimo velo che ancora divideva finzione dalla realtà. Oggi il sangue sgorga davvero dalle ferite; la follia non è più sguardi divertiti ma colpisce con furia crescente, e l'avventura ha smesso di restare il sogno di ogni bambino e ha cominciato ad abitare gli incubi di tutti noi.
 
@@ -32,21 +32,17 @@ La **Black-Out** de I Signori del Caos e Figli dell'Olocausto inizia la pubblica
 
 La **DAS Production** prova a coinvolgere i giocatori nella scrittura di un modulo per Il Gioco di Ruolo di Dylan Dog.
 
-L'**Editrice Giochi** non si sbottona sulle uscite del 1992, ma pare assodato che verrà pubblicato il modulo geografico Gli Emirati di Ylaruam e la IV edizione di D&D.
-
-[Quest'ultima è che la riedizione della versione BECMI del 1983 che la TSR propone in un set base con miniature in cartoncino e che copre i primi 5 livelli, che viene affiancata dalla Rules Cyclopedia, che invece copre dal 1 al 36esimo livello. In effetti questa è la quarta edizione del gioco ufficialmente chiamato Dungeons & Dragons, la cui prima edizione del 1977 sostituì quello che ora è noto come l'Original Dungeons & Dragons. Non si faccia confusione con D&D 4th edition del 2008 (ben 16 anni più tardi).]
+L'**Editrice Giochi** non si sbottona sulle uscite del 1992, ma pare assodato che verrà pubblicato il modulo geografico _Gli Emirati di Ylaruam_ e la IV edizione di D&D. Quest'ultima non è che la riedizione della versione BECMI del 1983 che la TSR propone in un set base con miniature in cartoncino e che copre i primi 5 livelli, che viene affiancata dalla _Rules Cyclopedia_, che invece copre dal 1 al 36esimo livello. In effetti questa è la quarta edizione del gioco ufficialmente chiamato _Dungeons & Dragons_, la cui prima edizione del 1977 sostituì quello che ora è noto come _Original Dungeons & Dragons_ e di cui il BECMI è la terza edizione. Non si faccia confusione con _D&D 4th edition_ del 2008 (ben 16 anni più tardi).
 
 ![Image 05](/images/kaos-03/05.jpg){class="img-responsive"}
 
-La *E-Elle* prosegue la fortunata edizione dei libri-game con la serie ambientata nella Terra di Mezzo. _Una Spia a Isengard_ e _Tradimento alla Fortezza_ sono i primi titoli. Anche Uno Sguardo nel Buio e la serie Alla Corte di Re Artù ricevono nuovi titoli.
+La **E-Elle** prosegue la fortunata edizione dei libri-game con la serie ambientata nella Terra di Mezzo. _Una Spia a Isengard_ e _Tradimento alla Fortezza_ sono i primi titoli. Anche _Uno Sguardo nel Buio_ e la serie _Alla Corte di Re Artù_ ricevono nuovi titoli.
 
-La **Stratelibri** pubblica _Assassini a Dol Amroth_ e _Woses_ per GiRSA. _L'Eco di Arkham_ continua le uscite, ma la casa di Ingellis si dota una rivista dedicata ai propri prodotti a cadenza bimestrale, _Excalibur_.
+La **Stratelibri** pubblica _Assassini a Dol Amroth_ e _Woses_ per GiRSA. _L'Eco di Arkham_ continua le uscite, ma la casa di Ingellis si dota una rivista dedicata ai propri prodotti a cadenza bimestrale, _Excalibur_. Il primo numero di Excalibur fu pubblicato nel dicembre 1991, e la rivista proseguirà per 54 numeri fino all'ottobre 1998.
 
-[Il primo numero di Excalibur fu pubblicato nel dicembre 1991, e la rivista proseguirà per 54 numeri fino all'ottobre 1998]
+La **FASA** abbandona il gioco di ruolo di Star Trek e si concentra su Shadowrun, mentre la **ICE** lancia un gioco introduttivo compatibile con MERP dal titolo _Lord of the Rings Adventures Game_.
 
-La **FASA** abbandona il gioco di ruolo di Star Trek e si concentra su Shadowrun, mentre la **I.C.E.** lancia un gioco introduttivo compatibile con GiRSA dal titolo _Lord of the Rings Adventures Game_.
-
-La **SSI** pubblica la versione Amiga di _Pool of Darkness_ e per PC _Gateway to the Savage Frontier.
+La **SSI** pubblica la versione Amiga di _Pool of Darkness_ e per PC _Gateway to the Savage Frontier_.
 
 Le recensioni trattano di
 
@@ -72,25 +68,25 @@ Tavosanis prosegue poi collegandosi al cyberpunk e connettendo le manifestazioni
 
 > Per adesso, l'unico dato sicuro e che, nonostante l'enorme clamore suscitato da operazioni del genere, la pirateria informatica ha provocato pochissimi danni: intrusioni non distruttive in reti militari, qualche tentativo di spionaggio, diffusione di virus, copiatura e diffusione di programmi costosi sono tutto quello che gli hacker hanno fatto finora. Però questo, si pensa di solito, è solo l'inizio. L'importanza del computer e della comunicazione tra gli apparecchi si espanderà vertiginosamente nei prossimi anni e il pirataggio rappresenta quindi un grosso problema potenziale per il futuro.
 
-Decisamente queste parole sono più che profetiche, visto l'impatto che ha al giorno d'oggi la sicurezza informatica e le azioni degli hacker.
+Decisamente queste parole sono più che profetiche, visto l'impatto che hanno al giorno d'oggi la sicurezza informatica e le azioni degli hacker.
 
 Nella seconda parte dell'articolo, Pier Filippo Idda presenta in modo sintetico alcuni capisaldi letterari del genere: la trilogia di Gibson, _La Matrice Spezzata_ di Bruce Sterling, Effinger e Dick. Fornisce inoltre un _Minimo Glossario Cyberpunk_.
 
 Il dossier prosegue con il racconto breve _Piramidi di sabbia_ di Luigi D'Aurelio e _Cyberpunk - I giochi_ di Marcello Missiroli, il quale introduce gli articoli dedicati ai sistemi specifici. Missiroli specifica che non verranno trattati per problemi di spazio _Rifts_ della Palladium, _Shadowrun_ della FASA e _Cyber Hero_ della Hero Games. Fa inoltre notare come tutti i manuali trattati non siano ancora disponibili in lingua italiana.
 
-_Cyberpunk_ di Massimiliano Bussi introduce il sistema _Cyberpunk, The Role Playing Game of the Dark Future_ della R. Talsorian Games, anche noto come _Cyberpunk 2020_ essendo ambientato in quell'anno. [Dovrei effettivamente dire _quest'anno_, lacrima. Cyberpunk 2020 è la seconda edizione del gioco della Talsorian, la prima edizione era intitolata Cyberpunk 2013]. _GURPS Cyberpunk_ di Roberto Di Meglio tratta del modulo cyberpunk per il sistema generico della Steve Jackson Games. Come quasi tutti i moduli per GURPS, quello che copre il cyberpunk si rivela una vera e propria enciclopedia, d'altronde l'estremo dettaglio e realismo sono la lama a doppio taglio di questo sistema.
+_Cyberpunk_ di Massimiliano Bussi introduce il sistema _Cyberpunk, The Role Playing Game of the Dark Future_ della R. Talsorian Games, anche noto come _Cyberpunk 2020_ essendo ambientato in quell'anno. Dovrei effettivamente dire _l'anno scorso_ (lacrima). Cyberpunk 2020 è la seconda edizione del gioco della Talsorian, la prima edizione era intitolata Cyberpunk 2013. _GURPS Cyberpunk_ di Roberto Di Meglio tratta del modulo cyberpunk per il sistema generico della Steve Jackson Games. Come quasi tutti i moduli per GURPS, quello che copre il cyberpunk si rivela una vera e propria enciclopedia, d'altronde l'estremo dettaglio e realismo sono la lama a doppio taglio di questo sistema.
 
 ![Image 18](/images/kaos-03/18.jpg){class="img-responsive"}
 
-È il turno di Massimiliano Bussi con _Cyberspace_ che descrive il gioco della Iron Crown Enterprises, il quale, come GiRSA, si basa su RoleMaster. Anche questo manuale, quindi, si pone come un regolamento dettagliato e complesso, che chi ha giocato a GiRSA ha imparato ad apprezzare o odiare. [Personalmente dover consultare 7 tabelle per tirare una freccia non mi ha mai attirato, come non mi attira l'idea di essere un grande eroe che viene fatto fuori da una stilettata fortunata di un nemico qualsiasi.]
+È il turno di Massimiliano Bussi con _Cyberspace_ che descrive il gioco della Iron Crown Enterprises, il quale, come MERP, si basa su Rolemaster. Anche questo manuale, quindi, si pone come un regolamento dettagliato e complesso, che chi ha giocato a GiRSA ha imparato ad apprezzare o odiare. Personalmente dover consultare 7 tabelle per tirare una freccia non mi ha mai attirato, come non mi attira l'idea di essere un grande eroe che viene fatto fuori da una stilettata fortunata di un nemico qualsiasi.
 
 L'ultimo sistema viene presentato da Marcello Missiroli in _Torg e il Cyberpapato_, dove le realtà parallele del gioco della West End Games portano una chiesa violenta e dominata da un'inquisizione piuttosto stereotipata ad incrociarsi con un entità ultraterrena che progetta di dominare la Terra. Superficialmente Torg ricorda le regole di Star Wars, ovvero il sistema D6, che sacrifica decisamente il realismo per portarsi su una maggiore spettacolarità dell'azione, un sistema più "cinematico".
 
-[Trattandosi di cyberpunk penso che la redazione di KAOS avrebbe fatto meglio a trattare Shadowrun, a questo punto, un sistema che, per quanto presenti un ibrido fantascienza/fantasy, è totalmente centrato sul cyberpunk secondo gli stilemi del genere piuttosto che su un modulo così specifico e particolare.]
+Trattandosi di cyberpunk penso che la redazione di KAOS avrebbe fatto meglio a trattare Shadowrun, a questo punto, un sistema che, per quanto presenti un ibrido fantascienza/fantasy, è totalmente centrato sul cyberpunk secondo gli stilemi del genere piuttosto che su un modulo così specifico e particolare.
 
 _Illusioni virtuali_ di Antonio Donini presenta _Cybercon III_, un videogioco per Amiga (e successivamente per DOS) della US Gold, con dei _Cybercon-sigli_ per risolvere l'avventura. _IA - Intelligenza Artificiale_ di Roberto Di Meglio anticipa Spielberg di ben 9 anni parlando di quello che i computer possono fare nel 1992 nel campo dell'imitazione della coscienza umana.
 
-Il dossier si conclude con un'intervista ad Antonio Serra, uno degli autori di _Nathan Never_, l'ottimo fumetto di fantascienza della Bonelli. L'intervista ruota attorno alle fonti di ispirazione per il fumetto e il mondo in cui sono ambientate le avventure degli agenti Alfa.
+Il dossier si conclude con un'intervista ad Antonio Serra, uno degli autori di Nathan Never, l'ottimo fumetto di fantascienza della Bonelli. L'intervista ruota attorno alle fonti di ispirazione per il fumetto e il mondo in cui sono ambientate le avventure degli agenti Alfa.
 
 # Game - Software & Sushi
 
@@ -114,7 +110,7 @@ Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza 
 
 # Rubriche
 
-Questo numero contiene due pagine di Errata corrige per _Il gioco di ruolo di Dylan Dog_ e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
+Questo numero contiene due pagine di Errata corrige per Il gioco di ruolo di Dylan Dog e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
 
 ![Image 61](/images/kaos-03/61.jpg){class="img-responsive"}
 
