@@ -1,125 +1,137 @@
-Title: KAOS 03
+Title: KAOS 04
 Date: 2021-04-27 08:00:00 +0100
 Category: Riviste
 Tags: gdr, libri, fumetti
 Authors: Leonardo Giordani
-Slug: kaos-03
-Summary: Terzo numero di KAOS, dopo due mesi dal numero 2. Un piccolo rallentamento che però non tradisce un calo di qualità della rivista. Questa volta, dopo il fantasy di Dungeons & Dragons e l'horror de Il Richiamo di Cthulhu passiamo ad un altro ambito importante, la fantascienza del cyberpunk!
+Slug: kaos-04
+Summary: Quarto numero di KAOS, che nel 1992 e negli anni successivi uscirà con costanza di mese in mese. Il terzo grande vecchio del GdR si fa avanti, e ha dalla sua tutto il peso oxfordiano di uno degli scrittori più importanti della letteratura fantastica, John R. R. Tolkien. Ecco il dossier su "Il Signore degli Anelli"!
 
-Prosegue KAOS nella sua avventura che, lo sappiano in quanto posteri, durerà molto a lungo. Nei primi due numeri la redazione ha giustamente trattato il grande capostipite di tutti i GdR, Dungeons & Dragons, e con esso il fantasy classico, per l'appunto "alla D&D". Che poi, come vedremo tra qualche numero, tanto classico non è, in quanto ad esempio Conan di Howard e Elric di Moorcock lo anticipano notevolmente, assieme a molti altri compagni di cammino.
+Quarto numero, ormai il format è assodato. Il contenuto però riprende vigore, dopo la tiepida incursione nel cyberpunk, e si ritorna al fantasy e non ad un fantasy qualsiasi.
 
-![Image 01](/images/kaos-03/01.jpg){class="img-responsive"}
+Tutto il numero è dedicato a "Il Signore degli Anelli", che già nel 1992 era giustamente osannato come uno dei capisaldi del genere fantasy. Ad essere del tutto onesti, "The Lord of the Rings" dovrebbe stare in una categoria a parte, essendo un romanzo con un respiro ed una molteplicità di livelli di lettura che lo rendono semplicemente immortale. Ciò non toglie che il mondo della Terra di Mezzo sia un luogo che ha ispirato ed ispira autori, artisti, e giocatori di ogni tempo fin dalla pubblicazione del romanzo.
 
-Nel secondo numero non si poteva se non andare agli antipodi del genere, con un altro grande vecchio, o forse dovrei dire "grande Antico"! Il Richiamo di Cthulhu della Chaosium, portato in Italia dalla Stratelibri, trasporta i giocatori nell'universo pessimista dell'orrore cosmico di H.P. Lovecraft, e lo fa con grande maestria.
+![Image 01](/images/kaos-04/01.jpg){class="img-responsive"}
 
-Ora è il turno della fantascienza, e in particolare di un sottogenere chiamato cyberpunk. Un termine entrato di prepotenza nel 1984 con Neuromante di William Gibson, anche se le basi erano state già gettate da Philip Dick e altri nei due decenni precedenti. Il genere cyberpunk contrasta con la fantascienza ottimista e presenta un mondo distopico dove, nonostante i progressi della tecnologia, la società non si è rinnovata in modo radicale, e le differenze tra ricchi e poveri sono ancora le stesse, se non accentuate, e il mondo è in balia delle decisioni di grandi corporazioni.
+Scrivendo ben 29 anni dopo l'uscita di questo numero, posso dire di essere stato testimone di molti eventi che i lettori di allora, io tra essi, potevano auspicarsi solamente nei loro sogni più rosei. Che i board games e i giochi per computer divenissero un fenomeno di massa, che le serie TV "fantastiche" (abbracciando con questo termine fantasy, fantascienza, supereroi, horror) risultassero talmente diffuse che chi non le conosce o non le segue è "strano", sono stravolgimenti totali del mondo in cui usciva KAOS numero 4. Al tempo non c'era la superba trilogia di Peter Jackson, non si potevano acquistare set LEGO a tema, nè action figure dei personaggi di Tolkien su Amazon.
 
-Nel 2021, 37 anni dopo Neuromante, la tecnologia ha fatto passi da gigante, si è evoluta in modo inaspettato, anche se globalmente minore rispetto a quanto prospettato, ma sicuramente si è avverata una predizione del cyberpunk: la società non cambia solamente perché cambia la tecnologia. Sicuramente nel "primo mondo" abbiamo semplificato tante cose, ma questo ha coinciso con un disinteresse sociale sempre maggiore e non si è visto né un calo delle guerre nel mondo, né tantomeno un livellamento della ricchezza mondiale. Non ci sono megacorporazioni che hanno sostituito i partiti, non ufficialmente almeno, ma non sembra che la politica mondiale si muova perseguendo chissà quali alti fini. E apparentemente non abbiamo ancora cessato di credere nel dio tecnologico.
+Ma erano già quasi 40 anni che l'opera del professore di Oxford sedeva sul trono imperituro di classico senza tempo, fin dalla sua uscita nel lontanissimo 1954 e quindi già generazioni di appassionati lo avevano gustato, e nel nostro "settore" c'era molto materiale.
 
-Ad ogni modo, vediamo cosa accadeva nel 1992 con KAOS numero 3!
+Era stato pubblicato molto delle opere dello scrittore-filologo, grazie all'opera del figlio Cristopher (morto nel 2020): ricordo che _The Silmarillion_ esce nel 1977, seguito poi da _Unfinished Tales_ e dai primi 8 volumi della serie _The History of Middle-earth_, senza contare _The Letters of J. R. R. Tolkien_ e _The Monsters and the Critics, and Other Essays_.
+
+Sul fronte ludico i primi microcomputer avevano già visto incursioni in Arda con alcune avventure testuali e grafiche e alcuni giochi di strategia, mentre nel micromondo che esiste sulla tavola del soggiorno regnava incontrastata la Iron Crown Enterprises con _MERP_ (_GiRSA_ in Italia, arrivato grazie alla Stratelibri) e il _Lord of the Rings Adventure Game_, accompagnati dalla Grenadier prima e dalla Mithril dopo con la loro produzione di miniature. Infine, sul fronte cinematografico, le speranze erano ormai tenui se non nulle, dopo che l'avventura di Ralph Bakshi aveva lasciato le cose a metà e più insoddisfazione che altro.
+
+Questo il mondo in cui ci muovevamo nel 1992, vediamo cosa ci raccontava KAOS in febbraio con il numero 4!
 
 # Copertina ed editoriale
 
-La copertina non esaltante (a mio parere) di Onofrio Catacchio introduce il tema del mese: il cyberpunk. L'editoriale  è del direttore Luigi Bernardi, metà del quale va però alle ortiche dominato da Urgh l'orchetto. Nella parte seria il direttore dice che
-
-> Mai come in questi ultimi tempi la produzione di genere (incanalata lungo i suoi linguaggi preferenziali: la narrativa, il cinema e il fumetto) ha sollecitamente anticipato la realtà. E l'horror e la fantascienza sono stati teatro di stravolgimenti ritenuti impossibili. Il primo non consola più con finali rassicuranti, il secondo ha saputo scegliere strade ben più tortuose della semplice estrapolazione fantastica. in tutti i casi, il cambiamento non è avvenuto senza lacerazioni e ambiguità. Cyberpunk, splatterpunk e psychopunk hanno definitivamente strappato l'ultimo velo che ancora divideva finzione dalla realtà. Oggi il sangue sgorga davvero dalle ferite; la follia non è più sguardi divertiti ma colpisce con furia crescente, e l'avventura ha smesso di restare il sogno di ogni bambino e ha cominciato ad abitare gli incubi di tutti noi.
+La copertina di Paolo Parente è sicuramente di grande impatto e riporta in alto lo standard dopo la non esaltante rappresentazione del cyberpunk nel numero precedente. Nell'ironico editoriale la redazione di KAOS si conferma piuttosto orientata ad un approccio leggero, che tutto sommato non guasta, anche se talvolta un po' troppo invadente per i miei gusti.
 
 # News
 
-La **Granata Press** (editore di KAOS) si accinge a tradurre sei romanzi della FASA ambientati negli universi di Shadowrun e Battletech.
+La **Black-Out** continuare a supportare I Signori del Caos e I Figli dell'Olocausto.
 
-La **Black-Out** de I Signori del Caos e Figli dell'Olocausto inizia la pubblicazione di una nuova rivista a fumetti denominata _Fantasy_.
+La **DAS Production** prosegue l'impresa de Il Gioco di Ruolo di Dylan Dog, confermando la prossima uscita di un modulo/espansione con protagonista Martin Mystére.
 
-La **DAS Production** prova a coinvolgere i giocatori nella scrittura di un modulo per Il Gioco di Ruolo di Dylan Dog.
+La **Johnny Reb** si appresta ad uscire con un gioco da tavolo di combattimenti aerei, ed un sistema universale per miniature da 25mm 
 
-L'**Editrice Giochi** non si sbottona sulle uscite del 1992, ma pare assodato che verrà pubblicato il modulo geografico Gli Emirati di Ylaruam e la IV edizione di D&D.
+La **RIPA** inizia a pubblicare in Italia i prodotti FASA, partendo con _Shadowrun_ e _Battletech_ (già della Stratelibri).
 
-[Quest'ultima è che la riedizione della versione BECMI del 1983 che la TSR propone in un set base con miniature in cartoncino e che copre i primi 5 livelli, che viene affiancata dalla Rules Cyclopedia, che invece copre dal 1 al 36esimo livello. In effetti questa è la quarta edizione del gioco ufficialmente chiamato Dungeons & Dragons, la cui prima edizione del 1977 sostituì quello che ora è noto come l'Original Dungeons & Dragons. Non si faccia confusione con D&D 4th edition del 2008 (ben 16 anni più tardi).]
+Parlando della **Stratelibri**, la ditta di Giovanni Ingellis esce con un modulo per Il Richiamo di Cthulhu e uno per D&D/AD&D, prosegue con Excalibur, la rivista dedicata ai propri prodotti, e si appresta a pubblicare una versione italiana del già nominato Lord of the Rings Adventure Game, il _Gioco di Avventura del Signore degli Anelli_, una versione semplificata del sistema MERP/GiRSA che già era una versione semplificata di Rolemaster.
 
-![Image 05](/images/kaos-03/05.jpg){class="img-responsive"}
+Esce questo mese la quinta edizione di _Call of Cthulhu_ ad opera della **Chaosium**. Un'edizione importante, in quanto le successive sesta e settima non apporteranno cambiamenti radicali, e ancora oggi ricercata non solo dai collezionisti ma anche dai giocatori.
 
-La *E-Elle* prosegue la fortunata edizione dei libri-game con la serie ambientata nella Terra di Mezzo. _Una Spia a Isengard_ e _Tradimento alla Fortezza_ sono i primi titoli. Anche Uno Sguardo nel Buio e la serie Alla Corte di Re Artù ricevono nuovi titoli.
+La **FASA** continua a supportare Shadowrun e Mechwarrior, mentre la **Steve Jackson Games** pubblica _GURPS Robin Hood_ che permette di trasporre l'eroe del folklore inglese in ambiti piuttosto bizzarri quali il cyberpunk, e la **ICE** rilascia supplementi per MERP e Cyberspace.
 
-La **Stratelibri** pubblica _Assassini a Dol Amroth_ e _Woses_ per GiRSA. _L'Eco di Arkham_ continua le uscite, ma la casa di Ingellis si dota una rivista dedicata ai propri prodotti a cadenza bimestrale, _Excalibur_.
+La **Leading Edge** da alle stampe il _Predator 2 RPG_, accompagnando il precedente Aliens Adventure Game. La **Nova Games** tenta di entrare nel mondo dei giochi di ruolo con _Runesword_, sfruttando l'ambientazione di una serie di libri qui attribuiti a Tracy Hickman ma in realtà scritti da altri autori.
 
-[Il primo numero di Excalibur fu pubblicato nel dicembre 1991, e la rivista proseguirà per 54 numeri fino all'ottobre 1998]
+La **TSR** è ancora nel suo periodo di grande successo e continua a sfornare supplementi per i classici D&D e AD&D, mentre la **Walnut Group** prova a portare l'idea alla base del videogioco Populous nel mondo dei giochi di ruolo, dandoci il controllo di interi popoli. Infine la **White Wolf** continua a sfornare supplementi per Vampire.
 
-La **FASA** abbandona il gioco di ruolo di Star Trek e si concentra su Shadowrun, mentre la **I.C.E.** lancia un gioco introduttivo compatibile con GiRSA dal titolo _Lord of the Rings Adventures Game_.
+![Image 06](/images/kaos-04/06.jpg){class="img-responsive"}
 
-La **SSI** pubblica la versione Amiga di _Pool of Darkness_ e per PC _Gateway to the Savage Frontier.
+Sul fronte delle novità videoludiche, KAOS segnala che la **Electronic Arts** ha acquistato i diritti di Warhammer (probabilmente per quello che sarà l'eccezionale _Space Hulk_ del 1993, NdA), mentre la francese Infogrames mette il piede nel New England di Lovecraft (per quello che sarà il suo rivoluzionario _Alone in the Dark_, NdA). Annunciati anche _Abandoned Places_ della **Electronic Zoo**, _Might and Magic III_ e _Eye of the Beholder II_ della **US Gold** e _Black Crypt_ ancora della **Electronic Arts**.
 
-Le recensioni trattano di
+Completano le news alcune notizie su conventions più o meno riuscite, una guida sullo shopping "di settore" a Londra (che cita il tuttora esistente Forbidden Planet, un posto dove entrare rigorosamente _senza_ carta di credito), l'annuncio dell'edizione italiana de _L'Erede dell'Impero_, primo volume della _Thrawn Trilogy_ di Timoty Zahn e varie notizie riguardanti club e associazioni.
 
-**Warhammer 40.000 Rogue Trader** - Editore: Games Workshop - Prezzo: L. 60.000 circa
+Le recensioni di questo numero sono:
 
-**I cancelli di Mordor** - Editore: I.C.E./Stratelibri - Prezzo: L. 16.000
+**Toon** - Editore: Steve Jackson Games - Prezzo: L. 45.000
 
-**In principio era il drago. Guida al gioco di ruolo** di Luca Giuliano - Editore:Proxima Editrice - Prezzo: L. 25.000
+**Terrore dalle stelle** - Editore: Stratelibri - Prezzo: L. 16.000
 
-**L'Eco di Arkham** - Editore: Stratelibri - Prezzo: L. 1.200
+**Western Hero/ GURPS Old West** - Editore: ICE/Steve Jackson Games - Prezzo: L. 44.000/L. 37.500
 
-# Dossier - Cyberpunk
+**Matapan** - Editore: Johnny Reb - Prezzo: L. 15.000
 
-Il dossier di questo numero è introdotto da un'immagine di Paolo Poli, nettamente migliore di quella di copertina ma ancora lontana dagli stilemi del genere.
+**Alta società** - Editore: DaS Production - Prezzo: L. 15.000
 
-![Image 11](/images/kaos-03/11.jpg){class="img-responsive"}
+# Dossier - Il Signore degli Anelli
 
-Il primo articolo, _Cyberpunk. Il reale..._ di Mirko Tavosanis che fa coppia con il successivo _... e l'immaginario_ di Pier Filippo Idda. Tavosanis, al suo secondo dossier, esordisce con
+Il dossier si apre con il confronto tra Gandalf e il Re Stregone di Angmar alle porte di Minas Tirith, ad opera di Angus McBride, autore noto ai fan dell'opera di Tolkien e soprattutto ai giocatori di GiRSA, essendo le sue opere molto utilizzate alla ICE. Una pagina che già da sola vale tutto il dossier.
 
-> Un nuovo senso alla parola 'cyberpunk' è stato dato, l'anno scorso, dall'ormai famosa operazione 'Sun Devil'. Nella notte del primo marzo 1990, agenti dei Servizi Segreti USA hanno fatto irruzione nella sede della Steva Jackson Games, la notissima casa produttrice di giochi di ruolo, sequestrando materiali e attrezzature; nell'operazione sono stati coinvolti anche collaboratori della ditta ed esperti di computer, con perquisizioni notturne e sequestri di materiale. I motivi? Una campagna scatenata contro i pirati del computer, spesso dei semplici ragazzi che si infiltrano in sistemi protetti, casi difficili da combattere con la legislazione normale. "Con l'esperienza, i tutori dell'ordine hanno tirato fuori una tattica non ortodossa ma funzionale. Si tratta di evitare del tutto i processi, o anche solo l'accusa e l'arresto. Invece, squadre di poliziotti minacciosi si gettano sulla casa del ragazzino sospettato e sequestrano il suo computer come 'prova'. Se si tratta di un bravo ragazzo che si pente e promette di non cacciarsi più nei guai, il costosissimo materiale gli sarà restituito in breve tempo. Se invece è un caso difficile, tanto peggio. I suoi giocattoli possono restarsene imballati per un paio d'anni" spiega Bruce Sterling nel riassunto della situazione fatto sul numero 44 della rivista di fantascienza "Interzone".
+![Image 13](/images/kaos-04/13.jpg){class="img-responsive"}
 
-Tavosanis prosegue poi collegandosi al cyberpunk e connettendo le manifestazioni reali alla letteratura di genere. Un passo curioso, per noi lettori di 30 anni dopo è il seguente
+È Roberto di Meglio ad dare inizio alle danze, con l'articolo _Viaggio nella Terra di Mezzo_. Di Meglio è chiaramente ben informato su Tolkien (non che mi aspettassi il contrario) e scrive un buon articolo che riesce a riassumere l'opera di Tolkien sia dal punto di vista letterario che da quello editoriale, impresa non banale.
 
-> Per adesso, l'unico dato sicuro e che, nonostante l'enorme clamore suscitato da operazioni del genere, la pirateria informatica ha provocato pochissimi danni: intrusioni non distruttive in reti militari, qualche tentativo di spionaggio, diffusione di virus, copiatura e diffusione di programmi costosi sono tutto quello che gli hacker hanno fatto finora. Però questo, si pensa di solito, è solo l'inizio. L'importanza del computer e della comunicazione tra gli apparecchi si espanderà vertiginosamente nei prossimi anni e il pirataggio rappresenta quindi un grosso problema potenziale per il futuro.
+> Non sono molti gli autori che possono vantare un seguito, non solo di lettori, ma anche di emuli e imitatori più o meno riusciti, così vasto come quello di John Ronald Reuel Tolkien. il successo del suo romanzo più importante, _Il Signore degli anelli_, è ancor più significativo se si pensa che la narrativa fantastica, in quanto al di fuori del cosiddetto "mainstream" (ovvero la narrativa non di "genere", n.d.r.), è stata spesso ghettizzata, anche se nei paesi anglosassoni in misura fortunatamente minore che da noi. In Italia, pur se pubblicata piuttosto tardivamente, l'opera di Tolkien ha riscosso un grande successo di pubblico e critica: in questo 1992, anno del centenario della nascita dello scrittore britannico, _Il Signore degli Anelli_ è giunto alla sua ventitreesima ristampa.
 
-Decisamente queste parole sono più che profetiche, visto l'impatto che ha al giorno d'oggi la sicurezza informatica e le azioni degli hacker.
+Di Meglio affonda tranquillamente nei punti forti di Tolkien
 
-Nella seconda parte dell'articolo, Pier Filippo Idda presenta in modo sintetico alcuni capisaldi letterari del genere: la trilogia di Gibson, _La Matrice Spezzata_ di Bruce Sterling, Effinger e Dick. Fornisce inoltre un _Minimo Glossario Cyberpunk_.
+> Buona parte di questa sensazione di verosimiglianza nasce dal fatto che la Terra di Mezzo, in cui si svolge la saga de _Il Signore degli Anelli_, è in realtà il frutto di una vita di lavoro da parte del suo stesso autore, prima e dopo la scrittura del romanzo.
 
-Il dossier prosegue con il racconto breve _Piramidi di sabbia_ di Luigi D'Aurelio e _Cyberpunk - I giochi_ di Marcello Missiroli, il quale introduce gli articoli dedicati ai sistemi specifici. Missiroli specifica che non verranno trattati per problemi di spazio _Rifts_ della Palladium, _Shadowrun_ della FASA e _Cyber Hero_ della Hero Games. Fa inoltre notare come tutti i manuali trattati non siano ancora disponibili in lingua italiana.
+> [...]
 
-_Cyberpunk_ di Massimiliano Bussi introduce il sistema _Cyberpunk, The Role Playing Game of the Dark Future_ della R. Talsorian Games, anche noto come _Cyberpunk 2020_ essendo ambientato in quell'anno. [Dovrei effettivamente dire _quest'anno_, lacrima. Cyberpunk 2020 è la seconda edizione del gioco della Talsorian, la prima edizione era intitolata Cyberpunk 2013]. _GURPS Cyberpunk_ di Roberto Di Meglio tratta del modulo cyberpunk per il sistema generico della Steve Jackson Games. Come quasi tutti i moduli per GURPS, quello che copre il cyberpunk si rivela una vera e propria enciclopedia, d'altronde l'estremo dettaglio e realismo sono la lama a doppio taglio di questo sistema.
+> Vale la pena di osservare che i personaggi di Tolkien sono spesso stati, in interpretazioni semplicistiche, visti come totalmente buoni o cattivi, senza mezze tinte. in realtà la visione del mondo di Tolkien è certamente religiosa, ma non banalmente manichea.
 
-![Image 18](/images/kaos-03/18.jpg){class="img-responsive"}
+Un sentito ringraziamento (tardivo?) a Roberto Di Meglio per queste annotazioni.
 
-È il turno di Massimiliano Bussi con _Cyberspace_ che descrive il gioco della Iron Crown Enterprises, il quale, come GiRSA, si basa su RoleMaster. Anche questo manuale, quindi, si pone come un regolamento dettagliato e complesso, che chi ha giocato a GiRSA ha imparato ad apprezzare o odiare. [Personalmente dover consultare 7 tabelle per tirare una freccia non mi ha mai attirato, come non mi attira l'idea di essere un grande eroe che viene fatto fuori da una stilettata fortunata di un nemico qualsiasi.]
+L'interessante dossier continua con un articolo di marcello Missiroli intitolato _Giocare nella Terra di Mezzo_ dove la trattazione vira su temi più legati al gioco di ruolo. Missiroli propone una breve ma precisa storia della creazione del Middle Earth Role-Playing (MERP), la sua derivazione da Rolemaster, l'attenzione all'ambientazione. Viene brevemente trattata anche la traduzione italiana che risale solamente al 1991. È interessante notare come, benché la traduzione sai lodata, la Stratelibri e Giovanni Ingellis non vengono nominati per nulla. Forse che Missiroli fosse uno pseudonimo di Nando Ferrari?
 
-L'ultimo sistema viene presentato da Marcello Missiroli in _Torg e il Cyberpapato_, dove le realtà parallele del gioco della West End Games portano una chiesa violenta e dominata da un'inquisizione piuttosto stereotipata ad incrociarsi con un entità ultraterrena che progetta di dominare la Terra. Superficialmente Torg ricorda le regole di Star Wars, ovvero il sistema D6, che sacrifica decisamente il realismo per portarsi su una maggiore spettacolarità dell'azione, un sistema più "cinematico".
+![Image 15](/images/kaos-04/15.jpg){class="img-responsive"}
 
-[Trattandosi di cyberpunk penso che la redazione di KAOS avrebbe fatto meglio a trattare Shadowrun, a questo punto, un sistema che, per quanto presenti un ibrido fantascienza/fantasy, è totalmente centrato sul cyberpunk secondo gli stilemi del genere piuttosto che su un modulo così specifico e particolare.]
+L'articolo prosegue con una panoramica del sistema di gioco, la creazione dei personaggi, il combattimento, l'esperienza, la magia, e infine il futuro del gioco. Noi, con la vista potenziata da quasi 30 anni di tempo passato, sappiamo che la ICE perse i diritti del gioco nel 1999 e l'anno seguente andò in bancarotta. I diritti furono poi rilevati dalla Decipher, che pubblicò _The Lord of the Rings Roleplaying Game_ dal 2002 al 2006, per poi passare infine all'irlandese Cubicle 7 che dal 2011 pubblica _The One Ring Roleplaying Game_ degli italiani Marco Maggi (Lex Arcana, War of the Ring) e Francesco Nepitello (War of the Ring). Ne è passata di acqua tra le sponde dell'Anduin!
 
-_Illusioni virtuali_ di Antonio Donini presenta _Cybercon III_, un videogioco per Amiga (e successivamente per DOS) della US Gold, con dei _Cybercon-sigli_ per risolvere l'avventura. _IA - Intelligenza Artificiale_ di Roberto Di Meglio anticipa Spielberg di ben 9 anni parlando di quello che i computer possono fare nel 1992 nel campo dell'imitazione della coscienza umana.
+_Oltre la Terra di Mezzo - Ovvero GiRSA oltreoceano_ sempre di Missiroli riassume la produzione di supplementi che la ICE ha prodotto dal 1985 al 1992, dividendoli in moduli di avventura, moduli di campagna o geografici, le città, e altri materiali. Missiroli termina con una nota che ben riassume MERP/GiRSA
 
-Il dossier si conclude con un'intervista ad Antonio Serra, uno degli autori di _Nathan Never_, l'ottimo fumetto di fantascienza della Bonelli. L'intervista ruota attorno alle fonti di ispirazione per il fumetto e il mondo in cui sono ambientate le avventure degli agenti Alfa.
+> Non vorremmo avervi dato l'idea che _MERP/GiRSA_ sia una fedele trascrizione di Tolkien, ben lungi! Anzi, spesso accade proprio il contrario: troppa magia, e troppi luoghi sconosciuti sono straripanti di significati cui Tolkien non aveva mai pensato. Ma questo deve essere un gioco, e certamente sarebbe difficile giocare se esistesse solo un pugno di maghi come nei romanzi: le "licenze poetiche" sono comunque necessarie e accettabili e riescono a mantenere una sufficiente aderenza al mondo descritto nei libri.
 
-# Game - Software & Sushi
+![Image 20](/images/kaos-04/20.jpg){class="img-responsive"}
 
-In questo numero Piero Cioni presenta un gioco da tavolo in cui dei gruppi di hacker gestiti dai giocatori tentano di penetrare le reti informatiche di multinazionali e di strutture militari. La più tradizionale ambientazione cyberpunk!
+La palla torna a Roberto Di Meglio per uno spinoso articolo intitolato _Tolkien e Bakshi_ che inizia con "Ha senso discutere, dopo 12 anni dalla sua uscita, dell'adattamento filmico del _Il Signore degli Anelli_ realizzato da Ralph Bakshi?". Interessante l'annotazione "[...] concentrare milleduecento pagine di testo in due sole ore è compito al di sopra delle umane forze". Sento Peter Jackson ridacchiare nell'angolo. Ancora c'è gente che si lamenta delle parti "mancanti" nella trilogia del 2001, che in versione estesa dura più di 11 ore.
 
-![Image 26](/images/kaos-03/26.jpg){class="img-responsive"}
+Alessandro Leati ci porta poi nel mondo videoludico con _Il signore dei computer_ con una trattazione sintetica ma completa di quanto fatto fino a quel momento nel (relativamente) limitato panorama di quegli anni.
 
-# Game - Le mappe di Eye of the Beholder
+Troviamo poi l'articolo _Immagini_ di Cosimo Lorenzo Pancini, che tratta delle illustrazioni di Rodney Matthews, Michael Hague, David Wenzel e altri. _Ring Wars_ di Roberto di Meglio tratta dei giochi da tavolo ispirati dalle opere di Tolkien. Ricordo che Di Meglio sarà co-autore nel 2005 dell'apprezzatizzimo e difficilissimo _War of the Ring_ assieme ai già citati Marco Maggi e Francesco Nepitello, quindi pare che in fondo rimanga tutto "in famiglia". Termina il dossier _Il ritorno di Gandalf_ di Roberto Cecchini che introduce l'album _Tales from a Long Forgotten Kingdom_ di Gandalf, un artista austriaco new-age tuttora attivo, che benché non direttamente connesso con Il Signore degli Anelli sembra riuscire a catturarne lo spirito. Ma noi adesso abbiamo la colonna sonora di Howard Shore e non ci manca più nulla, grazie.
 
-Nel perfetto stile delle riviste anni 90 (e precedenti), Mauro Cheli su questo numero di KAOS ci fornisce le mappe degli 11 livelli di Eye of the Beholder, il "computer game fantasy" della SSI sviluppato dalla Westwood Associates (poi Westwood Studios) e pubblicato nel 1991 per MS-DOS e Amiga.
+# Avventura - Il tesoro dei Catari
 
-![Image 38](/images/kaos-03/38.jpg){class="img-responsive"}
+La prima lunga avventura presentata in questo numero è scritta da Paolo Areni e Andrea Armieri e illustrata da Luca Poli. Si rivolge ai giocatori de _I Cavalieri del Tempio_ della E.Elle, pensata come seguito dell'avventura contenuta nel manuale base del gioco.
 
-# Fumetto - Leggende delle contrade dimenticate
+![Image 27](/images/kaos-04/27.jpg){class="img-responsive"}
 
-Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza de _La Stagione delle Ceneri_.
+# Avventura - Scende la notte
 
-> Tre nani sono alla ricerca del designato al trono e a loro si è unito Firfin, un avventuriero senza tanti scrupoli: la compagnia, così assortita, cerca di reclutare mercenari disposti a seguirli verso il Grande Nord. Impresa non facile se si considera l'alone di terrore che avvolge quelle contrade.
+La seconda avventura, di Roberto Di Meglio e Simone Peruzzi, si rivolge invece a giocatori di Dungeons & Dragons o Warhammer Fantasy Roleplay, ma permettendo di adattarla a giochi horror come Il Richiamo di Cthulhu o Il Gioco di Ruolo di Dylan Dog. Le illustrazioni e le mappe sono di Andrea Accardi e Andrea Armieri.
 
-![Image 47](/images/kaos-03/47.jpg){class="img-responsive"}
+![Image 34](/images/kaos-04/34.jpg){class="img-responsive"}
 
-# Rubriche
+# Fumetto - Cronache della Luna Nera
 
-Questo numero contiene due pagine di Errata corrige per _Il gioco di ruolo di Dylan Dog_ e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
+Si interrompe, temporaneamente, la pubblicazione delle Leggende delle contrade dimenticate per passare alle _Cronache della Luna Nera_ di Ledroit e Froideval con l'atto primo "Il Segno delle Tenebre".
 
-![Image 61](/images/kaos-03/61.jpg){class="img-responsive"}
+> Al centro dell'impero stava... l'Oracolo. A tutti parlava la maschera di pietra, ma uno solo poteva scorgere il suo vero volto. E, quel giorno, quell'uomo era arrivato...
+
+![Image 52](/images/kaos-04/52.jpg){class="img-responsive"}
+
+# Argomenti
+
+Andrea Armieri ci presenta _Tiro con... l'orco?_ che descrive un gioco di ruolo combinato con il tiro con l'arco. La Gaming Expedition Force of Italy ci propone _Rapporti di guerra: European GEN-CON '91_, dedicato alla controparte europea della GEN-CON americana, sempre organizzata dalla TSR e tenutasi a Camber, nel Sussex (UK).
+
+![Image 65](/images/kaos-04/65.jpg){class="img-responsive"}
+
+_Il wargame tridimensionale - Il periodo napoleonico 1796-1815_ di Michele D'Agostino prosegue quanto scritto dallo stesso autore nel numero 2 sul mondo delle simulazioni di guerra. Marcello Missiroli fa una sintesi dello stato delle BBS in Italia con _Cyberpunk now!_, breve ma interessante per noi che ormai diamo Internet per scontata, e chiude il numero _La notte degli Oscarrafoni_ che prende bellamente per i fondelli giochi, riviste e autori in voga in quel periodo.
 
 # Conclusione
 
-Un numero 3 un po' sottotono, a mio personalissimo parere. Il tema del cyberpunk è trattato in modo un po' superficiale, citando tutti i capisaldi del genere ma non andando troppo in profondità. D'altronde la redazione si trova per la prima volta alle prese con un genere invece che con un sistema specifico come nei primi due numeri. Ad ogni modo, un gennaio 1992 benedetto da altre 68 pagine che trattano di giochi, nessuno si lamentò e mi guardo bene dal farlo ora. Il numero 4 tratterà nuovamente di un sistema singolo, e questa volta si torna al fantasy!
+Il numero 4 recupera alla grande il momentaneo rallentamento del numero 3, e vorrei ben vedere, con un tema come quello trattato. Ce ne sarebbe per riempire 10 numeri! Le due avventure presentate sono molto dettagliate e lunghe, e gli articoli di contorno fanno il loro mestiere dando al lettore una buona idea di quanto accade a 360 gradi nel mondo dei "Giochi di ruolo - Fantasy - Avventure", per citare il sottotitolo della rivista. Nel prossimo numero si tratterà un genere che al tempo era veramente di nicchia e che oggi è più mainstream della Coca Cola: i supereroi!
 
-KAOS numero 3, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/TElnzIpC#neFSXx-u_31Qz_rXsvd1I2CFmsX5uLuvUiG3j_YhFu4)
+KAOS numero 4, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/TIViSRQI#6JJ0zC93GNBbMHZGOEDn0YM9MtTy6AfdgXhIo9pifco)
