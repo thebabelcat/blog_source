@@ -111,4 +111,4 @@ Proseguono i _Racconti di taverna_, mentre Michele D'Agostino propone un pezzo d
 
 KAOS prosegue a gonfie vele, altre 68 pagine zeppe di informazioni e di succulenti dettagli sul gioco di ruolo e quanto ci gravita intorno. Il 1991 non poteva essere più roseo per i giocatori italiani! A quando il numero 3?
 
-KAOS numero 2, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/SUkBQCrB#rZICl6ulUq9khc4TZP_yNKWmW6OOcESdQRJ7rQqn0HY)
+KAOS numero 2, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/vEdhWYgL#bomavC9b8IbzeRffuen03GQl0rOoQQ7nmPR2Hb_vf4k)

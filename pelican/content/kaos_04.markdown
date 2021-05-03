@@ -134,4 +134,4 @@ _Il wargame tridimensionale - Il periodo napoleonico 1796-1815_ di Michele D'Ago
 
 Il numero 4 recupera alla grande il momentaneo rallentamento del numero 3, e vorrei ben vedere, con un tema come quello trattato. Ce ne sarebbe per riempire 10 numeri! Le due avventure presentate sono molto dettagliate e lunghe, e gli articoli di contorno fanno il loro mestiere dando al lettore una buona idea di quanto accade a 360 gradi nel mondo dei "Giochi di ruolo - Fantasy - Avventure", per citare il sottotitolo della rivista. Nel prossimo numero si tratterà un genere che al tempo era veramente di nicchia e che oggi è più mainstream della Coca Cola: i supereroi!
 
-KAOS numero 4, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/TIViSRQI#6JJ0zC93GNBbMHZGOEDn0YM9MtTy6AfdgXhIo9pifco)
+KAOS numero 4, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/icFx1CTL#mclg6iY22lThIpk-1AW0e2tKCPGoqmZA7739BMIXWmo)
