@@ -22,11 +22,11 @@ Sul fronte ludico i primi microcomputer avevano già visto incursioni in Arda co
 
 Questo il mondo in cui ci muovevamo nel 1992, vediamo cosa ci raccontava KAOS in febbraio con il numero 4!
 
-# Copertina ed editoriale
+## Copertina ed editoriale
 
 La copertina di Paolo Parente è sicuramente di grande impatto e riporta in alto lo standard dopo la non esaltante rappresentazione del cyberpunk nel numero precedente. Nell'ironico editoriale la redazione di KAOS si conferma piuttosto orientata ad un approccio leggero, che tutto sommato non guasta, anche se talvolta un po' troppo invadente per i miei gusti.
 
-# News
+## News
 
 La **Black-Out** continuare a supportare I Signori del Caos e I Figli dell'Olocausto.
 
@@ -64,7 +64,7 @@ Le recensioni di questo numero sono:
 
 **Alta società** - Editore: DaS Production - Prezzo: L. 15.000
 
-# Dossier - Il Signore degli Anelli
+## Dossier - Il Signore degli Anelli
 
 Il dossier si apre con il confronto tra Gandalf e il Re Stregone di Angmar alle porte di Minas Tirith, ad opera di Angus McBride, autore noto ai fan dell'opera di Tolkien e soprattutto ai giocatori di GiRSA, essendo le sue opere molto utilizzate alla ICE. Una pagina che già da sola vale tutto il dossier.
 
@@ -102,19 +102,19 @@ Alessandro Leati ci porta poi nel mondo videoludico con _Il signore dei computer
 
 Troviamo poi l'articolo _Immagini_ di Cosimo Lorenzo Pancini, che tratta delle illustrazioni di Rodney Matthews, Michael Hague, David Wenzel e altri. _Ring Wars_ di Roberto di Meglio tratta dei giochi da tavolo ispirati dalle opere di Tolkien. Ricordo che Di Meglio sarà co-autore nel 2005 dell'apprezzatizzimo e difficilissimo _War of the Ring_ assieme ai già citati Marco Maggi e Francesco Nepitello, quindi pare che in fondo rimanga tutto "in famiglia". Termina il dossier _Il ritorno di Gandalf_ di Roberto Cecchini che introduce l'album _Tales from a Long Forgotten Kingdom_ di Gandalf, un artista austriaco new-age tuttora attivo, che benché non direttamente connesso con Il Signore degli Anelli sembra riuscire a catturarne lo spirito. Ma noi adesso abbiamo la colonna sonora di Howard Shore e non ci manca più nulla, grazie.
 
-# Avventura - Il tesoro dei Catari
+## Avventura - Il tesoro dei Catari
 
 La prima lunga avventura presentata in questo numero è scritta da Paolo Areni e Andrea Armieri e illustrata da Luca Poli. Si rivolge ai giocatori de _I Cavalieri del Tempio_ della E.Elle, pensata come seguito dell'avventura contenuta nel manuale base del gioco.
 
 ![Image 27](/images/kaos-04/27.jpg){class="img-responsive"}
 
-# Avventura - Scende la notte
+## Avventura - Scende la notte
 
 La seconda avventura, di Roberto Di Meglio e Simone Peruzzi, si rivolge invece a giocatori di Dungeons & Dragons o Warhammer Fantasy Roleplay, ma permettendo di adattarla a giochi horror come Il Richiamo di Cthulhu o Il Gioco di Ruolo di Dylan Dog. Le illustrazioni e le mappe sono di Andrea Accardi e Andrea Armieri.
 
 ![Image 34](/images/kaos-04/34.jpg){class="img-responsive"}
 
-# Fumetto - Cronache della Luna Nera
+## Fumetto - Cronache della Luna Nera
 
 Si interrompe, temporaneamente, la pubblicazione delle Leggende delle contrade dimenticate per passare alle _Cronache della Luna Nera_ di Ledroit e Froideval con l'atto primo "Il Segno delle Tenebre".
 
@@ -122,7 +122,7 @@ Si interrompe, temporaneamente, la pubblicazione delle Leggende delle contrade d
 
 ![Image 52](/images/kaos-04/52.jpg){class="img-responsive"}
 
-# Argomenti
+## Argomenti
 
 Andrea Armieri ci presenta _Tiro con... l'orco?_ che descrive un gioco di ruolo combinato con il tiro con l'arco. La Gaming Expedition Force of Italy ci propone _Rapporti di guerra: European GEN-CON '91_, dedicato alla controparte europea della GEN-CON americana, sempre organizzata dalla TSR e tenutasi a Camber, nel Sussex (UK).
 
@@ -130,7 +130,7 @@ Andrea Armieri ci presenta _Tiro con... l'orco?_ che descrive un gioco di ruolo 
 
 _Il wargame tridimensionale - Il periodo napoleonico 1796-1815_ di Michele D'Agostino prosegue quanto scritto dallo stesso autore nel numero 2 sul mondo delle simulazioni di guerra. Marcello Missiroli fa una sintesi dello stato delle BBS in Italia con _Cyberpunk now!_, breve ma interessante per noi che ormai diamo Internet per scontata, e chiude il numero _La notte degli Oscarrafoni_ che prende bellamente per i fondelli giochi, riviste e autori in voga in quel periodo.
 
-# Conclusione
+## Conclusione
 
 Il numero 4 recupera alla grande il momentaneo rallentamento del numero 3, e vorrei ben vedere, con un tema come quello trattato. Ce ne sarebbe per riempire 10 numeri! Le due avventure presentate sono molto dettagliate e lunghe, e gli articoli di contorno fanno il loro mestiere dando al lettore una buona idea di quanto accade a 360 gradi nel mondo dei "Giochi di ruolo - Fantasy - Avventure", per citare il sottotitolo della rivista. Nel prossimo numero si tratterà un genere che al tempo era veramente di nicchia e che oggi è più mainstream della Coca Cola: i supereroi!
 

@@ -16,7 +16,7 @@ Lovecraft popola il mondo del suo New England alternativo di divinità malvagie 
 
 Sette edizioni nel giro di poco meno di vent'anni, anche se Petersen lasciò la Chaosium nel 1998 assieme al presidente Greg Stafford, sei anni dopo la pubblicazione della quinta edizione. Petersen e Stafford sono due pilastri del gioco di ruolo, e dedicherò a loro un altro articolo, perché c'è troppo da dire su questi due autori. Anche Lovecraft meriterà più di un articolo, per cui per ora mi fermo e do la parola alla redazione di KAOS.
 
-# News
+## News
 
 Nelle news di questo mese si trovano
 
@@ -40,7 +40,7 @@ Alcuni lettori hanno scritto alla rivista segnalando giustamente inorriditi un r
 
 Il Videotel (un primo tentativo di rete informatica della SIP, in funzione dal 1985) comincia a presentare contenuti relativi al gioco di ruolo con _Necronomicon_, un MUD italiano accessibile al costo di 220 lire al minuto. Alcuni giochi di ruolo in mailbox (via posta) sono già presenti sulla rete, e questo mese si annuncia la nascita di un piccolo libro-gioco della NEXUS.
 
-## Re-censioni
+### Re-censioni
 
 **Talisman** - Editore: Ripa/Games Workshop - Prezzo: L. 59.500
 
@@ -52,7 +52,7 @@ La **Interno Giallo Editore**, fondata nel 1989 dall'ex curatore di Urania Marco
 
 ![Image 07](/images/kaos-02/07.jpg){class="img-responsive"}
 
-# Dossier - Il Richiamo di Cthulhu
+## Dossier - Il Richiamo di Cthulhu
 
 Il dossier si apre con un articolo di Mirko Tavosanis dal titolo _Il 'nuovo' orrore di Lovecraft_ che traccia un profilo dello scrittore americano e della sua opera così peculiare.
 
@@ -75,19 +75,19 @@ _Arkham Horror, il boardgame dei Miti di Cthulhu_ di Gianna Masetti presenta il 
 
 L'interessantissimo dossier di conclude con _Orrore a 16 bit_ di Luca Oleastri che discute dei videogiochi horror, citando il CDTV come una piattaforma di nuova concezione che potrebbe dare al mondo i tanto sospirati "film interattivi", e con _L'impossibile di Providence_ in cui Simone Peruzzi analizza sconsolatamente i tentativi di portare l'orrore lovecraftiano sul grande schermo, tutti più o meno falliti.
 
-# Avventura - Il faro sull'eternità
+## Avventura - Il faro sull'eternità
 
 Andrea Bartoli, aiutato dalle illustrazioni di Andrea Accardi, ci presenta un'avventura per Il Richiamo di Cthulhu giocabile da 3-7 investigatori e ambientata nel 1928.
 
 ![Image 27](/images/kaos-02/27.jpg){class="img-responsive"}
 
-# Avventura - L'incantesimo di Vedus
+## Avventura - L'incantesimo di Vedus
 
 Tim e Marco Casolino, invece, sono gli autori di un avventura per Dungeons & Dragons adatta a 4-6 avventurieri di livello 3-7. L'avventura è pensata per essere autonoma o parte di una campagna più vasta.
 
 ![Image 33](/images/kaos-02/33.jpg){class="img-responsive"}
 
-# Fumetto - Leggende delle contrade dimenticate
+## Fumetto - Leggende delle contrade dimenticate
 
 Prosegue l'atto I de _La stagione delle ceneri_.
 
@@ -95,7 +95,7 @@ Prosegue l'atto I de _La stagione delle ceneri_.
 
 ![Image 44](/images/kaos-02/44.jpg){class="img-responsive"}
 
-# Rubriche
+## Rubriche
 
 Roberto Sedda dispensa dei _Suggerimenti per giocare un ruolo (e divertirsi)_ trattando di stereotipi (da eliminare), classe, razza, professione, età, sesso e allineamento. Roberto Di Meglio presenta _Terminator 2 Il giorno del giudizio_, nelle sale proprio in quella fine del 1991 (cinque mesi dopo l'uscita in USA). Riporto parte del commento di Di Meglio perché lo ritengo estremamente attuale in questo 2020
 
@@ -107,7 +107,7 @@ L'autore di questo blog ritiene che Roberto Di Meglio sia un viaggiatore del tem
 
 Proseguono i _Racconti di taverna_, mentre Michele D'Agostino propone un pezzo dal titolo _Il wargame tridimensionale - giocare a tutte le età con i soldatini_.
 
-# Conclusione
+## Conclusione
 
 KAOS prosegue a gonfie vele, altre 68 pagine zeppe di informazioni e di succulenti dettagli sul gioco di ruolo e quanto ci gravita intorno. Il 1991 non poteva essere più roseo per i giocatori italiani! A quando il numero 3?
 

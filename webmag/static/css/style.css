@@ -59,7 +59,7 @@ h4 {
 a {
     font-weight: 600;
     color: #212631;
-    text-decoration: none;
+    text-decoration: underline;
 }
 a:hover, a:focus{
     color: #212631;
@@ -995,6 +995,7 @@ textarea.input {
 ===========================================================*/
 
 .main-post ul {
+    font-size: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
     list-style: disc;
@@ -1030,4 +1031,5 @@ p {
 
 img.img-responsive {
     border: 2px solid black;
+    margin: auto;
 }

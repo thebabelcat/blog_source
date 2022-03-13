@@ -18,13 +18,13 @@ Nel 2021, 34 anni dopo Neuromante, la tecnologia ha fatto passi da gigante, si �
 
 Ad ogni modo, vediamo cosa accadeva nel 1992 con KAOS numero 3!
 
-# Copertina ed editoriale
+## Copertina ed editoriale
 
 La copertina non esaltante (a mio parere) di Onofrio Catacchio introduce il tema del mese: il cyberpunk. L'editoriale  è del direttore Luigi Bernardi, metà del quale va però a finire in un campo di ortiche dominato da Urgh l'orchetto. Nella parte seria il direttore dice che
 
 > Mai come in questi ultimi tempi la produzione di genere (incanalata lungo i suoi linguaggi preferenziali: la narrativa, il cinema e il fumetto) ha sollecitamente anticipato la realtà. E l'horror e la fantascienza sono stati teatro di stravolgimenti ritenuti impossibili. Il primo non consola più con finali rassicuranti, il secondo ha saputo scegliere strade ben più tortuose della semplice estrapolazione fantastica. in tutti i casi, il cambiamento non è avvenuto senza lacerazioni e ambiguità. Cyberpunk, splatterpunk e psychopunk hanno definitivamente strappato l'ultimo velo che ancora divideva finzione dalla realtà. Oggi il sangue sgorga davvero dalle ferite; la follia non è più sguardi divertiti ma colpisce con furia crescente, e l'avventura ha smesso di restare il sogno di ogni bambino e ha cominciato ad abitare gli incubi di tutti noi.
 
-# News
+## News
 
 La **Granata Press** (editore di KAOS) si accinge a tradurre sei romanzi della FASA ambientati negli universi di Shadowrun e Battletech.
 
@@ -54,7 +54,7 @@ Le recensioni trattano di
 
 **L'Eco di Arkham** - Editore: Stratelibri - Prezzo: L. 1.200
 
-# Dossier - Cyberpunk
+## Dossier - Cyberpunk
 
 Il dossier di questo numero è introdotto da un'immagine di Paolo Poli, nettamente migliore di quella di copertina ma ancora lontana dagli stilemi del genere.
 
@@ -88,19 +88,19 @@ _Illusioni virtuali_ di Antonio Donini presenta _Cybercon III_, un videogioco pe
 
 Il dossier si conclude con un'intervista ad Antonio Serra, uno degli autori di Nathan Never, l'ottimo fumetto di fantascienza della Bonelli. L'intervista ruota attorno alle fonti di ispirazione per il fumetto e il mondo in cui sono ambientate le avventure degli agenti Alfa.
 
-# Game - Software & Sushi
+## Game - Software & Sushi
 
 In questo numero Piero Cioni presenta un gioco da tavolo in cui dei gruppi di hacker gestiti dai giocatori tentano di penetrare le reti informatiche di multinazionali e di strutture militari. La più tradizionale ambientazione cyberpunk!
 
 ![Image 26](/images/kaos-03/26.jpg){class="img-responsive"}
 
-# Game - Le mappe di Eye of the Beholder
+## Game - Le mappe di Eye of the Beholder
 
 Nel perfetto stile delle riviste anni 90 (e precedenti), Mauro Cheli su questo numero di KAOS ci fornisce le mappe degli 11 livelli di Eye of the Beholder, il "computer game fantasy" della SSI sviluppato dalla Westwood Associates (poi Westwood Studios) e pubblicato nel 1991 per MS-DOS e Amiga.
 
 ![Image 38](/images/kaos-03/38.jpg){class="img-responsive"}
 
-# Fumetto - Leggende delle contrade dimenticate
+## Fumetto - Leggende delle contrade dimenticate
 
 Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza de _La Stagione delle Ceneri_.
 
@@ -108,13 +108,13 @@ Prosegue la pubblicazione del fumetto di Chevalier e Ségur, con la parte terza 
 
 ![Image 47](/images/kaos-03/47.jpg){class="img-responsive"}
 
-# Rubriche
+## Rubriche
 
 Questo numero contiene due pagine di Errata corrige per Il gioco di ruolo di Dylan Dog e un piccolo articolo dal titolo _La montagna del teschio_ su un diorama creato da Simone Bertuccelli, autore del pezzo. Purtroppo le fotografie di questo articolo sono in bianco e nero e non rendono molto bene, ma è interessante notare questa prima incursione di KAOS nel mondo del modellismo. I _Racconti di taverna_ proseguono e il numero è concluso da Roberto Sedda con _Nuovi suggerimenti per giocare un ruolo (e continuare a divertirsi)_.
 
 ![Image 61](/images/kaos-03/61.jpg){class="img-responsive"}
 
-# Conclusione
+## Conclusione
 
 Un numero 3 un po' sottotono, a mio personalissimo parere. Il tema del cyberpunk è trattato in modo un po' superficiale, citando tutti i capisaldi del genere ma non andando troppo in profondità. D'altronde la redazione si trova per la prima volta alle prese con un genere invece che con un sistema specifico come nei primi due numeri. Ad ogni modo, un gennaio 1992 benedetto da altre 68 pagine che trattano di giochi, nessuno si lamentò e mi guardo bene dal farlo ora. Il numero 4 tratterà nuovamente di un sistema singolo, e questa volta si torna al fantasy!
 

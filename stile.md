@@ -4,7 +4,7 @@ Quando un'opera è citata in maniera consistente tolgo il corsivo.
 
 Per esempio:
 
-> Il primo gioco di ruolo vero e proprio è _Dungeond & Dragons_ della TSR.
+> Il primo gioco di ruolo vero e proprio è _Dungeons & Dragons_ della TSR.
 
 ma:
 

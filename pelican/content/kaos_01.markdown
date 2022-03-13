@@ -30,7 +30,7 @@ Così recita la parte seria dell'editoriale
 
 ![Image 03](/images/kaos-01/03.jpg){class="img-responsive"}
 
-# News
+## News
 
 Nelle news di questo numero troviamo
 
@@ -60,7 +60,7 @@ La **Lucasfilm** annuncia _Indiana Jones and the Fate of Atlantis_ e _Monkey Isl
 
 La **SSI** pubblica per PC il primo gioco ambientato nei Forgotten Realms, _Gateway to the Savage Frontier_. La **TSR** annuncia per novembre l'uscita della _Dungeons & Dragons Rules Cyclopedia_.
 
-# Dossier - Dungeons & Dragons
+## Dossier - Dungeons & Dragons
 
 Il dossier di questo primo numero è giustamente dedicato al gioco di ruolo per eccellenza (non me ne vogliano gli appassionati di altri sistemi), Dungeons & Dragons, al tempo pubblicato in Italia dalla Editrice Giochi nella sua incarnazione BECMI (Base, Expert, Companion, Master e Immortal, quest'ultimo mai tradotto). Simone Peruzzi si assume il compito di introdurre i lettori al gioco di ruolo in quanto tale, e lo fa con attenzione e dedizione
 
@@ -96,19 +96,19 @@ Ah, il D&D. Unico.
 
 L'enorme dossier contiene poi un articolo di Peruzzi sui librogame di AD&D della E-Elle, uno di Salvatore Pierucci sui libri ambientati negli universi di Dragonlance e dei Forgotten Realms, uno di Missiroli sui fumetti editi dalla DC Comics ("quella di Superman, per intenderci") e infine uno di Mauro Cheli sulle trasposizioni videoludiche di AD&D.
 
-# Avventura - Segreti di Nottingham
+## Avventura - Segreti di Nottingham
 
 Questo numero contiene un'avventura di 9 pagine creata da Marcello Missiroli. L'avventura, ambientata nell'Inghilterra del periodo di Robin Hood, è scritta per D&D/AD&D/GiRSA e coinvolge 4-8 personaggi di livello 5-8.
 
 ![Image 29](/images/kaos-01/29.jpg){class="img-responsive"}
 
-# Game - Torna a casa Zombi!
+## Game - Torna a casa Zombi!
 
 Roberto Di Meglio e Simone Peruzzi ci presentano un breve libro-game che ha per protagonista uno zombi. Il gioco si basa sulle regole di D&D, anche se prevede una modalità "supponi di vincere tutti i combattimenti" per chi non le possedesse.
 
 ![Image 39](/images/kaos-01/39.jpg){class="img-responsive"}
 
-# Fumetto - Leggende delle contrade dimenticate
+## Fumetto - Leggende delle contrade dimenticate
 
 Il fumetto di questo numero è _Leggende delle contrade dimenticate 1: La stagione delle ceneri_ di Chevalier e Ségur, tradotto da Luigi Bernardi.
 
@@ -116,13 +116,13 @@ Il fumetto di questo numero è _Leggende delle contrade dimenticate 1: La stagio
 
 ![Image 46](/images/kaos-01/46.jpg){class="img-responsive"}
 
-# Rubriche
+## Rubriche
 
 Tra le rubriche di questo numero troviamo un _Dietro le quinte di Dylan Dog_ di Alessandro Ivanoff che descrive le difficoltà incontrate nella progettazione e realizzazione del GdR dell'indagatore dell'incubo. I _Racconti di taverna_ danno dei consigli ai giocatori di ruolo sotto forma di storie raccontate davanti ad una birra, mentre _Galateo di roleplaying modero per signorine_ di Gianna Masetti introduce le donzelle digiune di armi a giochi come Twilight 2000 e simili. Termina il numero un articolo di Walter Moore dal titolo _No war will ever be a game_ (tradotto da Roberto Di Meglio), che vuole sensibilizzare al fatto che la guerra non è la soluzione normale ai problemi. Nell'estate 1991 la guerra in Iraq era appena terminata e si sentiva giustamente la necessità di parlarne su una rivista dove "c'è molta violenza simulata".
 
 ![Image 59](/images/kaos-01/59.jpg){class="img-responsive"}
 
-# Conclusione
+## Conclusione
 
 68 pagine al fulmicotone! Benzina pura per me che, al tempo quattordicenne, non vedevo l'ora di leggere notizie riguardanti questo mondo vastissimo del gioco di ruolo. Nel 1991 Internet era ancora ben lontana dall'essere una realtà effettiva e soprattutto dal plasmare la vita quotidiana come fa attualmente, e potrei dire, parafrasando Roger Taylor, che "tutto ciò che dovevo sapere lo leggevo sulla mia rivista".
 
