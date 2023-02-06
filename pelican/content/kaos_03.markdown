@@ -118,4 +118,4 @@ Questo numero contiene due pagine di Errata corrige per Il gioco di ruolo di Dyl
 
 Un numero 3 un po' sottotono, a mio personalissimo parere. Il tema del cyberpunk è trattato in modo un po' superficiale, citando tutti i capisaldi del genere ma non andando troppo in profondità. D'altronde la redazione si trova per la prima volta alle prese con un genere invece che con un sistema specifico come nei primi due numeri. Ad ogni modo, un gennaio 1992 benedetto da altre 68 pagine che trattano di giochi, nessuno si lamentò e mi guardo bene dal farlo ora. Il numero 4 tratterà nuovamente di un sistema singolo, e questa volta si torna al fantasy!
 
-KAOS numero 3, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/6MFX0QLS#RnBAkolU8ixadRRdJilv5F7JnVlkzc9TFFghDG_nBKE)
+KAOS numero 3, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/HM1hWLQI#fFEFRYtiS3ztkN8YBZyP80UWoZm7r8HphcNgfzJ4hB0)

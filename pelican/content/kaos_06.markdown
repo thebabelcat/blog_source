@@ -185,4 +185,4 @@ Continuo a ritenere estremamente interessante effettuare queste "escursioni temp
 
 Ora, armati di Wikipedia, sappiamo tutto di tutto, e spesso lo dimentichiamo nel momento in cui chiudiamo il browser. Nel 1992 avevamo KAOS e, per citare i Queen "everything I had to know I heard it on my radio". Alla prossima puntata, con l'italianissimo dossier su Martin Mystère e Dylan Dog!
 
-KAOS numero 6, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/udUAiLCb#2UtiMYObcFD5U_DbEP8wtUBq23FpnqBQXcQYLOQEGUo)
+KAOS numero 6, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/LAl13RTJ#g4zP4-QctcaBs7Hzl450tztWuvGQs8coa_FvQfCiyH8)

@@ -1,5 +1,5 @@
 Title: KAOS 04
-Date: 2021-04-27 08:00:00 +0100
+Date: 2021-04-28 08:00:00 +0100
 Category: Riviste
 Tags: gdr, libri, fumetti
 Authors: Leonardo Giordani
@@ -134,4 +134,4 @@ _Il wargame tridimensionale - Il periodo napoleonico 1796-1815_ di Michele D'Ago
 
 Il numero 4 recupera alla grande il momentaneo rallentamento del numero 3, e vorrei ben vedere, con un tema come quello trattato. Ce ne sarebbe per riempire 10 numeri! Le due avventure presentate sono molto dettagliate e lunghe, e gli articoli di contorno fanno il loro mestiere dando al lettore una buona idea di quanto accade a 360 gradi nel mondo dei "Giochi di ruolo - Fantasy - Avventure", per citare il sottotitolo della rivista. Nel prossimo numero si tratterà un genere che al tempo era veramente di nicchia e che oggi è più mainstream della Coca Cola: i supereroi!
 
-KAOS numero 4, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/icFx1CTL#mclg6iY22lThIpk-1AW0e2tKCPGoqmZA7739BMIXWmo)
+KAOS numero 4, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/3Fdi0bhL#SZDdp0gWu7f4P4AUjCvrmu7oHInI1CyJ7iP5Bvj1BNw)

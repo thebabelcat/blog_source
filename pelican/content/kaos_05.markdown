@@ -159,4 +159,4 @@ Infine, con _Ritorno ad Austerlitz_ Marcello Taglioli ci parla di wargames, in p
 
 Un numero solido, che affronta un argomento che al tempo non era molto conosciuto, specie tra i giocatori di ruolo. Peccato che le avventure del numero non siano state dedicate entrambe al tema del dossier, ma in generale KAOS non si propone di uscire con numeri completamente dedicati ad un unico argomento. Non essendo particolarmente informato sulla tematica supereroistica ricordo che apprezzai molto questa uscita. Nel prossimo numero la redazione torna sul classico, più classico che mai: Conan di Robert Erwin Howard. Crom!
 
-KAOS numero 5, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/rEdWgJrC#mU1lzZ4ZSP36lURGT1zXfYwLUD9cwR-78mS8_HmG6ns)
+KAOS numero 5, digitalizzato e restaurato, è disponibile [qui](https://mega.nz/file/LIlzDDSY#P8JL5Ge6rE6cssmns2nUtIOsU0gpNUUyAE3_0FDlqow)
