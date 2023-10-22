@@ -27,7 +27,7 @@ rail, even as Saruman left it, and passing close to Gandalf’s head, it smote
 the stair on which he stood. The rail rang and snapped. The stair cracked
 and splintered in glittering sparks.
 
-Innanzitutto il punto misterioso: smote the stair on which he stood, che semplicemente significa “colpì con forza la scala sulla quale egli stava (in piedi)”. Direi che il livello dell'errore è vergognoso, soprattutto perché i termini usati sono alla portata di un liceale.
+Innanzitutto il punto misterioso: _smote the stair on which he stood_, che semplicemente significa “colpì con forza la scala sulla quale egli stava (in piedi)”. Direi che il livello dell'errore è vergognoso, soprattutto perché i termini usati sono alla portata di un liceale.
 
 L'unico che posso passare è “colpire” per smite, che però in realtà dà l’idea di un impatto molto potente, impatto che la traduzione italiana smorza un po’.
 

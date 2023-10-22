@@ -63,3 +63,20 @@ JINJA_FILTERS = {
     "index_category": index_category,
     "articles_category": articles_category,
 }
+
+MAU = {
+    "custom_templates": {
+        "content_image.html": (
+            "<figure>"
+            '<img {% if alt_text %} alt="{{ alt_text }}"{% endif %} src="{{ uri }}">'
+            "<figcaption>{% if title %}{{ title }}{% endif %}</figcaption>"
+            "</figure>"
+        ),
+        "block-quote.html": (
+            "<blockquote>"
+            "{{ content }}"
+            "{% if secondary_content %}<cite>{{ secondary_content }}</cite>{% endif %}"
+            "</blockquote>"
+        ),
+    }
+}

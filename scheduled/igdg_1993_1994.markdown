@@ -1,0 +1,516 @@
+# 1993-1994 Catalogo generale (rosso)
+
+Pagine: 247
+Aziende: 189
+Prezzo: L.12.000
+
+# PREFAZIONE
+
+Il catalogo che avete tra le mani e che avete inziato a sfogliare è il frutto di mesi di composizione, ma soprattutto di 12
+anni di esperienza maturata nel settore dei giochi di simulazione e di avventura. Per la verità la passione per questo hobby
+è nata qualche anno prima, ma senza l’esperienza commerciale non sarebbe stato possibile realizzare un lavoro come
+questo. Sappiamo di essere diventati, per tutti coloro che si occupano del settore, a qualsiasi livello, un punto di riferimen-
+to. In poche parole i nostri cataloghi non solo vengono letti, usati, consultati, ma in un certo senso "fanno opinione”. Trat-
+tandosi di cataloghi biennali l'attesa che si crea intorno ad essi la avvertiamo nell'aria. Nei 2 mesi che precedono la pubbli-
+cazione siamo tempestati dalle telefonate di persone che ci chiedono notizie in merito e questo ci gratifica. Per la prima
+volta scendiamo in campo con un catalogo che si rivolge letteralmente a tutti, senza privilegiare, o scontentare (così spe-
+riamo) nessuno. Questo strumento verrà utilizzato tanto dagli operatori commerciali, quanto dai giocatori. Per facilitare
+la diffusione del catalogo stesso e per dimostrare ai negozianti che la nostra politica è quella di aiutare sempre e comun-
+que quei punti vendita che hanno scelto di seguire con la dovuta attenzione questo settore, abbiamo deciso di eliminare
+dal catalogo stesso tutte le informazioni relative alla vendita per corrispondenza, che noi da anni pratichiamo. Queste
+informazioni verranno inviate soltanto a coloro che richiederanno il catalogo direttamente a noi e si presenteranno in un
+opuscolo a forma di inserto. Noi vogliamo puntualizzare, nel modo più chiaro possibile, che la vendita postale costituisce
+una percentuale sempre più modesta del nostro fatturato complessivo. Il nostro desiderio è quello di poter servire, in ogni
+città di un certo rilievo, almeno un negozio specializzato, che consenta ai giocatori di quel centro, o di quella provincia,
+di avere un punto di riferimento affidabile. Negli ultimi 2 anni la vendita per corrispondenza è notevolmente calata, soprat-
+tutto in quelle città in cui è possibile procurarsi con continuità e tempestività le novità di mercato che noi distribuiamo.
+E’ chiaro che un giocatore che vuole acquistare degli articoli, magari di recente pubblicazione o di grande richiamo e
+non riesce a trovarli da nessuna parte nel raggio di 100 chilometri, sarà costretto ad acquistarli per corrispondenza. La
+presenza dei negozi specializzati serve ad evitare tutto questo e a raggiungere il maggior numero possibile di potenziali
+interessati. Rivolgiamo quindi un invito a tutti i giocatori italiani a sostenere in ogni modo quei punti vendita che con intuito
+ed esperienza hanno capito che questo hobby è destinato a crescere sempre più. Deve nascere una forte collaborazione
+tra i clubs, le associazioni, i singoli appassionati da una parte e i negozianti dall'altra, perchè i commercianti non sono
+necessariamente degli appassionati (anzi, spesso si avvicinano ai giochi di ruolo e di simulazione con notevoli difficoltà)
+e hanno bisogno di suggerimenti, consigli ed idee per sostenere lo sforzo di chi intende divulgare l’hobby tramite manife-
+stazioni, tornei, conventions, ecc. Da parte loro i commercianti devono vincere l’iniziale diffidenza per un settore che ap-
+pare a prima vista difficile da gestire e cercare la collaborazione di quei clienti che si rivelano più esperti ed affidabili.
+Una volta "avviato” lo spazio che si intende destinare ai giochi di simulazione e di avventura, risulta poi abbastanza facile
+seguirne gli sviluppi e acquistare ciò che va effettivamente acquistato.
+
+Una forte recessione ha caratterizzato il 1993. L’incapacità delle nostre forze politiche di controllare l'economia ha condi-
+zionato negativamente l’andamento della lira. | furti e gli abusi di una classe politica inetta sono stati finalmente portati
+alla luce ed ora la speranza di tutti è che si verifichi un cambiamento reale nel modo di gestire il potere, non la solita
+farsa all'italiana. Resta il fatto che, nonostante la crisi generale abbia toccato tutti, il nostro hobby ha tenuto alla grande
+ed ha continuato a crescere. Non lo diciamo solo noi, che possiamo farci forti di un'annata particolarmente positiva, ma
+tutti icommercianti che abbiamo interpellato, anche quelli più colpiti dalla recessione. "Le cose vanno male, ma il fantasy
+si continua a vendere” è la frase che ci sentiamo continuamente ripetere e che in un certo senso ci conforta. Siamo stati
+molto sorpresi dal nostro esordio nel campo della produzione: avevamo preventivato di vendere in 2 anni le copie di GURPS
+da noi pubblicate. Ci sembrava un limite ragionevole, invece la prima ristampa è stata necessaria dopo soli 9 mesi! Il
+nostro sforzo in questo campo proseguirà quindi anche nel futuro, fermo restando che non rinunceremo di certo agli altri
+nostri impegni: importazioni, distribuzione, traduzioni e vendita per corrispondenza.
+
+Il mercato italiano è stato scosso da alcuni avvenimenti di notevole importanza negli ultimi tempi. Primo fra tutti, ed è
+un dato molto positivo, l'acquisizione dei diritti della linea Advanced Dungeons & Dragons da parte della Ripa, che ci
+consentirà di avere entro breve la versione italiana del gioco di ruolo più venduto nel mondo. In secondo luogo il notevole
+sviluppo dell’attività da parte di ditte nuove (la Nexus, la 3D6) impegnate nel campo delle edizioni italiane di giochi di
+successo e di ditte consolidate (l’Editrice Giochi e perfino la Dal Negro) nella realizzazione di giochi nuovi, come Druid
+e Lex Arcana. A tutto questo fa da contraltare l’atteggiamento isterico della Stratelibri, che continua ad agitarsi con scom-
+postezza in un mercato che non avrebbe bisogno di questi atteggiamenti. La decisione di non distribuire più i prodotti
+se non tramite la vendita diretta (chissà perchè il discorso non investe, però, anche il settore librario.....) ha creato un
+po’ di sconcerto nei commercianti, che'sono stati sottoposti in pratica ad un ricatto che suona più o meno così: "le impor-
+tazioni ci vanno male (sigh, sigh), i nostri spazi si sono ristretti (doppio sigh, doppio sigh), se volete i prodotti Stratelibri
+dovete comprarci anche il resto!”. E' una scelta a dir poco assurda. Pensate a cosa accadrebbe se tutti facessero così!
+Se l’Editrice Giochi vendesse il Dungeons & Dragons solo a chi si impegna ad acquistare anche lo Scarabeo; se la Ripa
+vendesse l’AD&D in italiano solo a chi vende anche i prodotti Italeri; se noi fornissimo GURPS e Vampiri solo a chi ci
+acquista anche i prodotti dell’Avalon Hill e della Ral Partha! E’ un vero peccato che una ditta che stava lavorando bene
+nel campo delle edizioni italiane, invece di insistere nel settore dove ha realizzato le cose migliori, decida di autoescluder-
+si da una grossa fetta del mercato per la famelica volontà di primeggiare in campi che evidentemente non le sono conge-
+niali. A noi sta benissimo che altre ditte si impegnino in questo settore: ben venga l'edizione italiana di AD&D (della Ripa)
+e di Warhammer (della Nexus). Noi non sentiamo queste iniziative come.....un insulto personale e non pretendiamo di
+esercitare, per diritto divino, il potere assoluto su ogni cosa che ruota attorno al mondo del gioco di avventura! La concor-
+renza deve avvenire nei normali binari della corretta competizione commerciale (prezzi migliori, servizi più efficienti, pro-
+duzione di titoli validi, ecc.). Fortunatamente è una legge che tutte le altre case che si occupano del settore dimostrano
+di conoscere. E questo ci basta.
+
+Passando a cose più pratiche e cioè al catalogo che vi accingete a leggere, dobbiamo fare alcune ultime considerazioni.
+Anche se il catalogo si rivolge a tutti, commercianti e giocatori, è chiaro che abbiamo preferito mantenere inalterato il
+tono discorsivo, a volte scherzoso, che molti conoscono. Chi ha avuto modo di consultare i nostri precedenti cataloghi
+si sarà subito reso conto della differenza delle dimensioni! Il nostro desiderio è sempre stato quello di offrire un panorama
+completo, esauriente e di facile consultazione. Ora nel catalogo c’è proprio tutto! O meglio, c’è tutto qualio che noi siamo
+in grado di procurarvi (oltre 15.000 articoli). Non possiamo, per ovvi motivi, trattare i prodotti di tutte le case esistenti al
+mondo. Diciamo che quelle che non troverete su questo catalogo sono veramente poche e del tutto trascurabili. Se si
+escludono alcune case inglesi specializzate nella produzione di miniature militari (che pochi negozi in Italia importano
+direttamente), per il resto abbiamo inserito ogni forma di vita esistente nel mondo del gioco di simulazione ed avventura.
+Ci rendiamo conto che si tratta di un lavoro ciclopico, ma che si può anche fare di meglio. Si può sempre fare di meglio.
+Per ora questo è tutto quello che potevamo darvi. A voi stabilire, leggendo le innumerevoli pagine che seguono, se siamo
+stati ancora una volta all’altezza della situazione. Buon divertimento
+
+Nando Ferrari
+
+# COSA SONO I GIOCHI DI RUOLO?
+
+Mentre per i giochi di società, quelli di sport e i giochi di guerra è abbastanza facile fornire delle indicazioni di carattere
+generale, che consentano al cliente di intuire con che cosa ha a che fare, lo stesso non si può dire per i giochi di ruolo,
+che risultano spesso assai difficili da proporre,solo perchè nessuno ha mai spiegato come siano strutturati. "Cosa saran-
+no mai quei 2 libri, quegli strani dadi e quei pupazzetti di piombo ?” ci si sente chiedere da clienti smarriti. Il povero com-
+merciante, abituato a spiegare generalmente altre cose, come lo Scarabeo o la differenza che corre tra il Risiko e il Risiko
+Più (vi hanno mai fatto questa domanda ?), a questo punto si sente cogliere da un profondo senso di frustrazione, panico
+e disperazione. La sera torna a casa, non mangia e passa la notte sveglio chiedendosi "cosa saranno mai quei 2 libri,
+quegli strani dadi e quei fottutissimi pupazzetti che continuano a chiedermi ?”. Per risolvere questo quesito, che ha spinto
+al suicidio numerose persone (pare che il governo stia per imporre una tassa su questi suicidi, tanto sono numerosi), desi-
+deriamo fornire alcune brevi indicazioni che risulteranno utili a quei commercianti che desiderino appagare la loro curiosità.
+I role-playing si basano su una serie di presopposti che li rendono assolutamente originali. 1) Un solo giocatore, il cosid-
+detto "master", fungerà da direttore di gioco e dovrà leggersi tutte le istruzioni; non occorre che gli altri partecipanti si
+sobbarchino la lettura di quei libri micidiali:la forza dei RP consiste anche nel fatto che non occorre conoscere le regole
+per iniziare a giocare. 2) Ogni giocatore rappresenterà un personaggio, che a seconda del tipo di ambientazione del gioco
+potrà essere un elfo o un mago (se si tratta di un RP fantasy), un pilota di astronavi (fantascienza), un robot (ambientazio-
+ne futurista), un cow-boy (Far West) e via dicendo; insomma ognuno rappresenta un singolo personaggio tipico dell’am-
+bientazione scelta e si ritrova ad avere determinate caratteristiche personali (potrebbero essere forza, carisma, intelligen-
+za, destrezza, fortuna, conoscenza di linguaggi, ecc.). 3) Il master dirige un'avventura, che può preparare lui (se ha una
+discreta esperienza) oppure può acquistare già pronta per l’uso e presenta la situazione ai giocatori; il racconto avrà poi
+sviluppi diversi a seconda delle scelte operate dai giocatori stessi. 4) Per visualizzare i percorsi scelti dai giocatori (spesso
+ci si addentra in veri e propri labirinti) tutti faranno uso di una mappa quadrettata e di matite, mentre per simulare gli
+eventuali combattimenti con mostri di ogni tipo si usano le miniature, che tutti i patiti di colorazione pitturano religiosamen-
+te prima di giocarci. 5) Nei RP non esiste competizione tra i giocatori, nel senso che tutti cercano di collaborare per uscir-
+ne vivi e guadagnare punti di "esperienza”; i personaggi che acquisiscono esperienza sufficiente passano infatti a "livel-
+li” più alti e questo significa che sono poi in grado di giocare avventure più pericolose. 6) | dadi servono per risolvere
+le varie situazioni di combattimento, l’uso degli incantesimi, gli effetti delle trappole, ecc.
+
+I RP sono in notevole crescita negli ultimi anni e dal punto di vista commerciale rappresentano un fenomeno molto interes-
+sante, poichè trascinano le vendite di tutta una serie di altri articoli, come miniature, dadi e accessori e avvicinano i giova-
+ni al gioco in generale. Molti sono i ragazzi che dopo un po’ di esperienza nel campo dei RP decidono di passare a giochi
+più impegnativi e si appassionano per i boardgames o anche per i giochi di simulazione.
+
+# RISULTATI DEL QUESTIONARIO 1991-92
+
+Ebbene sì, abbiamo deciso che questo nostro grande sforzo di indagine merita uno spazio adeguato. Molti clienti ci hanno
+più volte chiesto di conoscere i risultati dei nostri questionari. Il catalogo, che verrà letto da migliaia di giocatori e operatori
+del settore, ci sembra la sede ideale per fornire questa interessante statistica. Per motivi di spazio cercheremo di essere
+sintetici. Le domande dalla 1 alla 29 erano identiche a quelle di questo questionario e quindi non le riportiamo, se non
+in alcuni casi. Le risposte, valutate quest'estate su 1434 cartoline (al momento siamo a 1510) sono state le seguenti.
+
+1) L’età media è risultata essere di 26 anni, con un minimo di 11 ed un massimo di 67. Apparentemente è una media piuttosto alta, ma bisogna considerare che sono generalmente le persone più adulte che rispondono al questionario. Questa media è sicuramente destinata a scendere di parecchio.
+
+2) Un altro dato sorprendente: la media è superiore ai 7 anni, a dimostrazione del fatto che questo hobby era già radicato tra gli appassionati, prima di conoscere il notevole boom degli ultimi 3 anni. Il limite massimo è di 30 anni: ma a cosa giocava questo pioniere, alla prima edizione di Tactics dell’Avalon Hill?
+
+3) La media è impressionante: 33 giochi a testa, con un massimo di 500 giochi. Chi si appassiona a questo hobby diventa quasi sempre un grande consumatore!
+
+4) Anche la media di ore settimanali è notevole: 7, praticamente un'ora al giorno. Il massimo è un poco credibile 80 ore (forse si è sbagliato a scrivere...)
+
+5) La percentuale è del 31 %, segno che ci sono ancora molte zone in cui è difficile trovare avversari. Riteniamo che anche questa percentuale sia destinata a scendere. I "lupi solitari totali” sono solo 52
+
+6) Rispondendo ad una curiosità che più volte ha colto i nostri lettori, indichiamo d'ora in poi, laddove siamo in grado di dare un giudizio meditato, le preferenze personali di chi vi scrive. Questo giudizio si trova alla fine di ogni singola classifica, dopo la sigla ”IGDG”. Alla domanda 6 era possibile dare risposte multiple.
+
+1) Wargames = 1030
+2) Role-playing = 792
+3) Giochi di società = 516
+4) Giochi su computer = 462
+5) Giochi tridimensionali = 332
+6) Giochi sportivi = 166
+IGDG Wargames
+
+Questo dimostra che coloro che rispondono al questionario appartengono soprattutto alla fascia più matura dei giocatori di simulazioni.
+
+7) Ancora una volta la traduzione dei giochi non costituisce un grosso problema per chi ci risponde: 308 giocatori dichiarano che non gli serve, 618 possono anche farne a meno e 500 la considerano indispensabile.
+
+8) Abbiamo assegnato 3 punti alla prima risposta, 2 alla seconda e una alla terza. Questo vale anche per il resto del questionario. Per la prima volta il fantasy supera la seconda guerra mondiale.
+
+1) Fantasy = 596
+2) Seconda guerra mondiale = 500
+3) Fantascienza = 380
+4) Napoleonico = 272
+5) Contemporaneo = 216
+6) Antichità = 208
+7) Medioevo e Rinascimento = 198
+8) Guerra civile americana = 88
+9) Giochi sportivi = 84
+10) Giochi di ambiente/finanziari = 68
+11) Prima guerra mondiale = 46
+12) Periodo coloniale = 24
+IGDG Seconda guerra mondiale
+
+9) Qui erano possibili 5 risposte. La concentrazione di voti dei patiti delle simulazioni decreta ancora una volta il successo dell’abbinata Avalon/Victory, che resiste all'attacco della TSR. Per il prossimo questionario prevediamo un forte aumento di GMT e WWP.
+
+1) Avalon Hill = 4006
+2) Victory Games = 1918
+3) TSR = 1850
+4) GDW = 1608
+5) Games Workshop = 1512
+6) SPI (vive ancora!!) = 1040
+7) Clash of Arms = 728
+8) Iron Crown Enterprise = 648
+9) West End Games = 536
+10) Fasa = 532
+11) Chaosium = 340
+12) Jackson Games = 328
+13) Milton Bradley = 294
+14) Editrice Giochi = 262
+15) World Wide Wargamer = 230
+IGDG Avalon/Victory (case famose)
+IGDG Clash of Arms, GMT, Gamers (case minori)
+
+10) Da questa domanda in poi indichiamo con un asterisco i giochi che risultano purtroppo fuori produzione. Molti giocatori e commercianti utilizzano questi dati per effettuare i loro acquisti e non vogliamo che perdano tempo per cercare nel catalogo giochi che non ci sono. Gioco più valido (considerati tutti i periodi):
+
+1) Civilization AVA = 92
+2) Talisman GW = 84
+3) Advanced Squad Leader AVA = 52
+4) World in Flames ADG = 38
+5) Ambush VIC = 34
+6) Civil War VIC = 32
+7) Squad Leader AVA = 30
+8) Battletech FAS = 22
+IGDG Empires in Arms AVA
+
+11) Migliore grafica
+
+1) Talisman GW = 98
+2) Les Batailles dans l’Age CLA = 64
+3) Advanced Squad Leader AVA = 42
+4) * Napoleon at Leipzig CLA = 36
+5) Vietnam VIC = 32
+6) Advanced Heroquest GW = 28
+7) * Shogun MIL = 26
+8) Axis & Allies MIL = 24
+IGDG L’Armèe du Nord CLA
+
+12) Miglior gioco antico:
+
+1) Imperium Romanum WES = 166
+2) Siege of Jerusalem AVA = 74
+3) * Caesar’s Legions AVA = 38
+4) * Caesar: Alesia AVA = 36
+5) Cannae IES = 32
+6) * Alexander GMT = 20
+IGDG SPQR GMT
+
+13) Miglior gioco medievale/rinascimentale:
+
+1) Cry Havoc EUR = 168
+2) Siege EUR = 42
+3) * Medieval Battles SPI = 38
+4) * Hastings S&T = 28
+IGDG Frederick the Great WWW
+(con qualche riserva)
+
+14) Miglior gioco napoleonico:
+
+1) Empires in Arms AVA = 108
+2) * Napoleon's Last Battles SPI = 84
+3) War & Peace AVA = 74
+4) * Napoleon at Leipzig CLA = 46
+5) Wellington's Victory SPI = 44
+6) * La Bataille de Eylau CLA = 34
+IGDG Empires in Arms AVA (strategico)
+IGDG La Bataille de Eylau CLA (tattico)
+
+15) Miglior gioco della guerra civile americana:
+
+1) Civil War VIC = 160
+2) Gettysburg AVA = 44
+3) * Terrible Swift Sword SPI = 26
+4) * A Gleam of Bayonets SPI = 20
+4) A House Divided GDW = 20
+IGDG Civil War VIC (strategico)
+IGDG A Gleam of Bayonets SPI (tattico)
+
+16) Miglior gioco della prima guerra mondiale:
+
+1) Blue Max GDW = 110
+2) * Guns of August AVA = 84
+3) * Jutland AVA = 30
+4) * Kaiser's Battle S&T = 16
+IGDG Ve lo diciamo l’anno prossimo (dopo aver visto Storm of Steel)
+
+17) Miglior gioco della seconda guerra mondiale:
+
+1) Squad Leader AVA = 126
+2) World in Flames ADG = 96
+3) Advanced Squad Leader AVA = 82
+4) Third Reich AVA = 66
+5) Ambush VIC = 58
+6) Flat Top AVA = 34
+7) Russian Campaign AVA = 28
+8) Panzer Leader AVA = 26
+IGDG Advanced Squad Leader AVA (tattico)
+IGDG Ambush VIC (solitario)
+IGDG Legend Begins RHI (strategico)
+IGDG* Wacht am Rhein SPI (operazionale)
+
+18) Miglior gioco contemporaneo:
+
+1) Vietnam VIC = 86
+2) Flight Leader AVA = 36
+3) Firepower AVA = 28
+4) Gulf Strike VIC = 26
+4) Sixth Fleet VIC = 26
+6) * Arab-Israeli Wars AVA = 22
+IGDG Vietnam VIC
+
+19) Miglior boardgame fantasy:
+
+1) Talisman GW = 266
+2) Heroquest MIL = 76
+3) Blood Bowl GW = 64
+4) Magic Realm AVA = 50
+5) Dungeonquest GW = 42
+6) Advanced Heroquest GW = 38
+IGDG Talisman GW
+
+20) Miglior boardgame di fantascienza:
+
+1) Battletech FAS = 64
+1) Starfleet Battles TAS = 64
+3) Starquest MIL = 46
+4) Space Hulk GW = 42
+5) * Freedom in the Galaxy AVA = 26
+6) Stellar Conquest AVA = 24
+
+21) Miglior RP fantasy:
+
+1) Dungeons & Dragons TSR/EG = 270
+2) Advanced Dungeons & D. TSR = 192
+3) Middle Earth R.P. ICE/STL = 132
+4) Rolemaster ICE = 54
+5) Warhammer Role-Play GW = 38
+6) Runequest AVA = 34
+7) Call of Cthulhu CHA/STL = 30
+8) G.U.R.P.S. JAC/IGDG/DAS = 24
+
+22) Miglior RP di fantascienza:
+
+1) Star Wars WES/STL = 64
+2) Cyberpunk TAL/STL = 44
+3) Shadowrun FAS = 32
+4) * Traveller GDW = 30
+5) GURPS Space JAC = 22
+5) * Megatraveller GDW = 22
+5) Paranoia WES = 22
+5) Twilight 2000 GDW = 22
+IGDG Impossible Things IGDG *
+
+* RP in preparazione, nel quale succede di tutto. L’Editrice Giochi traduce la Rules Cyclopedia; la Stratelibri inventa un fumetto sul golf e si dedica solo a quello, producendo un'espansione per ogni buca esistente al mondo; Strategy I della WWW arriva davvero a vendere un milione di copie; la convention nazionale si svolge a Pantelleria con ampia rappresentanza settentrionale; la rivista Rune diventa un quotidiano; la IES produce un gioco sul medio oriente con 240 pedine, una per fazione; la Ripa acquisisce i diritti esclusivi per la Ford e la Volkswagen; Sgarbi e Bossi si affrontano in una trasmissione di Ferrara senza insultarsi e con Pannella che non li interrompe; l’Italia dichiara guerra alla Somalia e la riconquista facendo scendere il dollaro a 625 lire, come ai bei tempi; in un paese polinesiano il prezzo della benzina diventa più caro che in Italia; un robot riesce a sostituire il titolare de I Giochi dei Grandi e a scrivere l’intero catalogo senza propinare queste fesserie e consentendo al medesimo di giocare per 6 mesi a Empires in Arms...).
+
+23) Miglior gioco di società:
+
+1) Civilization AVA = 164
+2) Risiko EG = 88
+3) Diplomacy AVA = 68
+4) Junta WES = 54
+5) Monopoli EG = 46
+6) Republic of Rome AVA = 44
+7) Trivial Pursuit MIL = 42
+8) Pax Britannica VIC = 28
+IGDG Republic of Rome AVA (storico)
+IGDG 1830 AVA (finanziario)
+
+24) Miglior gioco sportivo:
+
+1) Speed Circuit AVA = 74
+2) Statis Pro Football AVA = 24
+3) Statis Pro Basketball AVA = 22
+IGDG Speed Circuit AVA
+
+25) Miglior gioco per computer:
+
+1) Eye of the Beholder = 50
+2) Harpoon = 34
+3) Monkey Island 1 = 24
+3) Simcity = 24
+5) Ultima VI = 20
+IGDG Sid Maier's Civilization (mitico!)
+
+26) Miglior regolamento tridimensionale:
+
+1) Warhammer Fantasy Battle GW = 68
+2) Warhammer 40000 GW = 64
+3) Empire V EMP = 26
+4) Harpoon GDW = 20
+4) Space Marine GW = 20
+
+27) Migliore rivista:
+
+1) Rune (!!!) SIN = 182
+2) Strategy & Tactics DG = 174
+3) General AVA = 122
+4) Command XTR = 108
+5) Kaos GRA/NEX = 80
+6) White Dwarf GW = 76
+7) Dragon DRA/TSR = 54
+8) Dungeon TSR = 28
+IGDG Command XTR
+(ma con le pedine piccole!)
+
+28) Miglior casa produttrice di miniature:
+
+1) Citadel = 1006
+2) Ral-Partha = 540
+3) Grenadier = 330
+4) Mithril = 242
+5) Metal Magic = 160
+6) GHQ = 152
+IGDG Ral-Parta e Mithril (fantasy, ex-equo)
+IGDG GHQ (storiche)
+
+29) Le risposte sono state equamente distribuite: 380 giocatori hanno la fortuna di poter contare su un negozio ben fornito nelle vicinanze; 414 dichiarano che nella loro zona si trovano i giochi più importanti, mentre quelli meno conosciuti sono a richiesta; 308 trovano solo i giochi principali; 300 dichiarano di essere praticamente tagliati fuori.
+
+30) La domanda N° 30 chiedeva un giudizio sul problema delle traduzioni, viste le critiche che uno sventurato ex direttore di una rivista italiana ha avuto l’ardore di rivolgerci per il fatto che in molti casi noi realizziamo traduzioni da allegare al gioco, anzichè vere e proprie versioni italiane del gioco stesso (quale ditta sarebbe in grado di produrre centinaia di giochi in versione italiana?!). Le risposte hanno praticamente demolito questo attacco, portato da chi, evidentemente, non capisce nulla di marketing. Ben 866 persone hanno optato per la risposta "A" ("fate bene a tradurre tutto quello che potete, così la scelta è più ampia”); 502 hanno dato la risposta ”C” ("leggo tranquillamente i regolamenti in inglese, quindi fate quel che vi pare!”); solo 16 persone hanno scelto la risposta "B” (‘meglio un gioco nella versione italiana che 20 giochi tradotti!”). Notare che l’età media di questi 16 lettori è di anni 14,2, probabilmente vicina a quella dell’ex-direttore in questione.
+
+31) Questa domanda chiedeva di indicare, nell’ordine le 3 cose più utili per sostenere questo hobby. Le risposte sono state le seguenti:
+
+1) Maggior numero di raduni e tornei locali = 1780
+2) Maggior impegno da parte delle grosse case italiane = 1600
+3) Più riviste specializzate nel settore = 1530
+4) Maggior interesse da parte dei mass-media = 1514
+5) Il catalogo dei Giochi dei Grandi (grazie, grazie..) = 944
+6) Grandi conventions nazionali = 530
+
+32) La fatidica ultima domanda ha decretato un tripudio nel nostro magazzino quando il computer ha finito di elaborare i dati: al catalogo 1991-92 è stato assegnato un voto medio di 9.62!!!!! Il problema che ora ci poniamo è questo: come faremo a migliorarci ancora? Grazie a tutti i lettori.
+
+## CITADEL MINIATURES (CITA)
+
+Disponibilità = C
+
+Da anni la casa più conosciuta nel campo della produzione di miniature
+fantasy e di fantascienza. Si tratta pure della più venduta, anche se la Ral-
+Partha sta recuperando terreno. La Citadel rappresenta anche lo......spau-
+racchio di distributori, negozianti e clienti per quanto riguarda il sistema
+di codifica dei pezzi. Da sempre abbiamo avuto problemi pazzeschi per
+capirci qualcosa: miniature identiche venivano presentate con codici di-
+versi, miniature diverse avevano codici uguali, miniature identiche veni-
+vano presentate con 2 o anche 3 tipi di confezioni esterne diverse. Indub-
+biamente la Citadel vanta, oltre ad una indiscutibile qualità nella realizza-
+zione dei prodotti, anche una leadership mondiale per quanto riguarda il
+caos e l’arte del riciclaggio. Ora hanno scoperto che esistono i codici a
+barre e così hanno inziato una ennesima ricodifica dell'intero catalogo.
+Speriamo, ma non ci scommetteremmo una lira, che sia quella definitiva:
+non abbiamo mai perso tanto tempo per seguire una sola casa produttri-
+ce!! Valga in ogni caso un principio: esistono numerose miniature che, pur
+recando lo stesso codice e la medesima dicitura, all’interno sono diverse.
+Ad esempio, il blister 74141 (fantasy adventurers), contiene 5 personaggi
+che possono variare da confezione a confezione (in alcuni di questi bli-
+ster c’è addirittura un carretto con 3 personaggi!!). Quando viene richie-
+sto un codice non possiamo materialmente metterci a cercare quello che
+contiene “il nano con l’arco e la benda sull’occhio apparso sul numero
+148 della rivista White Dwarf”! In poche parole, per ordinare miniature Ci-
+tadel è indispensabile fornirci i codici elencati in questo catalogo, o sui
+listini che vengono periodicamente aggiornati dal distributore (la Ripa di
+Milano). Per evitare confusioni e crisi mistiche, d’ora in poi a tutti i nostri
+telefonisti è stato vietato di accettare ordini di miniature Citadel se non
+viene fornito il codice!
+
+Abbiamo deciso di eliminare dal catalogo le miniature che vengono pro-
+dotte dalla Citadel americana e che utilizzano un sistema di codifica più
+umano. Questo per il fatto che ora praticamente tutte le miniature prodot-
+te negli USA sono disponibili sul mercato europeo e oltretutto, a causa
+dell’aumento del dollaro, a prezzi molto migliori. Detto questo dobbiamo
+comunque ribadire che la qualità delle miniature Citadel è notevole e che
+le 3 serie di punta (Warhammer Fantasy, Warhammer 40.000 e Space Ma-
+rine) sono tra le più seguite in Italia.
+
+## AVALON HILL (AVA) ***
+
+Da sempre uno dei punti di riferimento più stabili in questo settore, in particolare per quanto rigurda la produzione di giochi di società,
+simulazioni e giochi sportivi. L'Avalon Hill negli ultimi anni ha rallentato la produzione dei wargames, lasciando in questo modo spazio
+ad altre case produttrici (alcune di recente costituzione). Non esiste tuttavia l'intenzione di cedere la leadership, tant'è vero che l’Ava-
+lon organizza da 3 anni una propria convention nazionale riservata esclusivamente alle simulazioni. Il grandissimo successo di Advan-
+ced Squad Leader costituisce un punto fermo per la casa di Baltimora, che deve gran parte del proprio successo alle energie profuse
+da Bob Mac Namara in questo progetto, come pure alla ineguagliabile abilità di Charlie Kybler (il disegnatore delle mappe). Il catalogo
+dell’Avalon è sempre uno dei più ricchi ed omogenei: per tutti coloro che si occupano di questo settore si tratta di una casa da tenere
+in alta considerazione.
+
+## EDITRICE GIOCHI (EG)
+
+Questa è la casa più importante in Italia per quanto riguarda la pubblicazione di giochi da tavolo. Nel nostro ambiente deve la sua
+fama soprattutto all’edizione italiana di Dungeons & Dragons, il gioco di ruolo più venduto nel mondo (dopo l’Advanced) e sicuramente
+il più conosciuto. Il nostro catalogo comprende ora alcuni giochi da tavolo di notevole diffusione. Molti (noi compresi) si sono spesso
+lamentati per la mancanza di continuità dell’EG nel supportare adeguatamente la distribuzione del D&D. La produzione dei moduli
+procede a rilento e con scelte che non sempre sembrano azzeccate. E’ ad esempio incredibile che prodotti interessanti, ma sicuramen-
+te non indispensabili, abbiano avuto la precedenza sulla Rules Cyclopedia, di cui non è nemmeno prevista una traduzione!!! Dobbiamo
+tuttavia riconoscere che senza la produzione italiana del D&D, iniziata molti anni fa, e senza la diffusione che l’Editrice Giochi è riuscita
+in ogni caso a garantire (anche senza troppi sforzi pubblicitari), l’espandersi di questo hobby sarebbe avvenuto con notevole ritardo.
+
+## I GIOCHI DEI GRANDI - DAS (IGDG)
+
+Diciamolo francamente, il nostro esordio nel campo della produzione, in collaborazione con gli amici della DAS di Firenze, voleva esse-
+re solo un tentativo di “assaggiare” la risposta del mercato. GURPS, pur godendo di ottima fama negli States, non è un titolo altisonan-
+te, come Il Signore degli Anelli, Guerre Stellari o Robotech. Siamo rimasti quindi sbalorditi nel constatare il grande successo di questa
+nostra iniziativa, che è stato superiore ad ogni più ottimistica previsione e che ci spinge ora a continuare in questa direzione. Un grazie
+particolare a chi ha curato la traduzione e l’editing di GURPS: le prime statistiche fornite dalla DAS sulla cartolina-questionario inclusa
+nel gioco indicano che i commenti espressi dai giocatori sono uniformi e vanno da "ottimo” a ”"eccezionale”.
+
+## NEXUS (NEX)
+
+A noi fa molto piacere che nuove forze scendano in campo nel mercato italiano (al contrario di altri gelosissimi custodi del monoteismo
+più smodato) e quindi abbiamo apprezzato la nascita della Nexus, che si è presentata con tutte le carte in regola per rafforzare la
+sua posizione. Dopo aver rilevato dalla Granata Press la rivista Kaos, è inziata la pubblicazione della versione italiana di interessanti
+giochi di ruolo e romanzi. Complimenti agli amici della Nexus e auguri!
+
+KAOS 13 (OTTOBRE 93): ............... L. 6000
+Questa rivista, precedentemente distribuita dalla Granata Press, si occupa dei giochi di ruolo e pubblica, oltre a
+recensioni, panoramiche, avventure e articoli in stile demenziale, anche dei validi fumetti fantasy. Kaos ha anche
+il merito di aver rotto la monotona visione monoteistica di ossequiosa riverenza nei confronti di quella che viene
+considerata, da invertebrati redattori, l'entità assoluta del settore (che discorso difficile....chi ha orecchie lo può
+intendere). Finalmente una rivista che mostra segni di indipendenza ed obiettività. Sarà vero ? Arretrati disponibili:
+dal 5 all’8 (L. 5000), dal 9 in poi (L. 6000)
+
+## TSR (TSR)
+
+La più grande produttrice mondiale del settore, la ditta che ha creato Dungeons & Dragons e il sistema Advanced Dungeons & Dragons
+(e questo dice tutto). La TSR è come il re Mida: ciò che produce si vende! Questo non significa che i designers americani si siano
+seduti sugli allori. | prodotti TSR sono sempre di elevata qualità e vengono pubblicati con rassicurante puntualità.
+
+SERIE ADVANCED DUNGEONS & DRAGONS (AD&D):
+
+è da sempre il RP più venduto nel mondo! Rispetto alla versione "basica”, che in Italia è decisamente più diffusa, l'’"avanzato”, come
+viene chiamato in gergo, rappresenta un sistema in un certo senso parallelo. Ci sono ovviamente delle similitudini tra i due giochi,
+ma AD&D è notevolemente più complesso e sofisticato, sia per quanto riguarda le classi dei personaggi e le loro caratteristiche, sia
+per i sistemi di combattimento (molto più dettagliati), il lancio degli incantesimi, le abilità speciali, ecc. In poche parole, l'’AD&D non
+rappresenta un’espansione di D&D, anche se una certa dimistichezza con la versione basica è di notevole aiuto per l'apprendimento
+di questo sistema di gioco, che come molti sanno ha subito una completa revisione nel 1989. AI fine di chiarire una volta per tutte
+ai profani come si compone il sistema di gioco, valgano le seguenti note. Per giocare è indispensabile possedere la guida del master
+(Dungeon Master’s Guide), il manuale del giocatore (Player's Handbook) e almeno il Monstrous Manual. Questi manuali verranno di-
+stribuiti in italiano a partire dal gennaio 1994 dalla Ripa. E' una buona idea quella di procurarsi anche un valido background per l’am-
+bientazione delle avventure: consigliamo di iniziare con il più diffuso, Forgotten Realms. Starà poi ai gusti del master sciegliere se
+acquistare le avventure, se prepararle da solo utilizzando la propria fantasia, o se passare ad altri tipi di ambientazione (come vedete
+la serie ne offre parecchi). Rif.: Armenia Editrice (AE), Edizioni E-Elle (EL), Mayfair (MAY), miniature Ral-Partha (RAL)
+

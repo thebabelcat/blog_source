@@ -1,4 +1,7 @@
 pelican
+mau
+mau-html-visitor
+-e /home/leo/devel/pelican-plugins/mau-reader
 markdown
 punch.py
 webassets
