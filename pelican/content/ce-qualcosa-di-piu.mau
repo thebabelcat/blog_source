@@ -1,0 +1,179 @@
+:pelican.title:C'è qualcosa di più(!?)
+:pelican.date:2023-12-29 08:00:00 +0100
+:pelican.category:Traduzioni
+:pelican.tags:traduzioni, gdr, d&d
+:pelican.authors:Leonardo Giordani
+:pelican.slug:ce-qualcosa-di-piu
+:pelican.summary:bubba
+
+A sette anni di distanza dal precedente articolo sul set Expert mi sono reso conto di non aver mai continuato questa piccola rassegna dei cimeli prodotti dalla TSR sotto la supervisione del grandissimo Frank Mentzer.
+
+Oggi tento di riparare alla mancanza con questo post sulla scatola Companion. Prometto che seguiranno anche il Master e l'Immortal, possibilmente non tra altri 7 anni.
+
+Con il Companion i giocatori accedono ai livelli superiori al quattordicesimo e cominciano ad affrontare creature decisamente più nefaste e problematiche più ampie della sola sopravvivenza o della missione attuale del gruppo.
+
+Questa situazione è ben rappresentata dalla sempre ottima illustrazione di copertina, dove Larry Elmore ci mostra un guerriero in armatura completa brandire uno spadone di dimensioni colossali contro un minaccioso drago verde che lo attacca dall'alto. Sullo sfondo intravediamo un castello che fa da guardia alla vallata.
+
+<< image:/images/ce-qualcosa-di-piu/page_01.jpg
+
+Il terzo set D&D, il Companion, si discosta dai precedenti due in quanto non presenta una prefazione "epica", ma una decisamente più analitica. Mentzer giustifica la necessità del terzo volume (su cui discuteremo più avanti), e ringrazia esplicitamente chi ha collaborato a creare il sistema parallelo utilizzato per gli scontri di massa. Il volume è dedicato a Brian Blume, figura di cui parleremo tra poco. È importante sottolineare che il Companion non fa parte propriamente di una revisione, in quanto si tratta della prima aggiunta corposa fatta al sistema di Dungeons and Dragons dall'edizione BECMI.
+
+Curiosamente, tale prefazione viene completamente sostituita nell'edizione italiana da un anonimo trafiletto intitolato "L'avventura continua", che viene usato per lanciare l'imminente uscita della collana _Atlanti_ (_Gazzetteer_), ma che contiene anche, a mio avviso, dei chiari echi dell'epicità trovata nei volumi predenti.
+
+Ma andiamo con ordine.
+
+La prefazione di Mentzer non è stata tradotta, quindi la riporterò qui in lingua originale e ne darò una traduzione personale.
+
+[quote]
+----
+Throughout the revisions of the BASIC and Expert Sets, and now in creating this one, my work has been guided by three simple rules. First, the game must be fun — else why play the game? Second, it must be playable. Many historically accurate details of medieval times are complex and disorganized — generally all too human to use in a game.
+
+Third, and perhaps most important of all, it must be true — true to the spirit of the Original D&D® game. That unique combination of fantasy wargaming and role playing spawned a new type of game, not merely new rules — a precious thing indeed.
+
+Few of today's players can remember the excitement of a decade ago, when "Tactical Studies Rules" was just a new name on a new game. The amazing ideas in those little brown boxes took the gaming world by surprise — and by storm.
+
+This box is larger, and is the third of a series. Comparing these to the Original, you might ask — why is all this necessary? And where did all this come from?
+
+The original ideas were both simple and complex. They were simple, giving the briefest instructions for various new concepts, but complex in their implications. To grab just one: if a cleric can create food and water, what does that do to famine...to siege warfare...indeed, to a whole fantasy world? Lacking time, space, and experience with the new game system, the designers left much for future development — and their future has now become our present. It's time.. .so here's the Companion Set.
+
+The names of the creators of the game are on these booklets; I'm proud that they also bear mine. Herein are many of the details found in the Original set and its Supplements; many others, now needed, are also included. I'm delighted to have the opportunity to add to the game.
+
+Many thanks to Garry Spiegle, Doug Niles, Mark Acres, and Carl Smith for development of the "War Machine" mass combat system included in this set. They merged years of experience in wargames with the current range of fantasy role playing styles. The resulting system can handle the clash of armies without miniatures or boardgames — and thus, the very roots of the D&D game surface once again.
+
+Thanks to Garry Spiegle for his development work on the Dominion system, and for his work on the previous two sets. His contributions have been numerous.
+
+This game is like a huge tree, grown from the seeds planted in 1972 and even earlier. But as a plant needs water and sun, so does a game need proper "backing" — a company to make it. As the saying goes, "for want of a nail, the war was lost"; and for want of a company, the D&D game might have been lost amidst the lean and turbulent years of the last decade. This set is therefore dedicated to an oft-neglected leader of TSR, Inc; who, with Gary Gygax, founded this company and made it grow. The D&D Companion Set is dedicated to BRIAN BLUME.
+----
+
+<< image:/images/ce-qualcosa-di-piu/page_06.jpg
+
+Mi si perdoni la resa spesso letterale della traduzione, ma non essendo questa una vera e propria pubblicazione preferisco non essere troppo fantasioso.
+
+[quote]
+----
+Nel revisionare i set Base ed Expert, e ora nel creare questo, il mio lavoro è stato guidato da tre semplici regole. In primo luogo il gioco deve essere divertente, altrimenti perché giocarci? Secondo, deve essere giocabile. Molti dettagli storicamente accurati del medioevo sono complessi e disorganizzati, generalmente troppo umani per essere usati in un gioco.
+
+Terzo, e forse il punto più importante di tutti, deve essere rispettoso dello spirito dell'originale Dungeons and Dragons. L'unione unica nel suo genere del wargame fantasy e del gioco di ruolo ha creato un nuovo tipo di gioco, non solo nuove regole. Una cosa certamente preziosa.
+
+Pochi giocatori odierni ricordano l'esaltazione di un decennio fa, quando la Tactical Studies Rules era solo un nuovo nome su un nuovo gioco. Le impressionanti idee contenute in quelle piccole scatole marroni sorprendettero il mondo, e scatenarono una tempesta.
+
+Questa scatola è più grande, ed è la terza di una serie. Confrontandola con il gioco originale ci si potrebbe domandare il perché sia necessaria e da dove provenga tutto questo.
+
+Le idee originali erano allo stesso tempo semplici e complesse. Erano semplici, perché davano istruzioni succinte per svariati nuovi concetti, ma complesse nelle loro implicazioni. Per citarne una: se un chierico può creare cibo e acqua, cosa succede alla carestia, agli assedi, e, in effetti, a tutto un mondo fantasy? Mancando di tempo, spazio ed esperienza con il nuovo sistema di gioco i progettisti hanno lasciato molto allo sviluppo futuro. E il loro futuro è ora diventato il nostro presente. È tempo, pertanto ecco il modulo Companion.
+
+I nomi dei creatori del gioco è stampato su questi libri; sono orgoglioso che ci sia anche il mio. Qui troverete molti dettagli reperibili già nelle regole originali e nei supplementi relativi; molte altre, ormai necessarie, sono state incluse. Sono deliziato di aver avuto la possibilità di contribuire al gioco.
+
+Ringrazio Garry Spiegle, Doug Niles, Mark Acres e Carl Smith per lo sviluppo di "War Machine", il sistema di combattimento di massa incluso in questo modulo. Essi hanno unito molti anni di esperienza nei wargame con lo stile attuale di gioco di ruolo e il sistema risultante può gestire scontri tra armate senza l'uso di miniature o giochi da tavolo. Questo, ancora una volta, fa affiorare le radici del sistema D&D.
+
+Grazie a Garry Spiegle per il lavoro fatto nello sviluppo del sistema Dominion e per il lavoro svolto su questo e sui precedenti due moduli. I suoi contributi sono stati numerosi.
+
+Questo gioco è come un enorme albero, cresciuto dai semi piantati nel 1972 e anche in precedenza. Ma, come una pianta ha bisogno di acqua e sole, anche un gioco ha bisogno di un adeguato supporto, un'azienda che lo sviluppa. Come dice il proverbio, "per la mancanza di un chiodo si è persa la guerra" (con il significato che dettagli spesso minuscoli possono avere effetti colossali, NdA), e per mancanza di un'azienda D&D si sarebbe potuto perdere nei magri e turbolenti anni dell'ultimo decennio. Questo modulo è dedicato ad un manager della TSR che, assieme a Gary Gygax, fondò la ditta e la fece crescere. Il D&D Companion è dedicato a BRIAN BLUME.
+----
+
+<< image:/images/ce-qualcosa-di-piu/page_07.jpg
+
+---
+
+Brian Blume è abbastanza noto per essere la terza colonna della TSR degli inizi, arrivato poco dopo che Gygax e Kaye fondarono la ditta a Lake Geneva. Fu il suo contributo monetario (2000 dollari dell'epoca, all'incirca 30000 dollari attuali) a permettere alla neonata azienda di stampare i primi manuali e di iniziare l'attività.
+
+In un ambito come quello del gioco è difficile ricordarsi che le aziende portano avanti un business, e Blume fa spesso la figura dello "squalo" che ha scalato la compagnia e allontanato Gygax. La storia è complessa, come sempre, e mi riservo di parlarne un'altra volta.
+
+Sicuramente la figura di Blume (assieme a padre e fratello) non ha garantito un'atmosfera di pace e cordialità nella nascente TSR. Ricordo anche che Gygax non fu un amministratore particolarmente brillante e che, tornato all'attacco, assunse Lorraine Williams, la quale poi gli diede il benservito, avendo comprato tutte le azioni in possesso dei Blume. Pace e cordialità, si diceva.
+
+Una nota positiva sulla gestione Blume tra il 1981 e il 1985: fu in quel periodo che la TSR diede alle stampe _Dragonlance_ (1984), il non perfetto ma importante _Marvel Super Heroes_ (1984), e la serie di libri _Endless Quest_ (1982). Per quanto riguarda questo articolo, l'edizione BECMI del D&D (1983) cade direttamente nel mezzo del periodo in cui Brian Blume era amministratore delegato della TSR.
+
+<< image:/images/ce-qualcosa-di-piu/page_12.jpg
+
+---
+
+Come dicevo, l'edizione italiana presenta un'introduzione molto differente, che riporto qui sotto.
+
+[quote]
+----
+*L’avventura continua*
+
+Siete ormai arrivati ai più alti livelli raggiungibili degli esseri umani e semi-umani, avete esplorato luoghi considerati inacessibili e scoperto segreti arcani che fino ad oggi erano stati tramandati solo nelle antiche leggende. Ora di fronte a voi si trovano nuovi misteri da risolvere, nuovi problemi. Siete diventati del nobili possessori di terre.
+
+Dovrete affrontare le invidie degli altri Signori, gli intrighi più diabolici, le guerre più sanguinose. Non è più sufficiente saper giostrare con la spada o lanciare potenti incantesimi, dovrete imparare ad essere bravi governanti, abili politici, astuti diplomati. Ma per fare tutto ciò dovete conoscere il mondo che vi circonda, le differenze fra gli stati e le razze, le antiche inimicizie e le giovani alleanze. Per questo motivo abbiamo pensato di produrre i moduli “L’Atlante”, una raccolta di tutte le informazioni che vi servono per poter espandere le vostre conoscenze sul mondo di D&D°. Ogni modulo è corredato con cartine a colori dei territori descritti, mappe delle città più importanti, note sulle forme di religione e sulla situazione politica, indicazione delle risorse economiche e cenni sulle usanze popolari. Uno strumento assolutamente necessario per rendere sempre più avvincenti e “reali” le vostre avventure nel mondo di D&D® e non solo per i personaggi di alto livello. Nei possibili moduli di avventura infatti, verranno fatti riferimento precisi alle informazioni contenute nell’Atlante e le cartine e le mappe potranno essere di grande aiuto anche per coloro che iniziano a giocare a D&D®, Siate pronti perchè i pericoli affrontati fino ad oggi potrebbero sembrarvi cosa di ben poco conto quando vi incotrerete con i più malvagi personaggi che popolano il mondo di D&D®!
+
+Non dimenticate il primo appuntamento con il “GRANDUCATO DI KARAMEIKOS”.
+----
+
+Come si vede qui c'è un tentativo di proporre una introduzione con un tono più adatto alle avventure leggendarie dei giocatori di D&D. Allo stesso tempo però il trafiletto sa chiaramente di annuncio pubblicitario, il che rovina, a mio parere l'effetto "epico".
+
+<< image:/images/ce-qualcosa-di-piu/page_25.jpg
+
+---
+
+Facendo eco alla prefazione di Mentzer, ho sempre ritenuto il Companion un esempio perfetto di quando un sistema di gioco oltrepassa la linea di quello per cui è stato creato e comincia a invadere un territorio non solo non familiare, ma anche non congeniale.
+
+Questa è una considerazione del tutto personale, e non ho problemi a comprendere chi invece ritenga utile o doveroso per il D&D espandersi a questi livelli, ma visto che questo è il mio blog esporrò le mie opinioni.
+
+Ritengo il D&D BECMI un sistema che funziona egregiamente, pur con i suoi limiti, per quanto riguarda la parte BE. I moduli CMI sono e saranno sempre scolpiti nel mio cuore, o almeno lo sarà il Companion, alla stregua del Basic e dell'Expert, in quanto non ho mai posseduto fisicamente i due moduli finali. Allo stesso tempo, però, ne vedo delle limitazioni enormi. A livello Companion i personaggi cominciano già ad essere delle "macchine da guerra" che, per essere impensieriti, devono affrontare mostri come beholder e draghi. E se non avete idea di cosa può fare un beholder andate a sbirciare sul manuale del master!
+
+Per carità, è sicuramente ancora interessante affrontare un'avventura con un gruppo di livello alto, ma le sfide devono essere di natura diversa dal combattimento che, normalmente, permea le avventure di D&D e dove il sistema in effetti ha molto da dare. Certamente non ha troppo senso entrare in un dungeon con due guerrieri, un ladro, un mago e un chierico tutti di livello superiore al ventesimo. A meno che il dungeon non sia la tana di 4-5 draghi, lich o vampiri, appunto, ma con mostri e personaggi di tale potere si sfocia velocemente nella battaglia "un colpo a te ed uno a me", che ricorda più un assedio che una battaglia corpo a corpo.
+
+Questo senza citare il piatto principale servito dal Companion, ovvero tutto quello che riguarda la gestione di un dominio medioevale, il castello, le armate, le tasse, oppure la ricerca magica, i manufatti, e quant'altro non ha a mio parere un vero sapore di avventura. Sicuramente temi interessanti, che non sfigurano in una simulazione, ma che sono decisamente adatte ad un gioco da tavolo e non ad un gioco di ruolo. Sicuramente non ad un gioco di ruolo che si chiama D&D.
+
+<< image:/images/ce-qualcosa-di-piu/page_30.jpg
+
+La prefazione italiana, parlando dei moduli atlante, dice: "Uno strumento assolutamente necessario per rendere sempre più avvincenti e “reali” le vostre avventure nel mondo di D&D® e non solo per i personaggi di alto livello." Concordo con quest'ultima nota! Anzi, direi che i fantastici atlanti sono proprio ciò che può rendere un campagna Expert una reale esperienza di immersione in un mondo complesso e ricco. Sicuramente mi affascina di più pensare al mio ladro di settimo livello che si aggira per le strade della capitale cercando di tirare a campare piuttosto che al mio guerriero di ventesimo livello seduto a discutere delle tasse con il Gran Duca Stefan Karameikos.
+
+Mi permetto un paragone azzardato, ma non troppo. Che differenza vedete tra la seguente introduzione
+
+[quote]
+----
+È un periodo di guerra civile. Navi spaziali Ribelli, colpendo da una base segreta, hanno ottenuto la loro prima vittoria contro il malvagio Impero Galattico.
+
+Durante la battaglia, spie Ribelli sono riuscite a rubare i piani segreti dell'arma decisiva dell'Impero, la MORTE NERA, una stazione spaziale corazzata di tale potenza da poter distruggere un intero pianeta.
+
+Inseguita dai biechi agenti dell'Impero, la Principessa Leila sfreccia verso casa a bordo della sua aeronave stellare, custode dei piani rubati che possono salvare il suo popolo e ridare la libertà alla galassia....
+----
+
+e quest'altra ?
+
+[quote]
+----
+Gravi tumulti hanno travolto la Galassia a causa della tassazione sulle rotte mercantili verso i sistemi stellari periferici. L'ingorda federazione dei mercanti, sperando di risolvere la questione, ha schierato micidiali astronavi da guerra per impedire tutte le spedizioni nel piccolo pianeta di Naboo.
+
+Mentre il Congresso della Repubblica discute senza sosta l'allarmante succedersi degli eventi, il Cancelliere Supremo ha inviato segretamente nella Galassia due Cavalieri Jedi, i guardiani della pace e della giustizia, per risolvere il conflitto.
+----
+
+Mi guardo bene dal mettere la scatola verde sullo stesso scaffale de "La Minaccia Fantasma", visto che non ho alcuno scaffale che ospiti tale orripilante prodotto in casa mia, ma l'effetto che mi fa leggere le regole per la gestione del mio dominio è un po' lo stesso. Il Companion, comunque, è sullo scaffale d'onore!
+
+<< image:/images/ce-qualcosa-di-piu/page_33.jpg
+
+---
+
+Chiudo questo articolo con un'altra piccola introduzione che si trova nella prima pagina del manuale del giocatore, questa volta sia nell'edizione originale che in quella italiana. Questa effettivamente sembra più in linea con quanto trovato nei due moduli precedenti!
+
+[quote]
+----
+This is the third boxed set of the DUNGEONS & DRAGONS® game series. The first, the D&D® Basic Set, introduced the game and explained rules for 1st-3rd level characters. In the D&D Expert Set, character levels 4-14 were detailed, along with notes on the fantasy world in which the characters live.
+
+If you started with a 1st level character, and have enjoyed the wilderness expansion of Expert level play, then you are ready for this set.
+
+You can also use this set if you'd like to discover what it's like to own a medieval castle. You can rule a land, bring civilization to the wilderness, and cope with all the threats to your territory, while facing monsters and magic of all kinds.
+
+Your adventures will be different than ever before. Lower level characters must keep busy surviving and learning; but when you find the challenges lacking, or treasure too easily found, you may start to wonder — "Is there anything more?"
+
+There certainly is. Read on!
+----
+
+Nella traduzione di Ingellis
+
+[quote]
+----
+Questa che state leggendo è la terza confezione della serie DUNGEONS & DRAGONS®. La prima, il D&D® Base, è un’introduzione di carattere generale e spiega come giocare con i personaggi fino al 3° livello d’esperienza. Nella seconda, il D&D° Expert sono trattati i personaggi dal 4° al 14° livello ed il fantastico mondo in cui vivono.
+
+Se siete stati introdotti al gioco con un personaggio di 1° livello, ed avete progredito, insieme ad
+esso, fino ai livelli più affascinanti descritti nel D&D® Expert, siete pronti per questa nuova espansione. Potete sperimentare che cosa si prova ad essere padroni di un castello medioevale. Potrete signoreggiare nel vostro feudo, diffondere la civiltà e proteggere le vostre terre da ogni genere di minaccia, affrontando ogni tipo di mostri e di magie.
+
+Le avventure saranno radicalmente diverse da quelle che avete giocato. Quando i personaggi appartenevano ai livelli più bassi, le uniche preoccupazioni erano sopravvivere ed imparare, ma quando non trovate più nessuno che osi sfidarvi o riuscite a conquistare tesori con estrema facilità, potete cominciare a chiedervi “c’è qualcosa di più?”
+
+Certo che c’è. Continuate a leggere.
+----
+
+Non farò le pulci alla traduzioni, è tutto a posto.
+
+Abbiamo in mano il D&D, e c'è come sempre qualcosa di nuovo da scoprire.
