@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block title %}{{ tag }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<section class="featured-posts">
+  <div class="section-title">
+    <h2><span><i class="fa fa-tag" aria-hidden="true"></i> Tag: {{ tag.name }}</span></h2>
+  </div>
+  
+  <div class="row">
+    <div class="card-columns listfeaturedtag">
+      
+      {% for article in articles | transpose %}
+      <!-- begin post -->
+      <div class="card">
+        <div class="row">
+	  <div class="col-md-5 wrapthumbnail">
+	    <a href="/{{ article.url }}">
+	      <div class="thumbnail" style="background-image:url('/images/{{ article.slug }}/thumb.jpg');"></div>
+	    </a>
+	  </div>
+	  <div class="col-md-7">
+	    <div class="card-block">
+              <span class="post-date"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+	      <h2 class="card-title"><a href="/{{ article.url }}">{{ article.title }}</a></h2>
+              {% if article.summary %}
+              <h4 class="card-text">{{ article.summary }}</h4>
+              {% endif %}
+	    </div>
+	  </div>
+        </div>
+      </div>
+      <!-- end post -->
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endblock %}
+

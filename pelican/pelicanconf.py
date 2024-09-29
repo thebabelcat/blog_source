@@ -42,7 +42,7 @@ SITEMAP = {
 
 DEFAULT_PAGINATION = 10
 
-THEME = "../webmag"
+THEME = "../mediumish"
 
 STATIC_PATHS = ["images"]
 
@@ -59,24 +59,28 @@ def articles_category(categories, category):
     return d[category]
 
 
+def select_category(articles, category):
+    return [i for i in articles if i.category == category]
+
+
+def take(iterable, num):
+    return iterable[:num]
+
+
+def transpose(iterable):
+    return iterable[::2] + iterable[1::2]
+
+
 JINJA_FILTERS = {
     "index_category": index_category,
     "articles_category": articles_category,
+    "select_category": select_category,
+    "take": take,
+    "transpose": transpose,
 }
 
 MAU = {
-    "custom_templates": {
-        "content_image.html": (
-            "<figure>"
-            '<img {% if alt_text %} alt="{{ alt_text }}"{% endif %} src="{{ uri }}">'
-            "<figcaption>{% if title %}{{ title }}{% endif %}</figcaption>"
-            "</figure>"
-        ),
-        "block-quote.html": (
-            "<blockquote>"
-            "{{ content }}"
-            "{% if secondary_content %}<cite>{{ secondary_content }}</cite>{% endif %}"
-            "</blockquote>"
-        ),
-    }
+    "visitor": {
+        "templates_directory": "../mau/templates",
+    },
 }

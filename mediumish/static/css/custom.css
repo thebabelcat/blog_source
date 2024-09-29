@@ -1,0 +1,60 @@
+figure {
+    margin-bottom: 20px;
+}
+
+figure img {
+    display: block;
+    margin: auto;
+    border: 2px solid black;
+    max-width: 500px;
+}
+
+figure figcaption {
+    margin-top: 5px;
+    text-align: center;
+    font-size: 80%;
+}
+
+div.toc ul {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
+
+div.toc ul ul {
+    margin-left: 1em
+}
+
+div.article-post h1, div.article-post h2, div.article-post h3, div.article-post h4, div.article-post h5, div.article-post h6 {
+    padding: 1em 0 0.5em;
+    font-family: Garamond;
+    font-weight: 700;
+}
+
+hr {
+    margin: 1.5em 7em;
+}
+
+div.aside-widget {
+    margin-bottom: 1em;
+}
+
+span.post-date {
+    font-size: 12px;
+}
+
+div.tag-cloud ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+div.tag-cloud ul li {
+    display: block;
+    /* font-size: 1.5rem; */
+    padding: 0.125rem 0.25rem;
+    text-decoration: none;
+    position: relative;
+}

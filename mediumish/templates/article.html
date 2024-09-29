@@ -1,0 +1,133 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row">
+
+  <!-- Begin Post -->
+  <div class="col-md-8 col-md-offset-2 col-xs-12">
+    <div class="mainheading">
+
+      <div class="category-widget">
+        <h3><a class="badge badge-primary" href="/{{ article.category.url}}">{{ article.category }}</a></h3>
+      </div>
+      
+      <h1 class="posttitle">{{ article.title }}</h1>
+
+      <!-- Begin Top Meta -->
+      <div class="row post-top-meta">
+	<div class="col-md-10">
+          <span class="post-date"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+
+          <!-- Begin Tags -->
+          <div class="after-post-tags">
+            <ul class="tags">
+              {% for tag in article.tags %}
+              <li><h4><a class="badge badge-success" href="/{{ tag.url }}">{{ tag.name }}</a></h4></li>
+              {% endfor %}
+            </ul>
+          </div>
+          <!-- End Tags -->
+
+	</div>
+      </div>
+      <!-- End Top Meta -->
+
+    </div>
+
+    <!-- Begin Featured Image -->
+    <figure>
+      <img class="featured-image img-fluid" src="/images/{{ article.slug }}/featured.jpg" alt="">
+    </figure>
+    <!-- End Featured Image -->
+
+    <!-- Begin Post Content -->
+    <div class="article-post"> <!-- 1 -->
+      {{ article.content }}
+    </div> <!-- 2 -->
+    <!-- End Post Content -->
+
+  </div>
+  <!-- End Post -->
+
+  <!-- Begin Fixed Left Share -->
+  <div class="col-md-4 col-xs-12">
+
+    <!-- Tags -->
+    <div class="aside-widget">
+      <div class="section-title">
+        <h2>Tags</h2>
+      </div>
+      <div class="category-widget">
+        <ul class="tags">
+          {% for tag in tags | map(attribute=0) %}
+          <li><h4><a class="badge badge-success" href="/{{ tag.url }}">{{ tag.name }}</a></h4></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    <!-- /Tags -->
+
+    <!-- ToC -->
+    <div class="aside-widget">
+      <div class="section-title">
+        <h2>Sommario</h2>
+      </div>
+      <div class="toc">
+        {{ article.metadata['mau']['toc'] }}
+      </div>
+    </div>
+    <!-- /ToC -->
+    
+  </div>
+  <!-- End Fixed Left Share -->
+
+</div>
+</div>
+<!-- End Article
+     ================================================== -->
+
+<div class="hideshare"></div>
+
+<!-- Begin Related
+     ================================================== -->
+<div class="graybg">
+  <div class="container">
+    <div class="section-title">
+      <h2><span>Articoli correlati</span></h2>
+    </div>
+
+    <div class="row listrecent listrelated">
+      
+      {% if article and article.related_posts %}
+      {% for article in article.related_posts[:3] %}
+
+      <!-- begin post -->
+      <div class="col-md-4">
+	<div class="card">
+	  <a href="post.html">
+	    <img class="img-fluid img-thumb" src="/images/{{ article.slug }}/thumb.jpg" alt="">
+	  </a>
+	  <div class="card-block">
+	    <h2 class="card-title"><a href="/{{ article.url }}">{{ article.title }}</a></h2>
+	    <div class="metafooter">
+	      <div class="wrapfooter">
+		<span class="author-meta">
+                  <span class="post-date"><time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></span>
+		</span>
+	      </div>
+	    </div>
+	  </div>
+	</div>
+      </div>
+      <!-- end post -->
+      
+      {% endfor %}
+      {% endif %}
+      
+    </div>
+  </div>
+</div>
+<!-- End Related Posts
+     ================================================== -->
+
+{% endblock %}

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="it-IT">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="/{{ THEME_STATIC_DIR }}/img/favicon.ico">
+
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/{{ THEME_STATIC_DIR }}/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom CSS -->
+    <link href="/{{ THEME_STATIC_DIR }}/css/custom.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="/{{ THEME_STATIC_DIR }}/css/mediumish.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- Begin Nav -->
+    <nav class="navbar navbar-toggleable-md navbar-light bg-white fixed-top mediumnavigation">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="container">
+
+	<!-- Begin Logo -->
+	<a class="navbar-brand" href="/index.html">
+	  <img src="/{{ THEME_STATIC_DIR }}/img/logo.png" alt="logo">
+	</a>
+	<!-- End Logo -->
+
+        <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+
+          <!-- Begin Menu -->
+	  <ul class="navbar-nav ml-auto">
+            {% for cat in categories | map(attribute=0) %}
+	    <li class="nav-item inactive">
+	      <a class="nav-link" href="/{{ cat.url }}">{{ cat.name }}</a>
+	    </li>
+            {% endfor %}
+	  </ul>
+	  <!-- End Menu -->
+
+        </div>
+      </div>
+    </nav>
+    <!-- End Nav -->
+
+    <div class="container">
+
+      {% block content %}{% endblock %}
+
+      <!-- Begin Footer -->
+      <div class="footer">
+	<p class="pull-left">
+	  Copyright &copy; 2017 Your Website Name
+	</p>
+	<p class="pull-right">
+	  Mediumish Theme by <a target="_blank" href="https://www.wowthemes.net">WowThemes.net</a>
+	</p>
+	<div class="clearfix">
+	</div>
+      </div>
+      <!-- End Footer -->
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Bootstrap core JavaScript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="/{{ THEME_STATIC_DIR }}/js/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="/{{ THEME_STATIC_DIR }}/js/bootstrap.min.js"></script>
+    <script src="/{{ THEME_STATIC_DIR }}/js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>
