@@ -6,7 +6,7 @@ AUTHOR = "Leonardo Giordani"
 SITENAME = "The Babel Cat"
 SITESUBTITLE = "Avventure di un povero gatto in un mondo multilingue"
 SITEURL = ""
-DEBUG = True
+# DEBUG = True
 
 PATH = "content"
 
@@ -21,6 +21,11 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+# Faster builds
+LOAD_CONTENT_CACHE = True
+CONTENT_CACHING_LAYER = "generator"
+CACHE_PATH = "cache"
 
 # Blogroll
 LINKS = (
