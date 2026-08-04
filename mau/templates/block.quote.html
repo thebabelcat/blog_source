@@ -1,4 +1,4 @@
 <blockquote>
-  {{ content }}
-  {% if secondary_content %}<cite>{{ secondary_content }}</cite>{% endif %}
+    {{ content }}
+    {% if labels.cite %}<footer><cite>{{ labels.cite }}</cite></footer>{% endif %}
 </blockquote>

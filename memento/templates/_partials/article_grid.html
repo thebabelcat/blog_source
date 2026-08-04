@@ -1,0 +1,7 @@
+{% set article_list = articles_page.object_list if articles_page else articles %}
+<div class="post-card-grid">
+    {% for article in article_list %}
+        {% include "_partials/post_card.html" %}
+    {% endfor %}
+</div>
+{% include "_partials/pagination.html" %}

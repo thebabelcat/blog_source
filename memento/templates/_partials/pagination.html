@@ -1,0 +1,23 @@
+{% if articles_paginator and articles_paginator.num_pages > 1 %}
+{% set first_page = articles_paginator.page(1) %}
+{% set last_page = articles_paginator.page(articles_paginator.num_pages) %}
+<nav aria-label="Paginazione articoli" class="mt-4">
+    <ul class="pagination justify-content-center">
+        <li class="page-item{% if not articles_page.has_previous() %} disabled{% endif %}">
+            <a class="page-link" href="{% if articles_page.has_previous() %}{{ SITEURL }}/{{ first_page.url }}{% else %}#{% endif %}" aria-label="Prima pagina">&laquo;</a>
+        </li>
+        <li class="page-item{% if not articles_page.has_previous() %} disabled{% endif %}">
+            <a class="page-link" href="{% if articles_page.has_previous() %}{{ SITEURL }}/{{ articles_previous_page.url }}{% else %}#{% endif %}" aria-label="Pagina precedente">&lsaquo;</a>
+        </li>
+        <li class="page-item active" aria-current="page">
+            <span class="page-link">{{ articles_page.number }} / {{ articles_paginator.num_pages }}</span>
+        </li>
+        <li class="page-item{% if not articles_page.has_next() %} disabled{% endif %}">
+            <a class="page-link" href="{% if articles_page.has_next() %}{{ SITEURL }}/{{ articles_next_page.url }}{% else %}#{% endif %}" aria-label="Pagina successiva">&rsaquo;</a>
+        </li>
+        <li class="page-item{% if not articles_page.has_next() %} disabled{% endif %}">
+            <a class="page-link" href="{% if articles_page.has_next() %}{{ SITEURL }}/{{ last_page.url }}{% else %}#{% endif %}" aria-label="Ultima pagina">&raquo;</a>
+        </li>
+    </ul>
+</nav>
+{% endif %}

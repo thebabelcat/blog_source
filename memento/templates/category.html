@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}{{ category }} &mdash; {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<header class="mb-4 border-bottom pb-2">
+    <p class="text-muted small mb-1 text-uppercase">Categoria</p>
+    <h1 class="mb-0">{{ category }}</h1>
+</header>
+
+{% include "_partials/article_grid.html" %}
+{% endblock %}

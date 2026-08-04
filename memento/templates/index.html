@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+
+{% block content %}
+<header class="mb-5 text-center">
+    <h1 class="display-5">{{ SITENAME }}</h1>
+    {% if SITESUBTITLE %}<p class="lead text-muted">{{ SITESUBTITLE }}</p>{% endif %}
+</header>
+
+{% for cat, cat_articles in categories %}
+<section class="mb-5">
+    <div class="d-flex align-items-baseline justify-content-between mb-3 border-bottom pb-2">
+        <h2 class="h3 mb-0">
+            <a href="{{ SITEURL }}/{{ cat.url }}" class="text-decoration-none text-reset">{{ cat }}</a>
+        </h2>
+        <span class="text-muted small">{{ cat_articles|length }} articoli</span>
+    </div>
+    <div class="post-card-grid">
+        {% for article in cat_articles|take(2) %}
+            {% include "_partials/post_card.html" %}
+        {% endfor %}
+    </div>
+    <div class="text-end mt-3">
+        <a href="{{ SITEURL }}/{{ cat.url }}" class="btn btn-outline-primary">Vedi tutti gli articoli in {{ cat }} &rarr;</a>
+    </div>
+</section>
+{% endfor %}
+{% endblock %}

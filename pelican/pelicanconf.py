@@ -46,8 +46,14 @@ SITEMAP = {
 }
 
 DEFAULT_PAGINATION = 10
+PAGINATED_TEMPLATES = {
+    "index": None,
+    "tag": None,
+    "category": None,
+    "author": None,
+}
 
-THEME = "../mediumish"
+THEME = "../memento"
 
 STATIC_PATHS = ["images"]
 
@@ -86,6 +92,8 @@ JINJA_FILTERS = {
 
 MAU = {
     "visitor": {
-        "templates_directory": "../mau/templates",
+        "templates": {
+            "paths": ["../mau/templates"],
+        },
     },
 }

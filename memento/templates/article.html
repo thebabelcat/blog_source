@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} &mdash; {{ SITENAME }}{% endblock %}
+
+{% block content %}
+<div class="article-layout">
+    <article class="article-main">
+        <header class="article-header mb-4">
+            <p class="article-eyebrow mb-1">
+                <a href="{{ SITEURL }}/{{ article.category.url }}" class="text-uppercase small text-decoration-none">{{ article.category }}</a>
+            </p>
+            <h1 class="article-title mb-2">{{ article.title }}</h1>
+            <p class="article-meta text-muted small mb-2">
+                <span>{{ article.locale_date }}</span>
+                {% if article.author %} &middot; <span>{{ article.author }}</span>{% endif %}
+            </p>
+            {% if article.tags %}
+            <ul class="article-tags list-unstyled">
+                {% for tag in article.tags %}
+                <li><a href="{{ SITEURL }}/{{ tag.url }}" class="article-tag">{{ tag }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endif %}
+        </header>
+
+        {% set featured_uri = SITEURL ~ '/images/' ~ article.slug ~ '/featured.jpg' %}
+        <figure class="article-featured mb-4">
+            <img src="{{ featured_uri }}" alt="{{ article.title }}">
+        </figure>
+
+        <div class="article-post">
+            {{ article.content }}
+        </div>
+    </article>
+
+    <aside class="article-sidebar">
+      {% if article.metadata.mau and article.metadata.mau.toc %}
+      <section class="sidebar-widget">
+        <h2 class="sidebar-heading">Sommario</h2>
+        <div class="sidebar-toc">
+          {{ article.metadata.mau.toc }}
+        </div>
+      </section>
+      {% endif %}
+      
+      {% if tags %}
+      <section class="sidebar-widget">
+        <h2 class="sidebar-heading">Tag cloud</h2>
+        <ul class="sidebar-tags list-unstyled">
+          {% for tag, _articles in tags %}
+          <li><a href="{{ SITEURL }}/{{ tag.url }}" class="sidebar-tag">{{ tag }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+    </aside>
+</div>
+{% endblock %}

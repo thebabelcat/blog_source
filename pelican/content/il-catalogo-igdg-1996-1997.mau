@@ -102,7 +102,7 @@ La percentuale è scesa al 29% e i "lupi solitari" totali sono solo 74, cioè il
 
 _Che tipi di giochi preferite? (A = wargames; B = role- playing; C = giochi di società; D = giochi sportivi; E = battaglie tridimensionali; F = giochi per computer). Sono possibili risposte multiple: in questo caso indicate più lettere, ma non più di 3._
 
-[*source]
+[@source]
 ----
 1) Wargames .................... 1370
 2) Giochi di ruolo ............. 1096
@@ -124,7 +124,7 @@ _Indicate, in ordine di preferenza, i 3 periodi storici, o argomenti preferiti (
 
 Abbiamo assegnato 3 punti alla prima risposta, 2 alla seconda e una alla terza. Dilaga il fantasy, sul quale si concentrano i voti di quasi tutti i giocatori di RP. Questa volta abbiamo avuto molte più risposte a questa domanda rispetto allo scorso questionario.
 
-[*source]
+[@source]
 ----
 1)  Fantasy ........................ 1022
 2)  Seconda guerra mondiale ......... 798
@@ -146,7 +146,7 @@ _Indicate, in ordine di preferenza, le 5 case produttrici di giochi che preferit
 
 Qui erano possibili 5 risposte e quindi abbiamo assegnato 5 punti alla prima, 4 alla seconda, ecc. L'Avalon Hill resiste solidamente al primo posto, mentre le ditte che hanno prodotto poco (GDW e Victory) perdono posizioni. Tra le nuove entrate dilaga, come era prevedibile, la GMT.
 
-[*source]
+[@source]
 ----
 1)  AvalonHill .............. 3626
 2)  TSR ..................... 2124
@@ -173,7 +173,7 @@ Da questa domanda in poi indichiamo con un asterisco i giochi che sono attualmen
 
 Gioco più apprezzato in assoluto:
 
-[*source]
+[@source]
 ----
 1)  Talisman (GW) ............ 92
 2)  Civilization (AVA) ....... 89
@@ -193,7 +193,7 @@ IGDG Empires in Arms (AVA)
 
 _Indicate il boardgame/wargame che avete più apprezzato per la veste grafica._
 
-[*source]
+[@source]
 ----
 1) Talisman (GW) 140
 2) Les Batailles dans l'Age (COA) ... 95
@@ -214,7 +214,7 @@ IGDG Los Arapiles (ST)
 
 _Indicate il miglior wargame da voi giocato sul periodo antico._
 
-[*source]
+[@source]
 ----
 1) SPOR(GMT) .................. 171
 2) * Imperium Romanum (WES) ... 124
@@ -229,7 +229,7 @@ IGDG SPQR (GMT)
 
 _Indicate il miglior wargame da voi giocato sul periodo medioevale._
 
-[*source]
+[@source]
 ----
 1) Cry Havoc (EUR) .... 224
 2) Siege (EUR) ......... 50
@@ -243,7 +243,7 @@ IGDG Lion of the North (GMT)
 
 _Indicate il miglior wargame da voi giocato sul periodo napoleonico._
 
-[*source]
+[@source]
 ----
 1) Empires in Arms (AVA) .......... 163
 2) Napoleon's Last Battles (DG) .... 74
@@ -261,7 +261,7 @@ IGDG *La Bataille d'Eylau (COA) (tattico)
 
 _Indicate il miglior wargame da voi giocato sulla guerra civile americana._
 
-[*source]
+[@source]
 ----
 1) Civil War(VIC) ................. 219
 2) Gettysburg (AVA) ................ 40
@@ -276,7 +276,7 @@ IGDG Three Days at Gettysburg (GMT) (tattico)
 
 _Indicate il miglior wargame da voi giocato sulla I guerra mondiale._
 
-[*source]
+[@source]
 ----
 1) * Blue Max (GDW) .......... 184
 2) * Guns of August (AVA) ..... 78
@@ -290,7 +290,7 @@ IGDG *The Great War in Europe (XTR)
 
 _Indicate il miglior wargame da voi giocato sulla II guerra mondiale._
 
-[*source]
+[@source]
 ----
 1) Squad Leader (AVA) ....... 132
 2) World in Flames (ADG) .... 117
@@ -311,7 +311,7 @@ IGDG Legend Begins (TER) (strategico)
 
 _Indicate il miglior wargame da voi giocato sul periodo contemporaneo (dal '45 ad oggi, fino agli scontri ipotetici)._
 
-[*source]
+[@source]
 ----
 1) Vietnam (VIC) 139
 2) Sixth Fleet (VIC) ....... 40
@@ -330,7 +330,7 @@ IGDG Vietnam (VIC)
 
 _Indicate il miglior boardgame fantasy da voi giocato._
 
-[*source]
+[@source]
 ----
 1) Talisman (GW) .............. 397
 2) * Heroquest (MIL) .......... 138
@@ -348,7 +348,7 @@ IGDG Talisman (GW)
 
 _Indicate il miglior boardgame di fantascienza da voi giocato._
 
-[*source]
+[@source]
 ----
 1) Battletech (FAS) ................ 177
 2) * Starquest (MIL) ............... 142
@@ -365,7 +365,7 @@ IGDG Battletech (FAS)
 
 _Indicate il miglior RP fantasy da voi giocato._
 
-[*source]
+[@source]
 ----
 1) Dungeons & Dragons (EG) ............... 308
 2) Advanced Dungeons & Dragons (TSR) ..... 278
@@ -384,7 +384,7 @@ IGDG No comment (per par condicio...)
 
 _Indicate il miglior RP di fantascienza da voi giocato._
 
-[*source]
+[@source]
 ----
 1) Cyberpunk (TAL/STL) ....... 210
 2) Star Wars (WES/STL) ....... 154
@@ -399,7 +399,7 @@ IGDG No comment (per par condico...)
 
 _Indicate il miglior gioco di società da voi giocato._
 
-[*source]
+[@source]
 ----
 1)  Civilization (AVA) ....... 249
 2)  Risiko (EG) .............. 220
@@ -420,7 +420,7 @@ IGDG Republic of Rome (AVA)
 
 _Indicate il miglior gioco sportivo da voi giocato._
 
-[*source]
+[@source]
 ----
 1) Speed Circuit (AVA) ........... 113
 2) * Statis pro Football (AVA) .... 31
@@ -433,7 +433,7 @@ IGDG Speed Circuit
 
 _Indicate il miglior gioco per computer da voi giocato._
 
-[*source]
+[@source]
 ----
 1) Sid Meier's Civilization ... 179
 2) Eye of the Beholder ......... 72
@@ -454,7 +454,7 @@ IGDG Sid Meier's Civilization
 
 _Indicate il miglior gioco tridimensionale da voi giocato (titolo del regolamento)._
 
-[*source]
+[@source]
 ----
 1) Warhammer Fantasy Battle (GW) ... 138
 2) Warhammer 40.000 (GW) ........... 126
@@ -469,7 +469,7 @@ IGDG Command Decision (GDW)
 
 _Indicate il nome della rivista che preferite._
 
-[*source]
+[@source]
 ----
 1) Kaos (NEX) ................ 320
 2) Strategy & Tactics (DG) ... 171
@@ -488,7 +488,7 @@ IGDG Command (XTR)
 
 _Indicate, in ordine di preferenza, le 3 case produttrici di miniature che preferite._
 
-[*source]
+[@source]
 ----
 1) Citadel ....... 1438
 2) Ral Partha ..... 800

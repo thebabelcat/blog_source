@@ -1,5 +1,7 @@
 #!/bin/bash
 
+./build-css.sh 
+
 cd pelican
 make publish
 cd ..

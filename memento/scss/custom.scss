@@ -1,0 +1,404 @@
+// memento — SCSS source. Compile to ../static/css/custom.css.
+// Bootstrap 5 is vendored as a pre-built stylesheet in
+// ../static/css/bootstrap.min.css and loaded before this file, so we
+// don't import it here — we only layer our own overrides on top.
+
+// ==== Breakpoints ===================================================
+// Three modes:
+//   compact   — below $breakpoint-medium
+//   medium    — from $breakpoint-medium up to (but not including) $breakpoint-expanded
+//   expanded  — from $breakpoint-expanded up
+$breakpoint-medium: 768px;    // Bootstrap md
+$breakpoint-expanded: 1200px; // Bootstrap xl
+
+// ==== Colours =======================================================
+// Neutrals — greys and near-blacks reused across the theme.
+$color-neutral-050: #f6f6f6;      // very light background (unused code block)
+$color-neutral-100: #eee;         // sidebar-tag background
+$color-neutral-150: #e5e5e5;      // subtle border (unused code block)
+$color-neutral-200: #ddd;         // divider under sidebar headings
+$color-neutral-300: #ccc;         // image borders inside article body
+$color-neutral-350: darkgrey;     // card border
+$color-neutral-400: #d0d0d0;      // card image slot background
+$color-neutral-500: #666;         // muted text (card meta, sidebar heading, etc.)
+$color-neutral-600: #555;         // blockquote text
+$color-neutral-800: #333;         // horizontal-rule colour
+$color-neutral-900: #222;         // main body text
+$color-neutral-white: #fff;       // card background
+
+// Brand / accent — the site's signature green plus a hover blue.
+$color-accent-primary:      #00ab6b;  // blockquote border, brand green
+$color-accent-primary-dark: #005c44;  // article link :hover
+$color-accent-primary-mid:  #007a5a;  // article link
+$color-accent-primary-alt:  #0ca464;  // ToC link
+$color-accent-highlight:    #36f2a3;  // sidebar-tag :hover background
+$color-accent-secondary:    #0c5da4;  // ToC link :hover
+
+// ==== Semantic aliases ==============================================
+// Card
+$card-bg:            $color-neutral-white;
+$card-border:        $color-neutral-350;
+$card-image-bg:      $color-neutral-400;
+$card-meta-color:    $color-neutral-500;
+
+// Article body
+$article-body-color: $color-neutral-900;
+$article-muted:      $color-neutral-500;
+$article-link:       $color-accent-primary-mid;
+$article-link-hover: $color-accent-primary-dark;
+$article-image-border: $color-neutral-300;
+
+// Blockquote
+$blockquote-border:  $color-accent-primary;
+$blockquote-color:   $color-neutral-600;
+
+// Sidebar
+$sidebar-divider:    $color-neutral-200;
+$sidebar-toc-link:       $color-accent-primary-alt;
+$sidebar-toc-link-hover: $color-accent-secondary;
+$sidebar-tag-bg:         $color-neutral-100;
+$sidebar-tag-bg-hover:   $color-accent-highlight;
+
+// Horizontal rule
+$hr-color:           $color-neutral-800;
+
+// Code / source (unused .code + .source-block)
+$code-bg:            $color-neutral-050;
+$code-border:        $color-neutral-150;
+
+// ==== Cards =========================================================
+
+// Card wireframe knobs
+$card-image-height-compact: 200px;   // image is horizontal, spans full card width
+$card-image-width-medium:   220px;   // image column width in medium/expanded
+$card-height-medium:    300px;   // ensures image is vertical in medium/expanded
+
+// Card typography — matches mediumish's inherited body font and sizes
+$card-font-family: var(--bs-font-sans-serif);
+$card-title-size:   1.1rem;   // ~17.6px
+$card-summary-size: 0.95rem;  // ~15.2px
+$card-date-size:    0.75rem;  // ~12px, tiny
+
+// ---- Grid ----------------------------------------------------------
+.post-card-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+
+    @media (min-width: $breakpoint-expanded) {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+// ---- Card ----------------------------------------------------------
+.post-card {
+    display: flex;
+    background: $card-bg;
+    font-family: $card-font-family;
+    overflow: hidden;
+    border: 1px solid $card-border;
+
+    // Compact: below medium
+    flex-direction: column;
+
+    // Medium and expanded: side-by-side
+    @media (min-width: $breakpoint-medium) {
+        flex-direction: row;
+        height: $card-height-medium;
+    }
+
+    .post-card-img {
+        overflow: hidden;
+        background-color: $card-image-bg;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            display: block;
+            height: 100%;
+            width: auto;
+            max-width: none;
+        }
+
+        // Compact: full width, fixed height (horizontal image area)
+        width: 100%;
+        height: $card-image-height-compact;
+
+        // Medium and expanded: fixed-width column, stretches to card height
+        @media (min-width: $breakpoint-medium) {
+            width: $card-image-width-medium;
+            height: auto;
+            flex: 0 0 $card-image-width-medium;
+        }
+    }
+
+    .post-card-body {
+        flex: 1 1 auto;
+        min-width: 0;
+        padding: 1rem;
+
+        // Compact: text centered
+        text-align: center;
+
+        // Medium and expanded: text left-aligned
+        @media (min-width: $breakpoint-medium) {
+            text-align: left;
+        }
+    }
+
+    .post-card-date {
+        font-size: $card-date-size;
+        color: $card-meta-color;
+        margin: 0 0 0.25rem;
+    }
+    .post-card-title {
+        font-size: $card-title-size;
+        margin: 0 0 0.5rem;
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+    }
+    .post-card-summary {
+        font-size: $card-summary-size;
+        color: $card-meta-color;
+        margin: 0;
+    }
+}
+
+// ==== Article page ==================================================
+
+$article-sidebar-width: 260px;
+$article-gap: 2rem;
+
+.article-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $article-gap;
+
+    @media (min-width: $breakpoint-medium) {
+        grid-template-columns: minmax(0, 1fr) $article-sidebar-width;
+    }
+}
+
+.article-main {
+    min-width: 0;
+
+    .article-eyebrow a {
+        color: $article-muted;
+        letter-spacing: 0.05em;
+    }
+
+    .article-title {
+        font-family: Georgia, "Times New Roman", serif;
+        font-weight: 700;
+        font-size: 2rem;
+        line-height: 1.2;
+
+        @media (min-width: $breakpoint-medium) {
+            font-size: 2.4rem;
+        }
+    }
+
+    .article-featured {
+        text-align: center;
+        margin: 0 0 1.5rem;
+    }
+    .article-featured img {
+        display: inline-block;
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        max-height: 600px;
+        border: 1px solid $article-image-border;
+    }
+
+    .article-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+        margin: 0 0 1rem;
+        padding: 0;
+    }
+    .article-tag {
+        display: inline-block;
+        padding: 0.25rem 0.6rem;
+        background: $sidebar-tag-bg;
+        color: $article-body-color;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        text-decoration: none;
+
+        &:hover { background: $sidebar-tag-bg-hover; }
+    }
+}
+
+.article-sidebar {
+    @media (min-width: $breakpoint-medium) {
+        position: sticky;
+        top: 1rem;
+        align-self: start;
+    }
+
+    .sidebar-widget + .sidebar-widget {
+        margin-top: 1.5rem;
+    }
+
+    .sidebar-heading {
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: $article-muted;
+        border-bottom: 1px solid $sidebar-divider;
+        padding-bottom: 0.35rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .sidebar-toc ul {
+        list-style: none;
+        padding-left: 0;
+        margin: 0;
+    }
+    .sidebar-toc ul ul {
+        padding-left: 1rem;
+    }
+    .sidebar-toc a {
+        color: $sidebar-toc-link;
+        text-decoration: none;
+        display: block;
+        padding: 0.15rem 0;
+
+        &:hover {
+            text-decoration: underline;
+            color: $sidebar-toc-link-hover;
+        }
+    }
+
+    .sidebar-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+        margin: 0;
+    }
+    .sidebar-tag {
+        display: inline-block;
+        padding: 0.25rem 0.6rem;
+        background: $sidebar-tag-bg;
+        color: $article-body-color;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        text-decoration: none;
+
+        &:hover { background: $sidebar-tag-bg-hover; }
+    }
+}
+
+.article-post {
+    color: $article-body-color;
+    line-height: 1.65;
+    font-size: 1.05rem;
+    margin-top: 3rem;
+
+    p { margin: 0 0 1rem; text-align: justify; hyphens: auto; }
+
+    h1, h2, h3, h4, h5, h6 {
+        font-family: Georgia, "Times New Roman", serif;
+        font-weight: 700;
+        margin: 2rem 0 1rem;
+        line-height: 1.25;
+    }
+    h2 { font-size: 1.7rem; }
+    h3 { font-size: 1.35rem; }
+    h4 { font-size: 1.15rem; }
+
+    a { color: $article-link; }
+    a:hover { color: $article-link-hover; }
+
+    blockquote {
+        border-left: 4px solid $blockquote-border;
+        padding: 0.25rem 1rem;
+        margin: 1.25rem 0;
+        color: $blockquote-color;
+        font-style: italic;
+
+        p:last-child { margin-bottom: 0; }
+    }
+
+    figure {
+        margin: 1.5rem 0;
+        text-align: center;
+
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            border: 1px solid $article-image-border;
+        }
+        figcaption {
+            font-size: 0.85rem;
+            color: $article-muted;
+            padding-top: 0.5rem;
+        }
+    }
+
+    // Fallback for Mau's default image include markup.
+    .imageblock {
+        text-align: center;
+        margin: 1.5rem 0;
+
+        img {
+            display: inline-block;
+            max-width: 100%;
+            height: auto;
+            max-height: 600px;
+            border: 1px solid $article-image-border;
+        }
+    }
+
+    .code, pre {
+        background: $code-bg;
+        border: 1px solid $code-border;
+        padding: 0.75rem 1rem;
+        overflow-x: auto;
+        font-size: 0.9rem;
+    }
+
+    .source-block {
+        background: var(--bs-tertiary-bg);
+        border: 1px solid var(--bs-border-color);
+        border-radius: var(--bs-border-radius);
+        margin: 1.5rem 0;
+        overflow: hidden;
+
+        .source-title {
+            background: var(--bs-secondary-bg);
+            border-bottom: 1px solid var(--bs-border-color);
+            padding: 0.4rem 0.9rem;
+            font-family: var(--bs-font-sans-serif);
+            font-size: 0.85rem;
+            color: $article-muted;
+        }
+
+        .source-content {
+            font-family: var(--bs-font-monospace);
+            font-size: 0.9rem;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0.9rem 1rem;
+            background: transparent;
+            border: 0;
+            overflow-x: auto;
+            white-space: pre;
+        }
+    }
+
+    hr {
+        margin: 2rem auto;
+        border: none;
+        border-top: 1px solid $hr-color;
+        max-width: 60%;
+    }
+}
